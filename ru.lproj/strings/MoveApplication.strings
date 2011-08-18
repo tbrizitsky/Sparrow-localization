@@ -1,24 +1,26 @@
+/*based on DaisyDisk's reference translation*/
+
 /* error text in dialog */
-"Could not move to Applications folder" = "Could not move to Applications folder";
+"Could not move to Applications folder" = "Не удается переместить в папку Программы";
 
 /* dialog: do not move button */
-"Do Not Move" = "Do Not Move";
+"Do Not Move" = "Не перемещать";
 
 /* description in the dialog box */
-"I can move myself to the Applications folder if you'd like." = "I can move myself to the Applications folder if you'd like.";
+"I can move myself to the Applications folder if you'd like." = "Если хотите, я могу переместиться в папку Программы";
 
 /* dialog: Move button */
-"Move to Applications Folder" = "Move to Applications Folder";
+"Move to Applications Folder" = "Переместиться в папку Программы";
 
 /* title of the dialog box */
-"Move to Applications folder in your Home folder?" = "Move to Applications folder in your Home folder?";
+"Move to Applications folder in your Home folder?" = "Переместиться в подпапку Программы вашей домашней папки?";
 
 /* title of dialog box */
-"Move to Applications folder?" = "Move to Applications folder?";
+"Move to Applications folder?" = "Переместиться в папку Программы??";
 
 /* description in the dialog box */
-"Note that this will require an administrator password." = "Note that this will require an administrator password.";
+"Note that this will require an administrator password." = "Прошу заметить, что потребуется пароль администратора.";
 
 /* description in the dialog box */
-"This will keep your Downloads folder uncluttered." = "This will keep your Downloads folder uncluttered.";
+"This will keep your Downloads folder uncluttered." = "Это уменьшит количество хлама в папке Загрузки.";
 

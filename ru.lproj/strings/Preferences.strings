@@ -107,7 +107,7 @@
 "Create" = "Создать";
 
 /* title of assistant window */
-"Custom SMTP for Alias" = "Custom SMTP for Alias";
+"Custom SMTP for Alias" = "Отдельный SMTP для альтернативного имени";
 
 /* account deletion confirmation. Delete button
    confirm alias deletion. Delete button
@@ -166,84 +166,84 @@
 "None" = "Нет";
 
 /* error description. */
-"Open Preferences > Facebook if you want to connect again." = "Open Preferences > Facebook if you want to connect again.";
+"Open Preferences > Facebook if you want to connect again." = "Откройте Настройки > Facebook, чтобы снова подключиться.";
 
 /* explain facebook new facebook profile picture
    explain the reason why it is great to use facebook */
-"Personalize your Inbox with your friend's Facebook profile pictures." = "Personalize your Inbox with your friend's Facebook profile pictures.";
+"Personalize your Inbox with your friend's Facebook profile pictures." = "Персонализируйте входящие сообщения при помощи фотографий друзей из Facebook.";
 
 /* Removing account in progress. %@ is the email address. */
-"Removing %@\\U2026" = "Removing %@…";
+"Removing %@\\U2026" = "Удаление %@…";
 
 /* restart needed. Restart Now button */
-"Restart Now" = "Restart Now";
+"Restart Now" = "Перезапустить";
 
 /* email/password assistant. Skip Checks button */
-"Skip Checks" = "Skip Checks";
+"Skip Checks" = "Пропустить проверку";
 
 /* error title. */
-"Sparrow has been disconnected from Facebook." = "Sparrow has been disconnected from Facebook.";
+"Sparrow has been disconnected from Facebook." = "Sparrow был отключен от  Facebook.";
 
 /* upgrade window: text contents of window */
-"Sparrow Lite is ad-supported.\nBuy the full version to remove ads\nand benefit of all the features." = "Sparrow Lite is ad-supported.\nBuy the full version to remove ads\nand benefit of all the features.";
+"Sparrow Lite is ad-supported.\nBuy the full version to remove ads\nand benefit of all the features." = "Sparrow Lite отображает рекламу.\nКупите полную версию, чтобы убрать ее и\nполучить доступ ко всем функциям.";
 
 /* explain facebook new facebook profile picture */
-"Sparrow now integrates Facebook's profile pictures" = "Sparrow now integrates Facebook's profile pictures";
+"Sparrow now integrates Facebook's profile pictures" = "Sparrow теперь использзует фотографии профилей Facebook";
 
 /* checkbox on/off post to facebook wall */
-"Tell your friends about Sparrow" = "Tell your friends about Sparrow";
+"Tell your friends about Sparrow" = "Скажи друзьям о Sparrow";
 
 /* license window: when the application is registered */
-"Thank you for registering Sparrow." = "Thank you for registering Sparrow.";
+"Thank you for registering Sparrow." = "Благодарим за регистрацию Sparrow.";
 
 /* restart needed. description in the dialog box. */
-"The application needs to be restarted to reflect this change." = "The application needs to be restarted to reflect this change.";
+"The application needs to be restarted to reflect this change." = "Для применения изменений необходимо перезапустить программу.";
 
 /* Assistant: error when no email has a bad syntax. */
-"The email you entered is not correct. Please check you typed it properly." = "The email you entered is not correct. Please check you typed it properly.";
+"The email you entered is not correct. Please check you typed it properly." = "Введен неверный адрес e-mail. Пожалуйста, убедитесь, что он набран без ошибок.";
 
 /* IMAP assistant: when no login has been entered.
    SMTP Assistant: when no login has been entered. */
-"The login has not been entered. Please enter your login." = "The login has not been entered. Please enter your login.";
+"The login has not been entered. Please enter your login." = "Логин не задан. Пожалуйста, введите логин.";
 
 /* error message when adding/modifying alias */
-"This alias already exists" = "This alias already exists";
+"This alias already exists" = "такое альтернативное имя уже существует";
 
 /* error message when adding/modifying alias */
-"This email already exists" = "This email already exists";
+"This email already exists" = "Такой e-mail уже существует";
 
 /* error message when adding/modifying alias */
-"This email is not valid" = "This email is not valid";
+"This email is not valid" = "Неверный e-mail";
 
 /* when folder/label name is not valid. */
-"This name cannot be used because it contains an invalid sequence of characters." = "This name cannot be used because it contains an invalid sequence of characters.";
+"This name cannot be used because it contains an invalid sequence of characters." = "Это имя нельзя использовать, т.к. оно содержит недопустимую последовательность символов.";
 
 /* account deletion confirmation. %@ is the email. description in the dialog box. */
-"This will permanently delete the set up of the account \"%@\"." = "This will permanently delete the set up of the account \"%@\".";
+"This will permanently delete the set up of the account \"%@\"." = "Произойдет необратимое удаление настроек учетной записи \"%@\".";
 
 /* confirm alias deletion. %@ is the email. description in the dialog box. */
-"This will permanently remove the alias from this account." = "This will permanently remove the alias from this account.";
+"This will permanently remove the alias from this account." = "Произойдет необратимое удаление альтернативного имени данной учетной записи.";
 
 /* when removing a folder from preferences, description in the dialog box */
-"This will permanently remove the folder from this account." = "This will permanently remove the folder from this account.";
+"This will permanently remove the folder from this account." = "Произойдет необратимое удаление папки.";
 
 /* when removing a label from preferences, description in the dialog box */
-"This will permanently remove the label from this account." = "This will permanently remove the label from this account.";
+"This will permanently remove the label from this account." = "Произойдет необратимое удаление метки.";
 
 /* HTML message when Growl was not installed. */
-"To show new email notifications, you should <a href=\"http://growl.info/\">install Growl</a>." = "To show new email notifications, you should <a href=\"http://growl.info/\">install Growl</a>.";
+"To show new email notifications, you should <a href=\"http://growl.info/\">install Growl</a>." = "Для отображения нотификации необходимо установить <a href=\"http://growl.info/\">Growl</a>.";
 
 /* upgrade window: title of the window (lite version) */
-"Upgrade" = "Upgrade";
+"Upgrade" = "Обновление";
 
 /* facebook wall: view button */
-"View" = "View";
+"View" = "Просмотреть";
 
 /* title of assistant window */
-"Welcome to Sparrow" = "Welcome to Sparrow";
+"Welcome to Sparrow" = Вас приветствует Sparrow";
 
 /* tell user he is now connected to facebook */
-"You have enabled Facebook profile pictures with Sparrow." = "You have enabled Facebook profile pictures with Sparrow.";
+"You have enabled Facebook profile pictures with Sparrow." = "Вы включили поддержку изображений профиля  Facebook в Sparrow.";
 
 /* explain that opportunity is given to the user to disconnect from facebook */
 "You have enabled Facebook profile pictures with Sparrow. Click here to disable and stop seeing profile pictures." = "You have enabled Facebook profile pictures with Sparrow. Click here to disable and stop seeing profile pictures.";

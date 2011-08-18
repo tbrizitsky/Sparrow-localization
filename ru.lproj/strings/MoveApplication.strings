@@ -1,0 +1,24 @@
+/* error text in dialog */
+"Could not move to Applications folder" = "Could not move to Applications folder";
+
+/* dialog: do not move button */
+"Do Not Move" = "Do Not Move";
+
+/* description in the dialog box */
+"I can move myself to the Applications folder if you'd like." = "I can move myself to the Applications folder if you'd like.";
+
+/* dialog: Move button */
+"Move to Applications Folder" = "Move to Applications Folder";
+
+/* title of the dialog box */
+"Move to Applications folder in your Home folder?" = "Move to Applications folder in your Home folder?";
+
+/* title of dialog box */
+"Move to Applications folder?" = "Move to Applications folder?";
+
+/* description in the dialog box */
+"Note that this will require an administrator password." = "Note that this will require an administrator password.";
+
+/* description in the dialog box */
+"This will keep your Downloads folder uncluttered." = "This will keep your Downloads folder uncluttered.";
+

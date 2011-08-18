@@ -1,0 +1,57 @@
+/* activity window: progress value, %g is the number of items remaining */
+"%g remaining" = "%g remaining";
+
+/* column header in activity window */
+"Account" = "Account";
+
+/* Activity: title of the window */
+"Activity" = "Activity";
+
+/* connection checker: check button */
+"Check" = "Check";
+
+/* connection checker: progress string */
+"Check in progress\\U2026" = "Check in progress…";
+
+/* connection checker: title of the window */
+"Connection Checker" = "Connection Checker";
+
+/* activity window: done in progress column */
+"done" = "done";
+
+/* connection checker: when connections all succeed */
+"Everything is ok." = "Everything is ok.";
+
+/* connection checker: Failed */
+"Failed" = "Failed";
+
+/* column header in activity window */
+"Folder" = "Folder";
+
+/* connection checker: label for IMAP server */
+"IMAP server:" = "IMAP server:";
+
+/* activity window: when no progress value is available */
+"in progress" = "in progress";
+
+/* connection checker: OK */
+"OK" = "OK";
+
+/* column header in activity window */
+"Operation" = "Operation";
+
+/* connection checker: when a connection failed */
+"Please check the name of the IMAP server and the name of the SMTP server are correct but it's likely that you are behind a firewall that won't allow IMAP or SMTP connections." = "Please check the name of the IMAP server and the name of the SMTP server are correct but it's likely that you are behind a firewall that won't allow IMAP or SMTP connections.";
+
+/* column header in activity window */
+"Progress" = "Progress";
+
+/* connection checker: column header */
+"Server" = "Server";
+
+/* connection checker: label for SMTP server */
+"SMTP server:" = "SMTP server:";
+
+/* connection checker: column header */
+"Status" = "Status";
+

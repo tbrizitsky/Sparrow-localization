@@ -1,0 +1,212 @@
+/* title of composer when subject has not been entered */
+"(No subject)" = "(No subject)";
+
+/* composer: tooltip */
+"Add Attachment" = "Add Attachment";
+
+/* Action description for undo menu item
+   tooltip for formatting bar */
+"Add Link" = "Add Link";
+
+/* menu item in contextual menu */
+"Add Link\\U2026" = "Add Link…";
+
+/* composer: error description/question, message has no subject */
+"Are you sure you want to send it?" = "Are you sure you want to send it?";
+
+/* Error message when attachment(s) cannot be added because it's too big: title of the dialog box. */
+"Attachments too large" = "Attachments too large";
+
+/* field name */
+"Bcc" = "Bcc";
+
+/* tooltip for formatting bar */
+"Bold" = "Bold";
+
+/* composer: list menu item: bullet */
+"Bullet" = "Bullet";
+
+/* Action description for undo menu item */
+"Bullet Point List" = "Bullet Point List";
+
+/* 'link to' dialog box: cancel button
+   Cancel button */
+"Cancel" = "Cancel";
+
+/* field name */
+"Cc" = "Cc";
+
+/* tooltip for formatting bar */
+"Center" = "Center";
+
+/* Action description for undo menu item */
+"Decrease Indent Level" = "Decrease Indent Level";
+
+/* composer: menu item: decrease quote */
+"Decrease Quote Level" = "Decrease Quote Level";
+
+/* needs to save: Discard button */
+"Discard" = "Discard";
+
+/* needs to save. title of the dialog box */
+"Do you want to save your email?" = "Do you want to save your email?";
+
+/* 'link to' dialog box: done button
+   composer: close search button */
+"Done" = "Done";
+
+/* error description. */
+"Drafts folder was not found and could not be created. This folder is required to get Sparrow to work properly." = "Drafts folder was not found and could not be created. This folder is required to get Sparrow to work properly.";
+
+/* field name */
+"From" = "From";
+
+/* subject of a forward of an empty message */
+"Fw:" = "Fw:";
+
+/* subject of the forward of a message, %@ is the original message subject */
+"Fw: %@" = "Fw: %@";
+
+/* composer: tooltip */
+"Hide Cc/Bcc" = "Hide Cc/Bcc";
+
+/* composer: menu item: increase quote */
+"Increase Quote Level" = "Increase Quote Level";
+
+/* tooltip for formatting bar */
+"Indent-LocFormattingBar" = "Indent";
+
+/* Action description for undo menu item */
+"Indent-LocUndo" = "Indent";
+
+/* Error details when the draft could not be loaded in the composer because an attachment needs to be fetched from the remote server. */
+"It contains an attachment that needs to be retrieved from the server. Please, connect to Internet to be able to edit the draft." = "It contains an attachment that needs to be retrieved from the server. Please, connect to Internet to be able to edit the draft.";
+
+/* tooltip for formatting bar */
+"Italic" = "Italic";
+
+/* tooltip for formatting bar */
+"Left Alignment" = "Left Alignment";
+
+/* 'link to' dialog box: label */
+"Link to:" = "Link to:";
+
+/* tooltip for formatting bar */
+"List" = "List";
+
+/* Placeholder for the message body when loading of the message is still in progress */
+"Loading\\U2026" = "Loading…";
+
+/* Action description for undo menu item. */
+"Make Plain Text" = "Make Plain Text";
+
+/* composer: title of the window */
+"New Message" = "New Message";
+
+/* composer: error title, when recipient is empty. */
+"No recipient was specified for this message" = "No recipient was specified for this message";
+
+/* composer: list menu item: none */
+"None" = "None";
+
+/* Action description for undo menu item
+   composer: list menu item: numbered */
+"Numbered List" = "Numbered List";
+
+/* composer: error description, when address is not valid. */
+"Please check you typed it properly." = "Please check you typed it properly.";
+
+/* error description. */
+"Please, activate all your folders in your Gmail settings (http://www.sparrowmailapp.com/faq-gmaillabels) for Sparrow to work properly." = "Please, activate all your folders in your Gmail settings (http://www.sparrowmailapp.com/faq-gmaillabels) for Sparrow to work properly.";
+
+/* composer: error description, when recipient is empty. */
+"Please, enter at least one recipient." = "Please, enter at least one recipient.";
+
+/* subject of a reply to an empty message */
+"Re:" = "Re:";
+
+/* subject of the reply to a message, %@ is the original message subject */
+"Re: %@" = "Re: %@";
+
+/* Action description for undo menu item */
+"Remove Bullet Point List" = "Remove Bullet Point List";
+
+/* Action description for undo menu item */
+"Remove Numbered List" = "Remove Numbered List";
+
+/* tooltip for formatting bar */
+"Right Alignment" = "Right Alignment";
+
+/* composer: top bar button
+   needs to save: Save button */
+"Save" = "Save";
+
+/* composer: top bar button */
+"Send" = "Send";
+
+/* composer: top bar button in case of reply and send and archive is enabled */
+"Send And Archive" = "Send And Archive";
+
+/* composer: error description/question, message has no subject, send anyway button */
+"Send anyway" = "Send anyway";
+
+/* Default signature for account. HTML format. */
+"Sent with <a href=\"http://www.sparrowmailapp.com/?sig\">Sparrow</a>" = "Sent with <a href=\"http://www.sparrowmailapp.com/?sig\">Sparrow</a>";
+
+/* Default signature, text version. */
+"Sent with Sparrow" = "Sent with Sparrow";
+
+/* composer: tooltip */
+"Show Cc/Bcc" = "Show Cc/Bcc";
+
+/* Action description for undo menu item when signature has been changed */
+"Signature" = "Signature";
+
+/* error title. */
+"Sparrow won't be able to send emails." = "Sparrow won't be able to send emails.";
+
+/* field name */
+"Subject" = "Subject";
+
+/* composer: tooltip, switch reply/reply all */
+"Switch to Reply" = "Switch to Reply";
+
+/* composer: tooltip, switch reply/reply all */
+"Switch to Reply All" = "Switch to Reply All";
+
+/* tooltip for formatting bar */
+"Text Color" = "Text Color";
+
+/* Error message when an attachment cannot be added because it's too big: description in dialog box. */
+"The attachment could not be added because it's too large. The total size of the message cannot exceed 25 megabytes." = "The attachment could not be added because it's too large. The total size of the message cannot exceed 25 megabytes.";
+
+/* Error message when the attachments (plural) cannot be added because it's too big: description in dialog box. */
+"The attachments could not be added because they are too large. The total size of the message cannot exceed 25 megabytes." = "The attachments could not be added because they are too large. The total size of the message cannot exceed 25 megabytes.";
+
+/* Error message when the draft could not be loaded in the composer because an attachment needs to be fetched from the remote server. */
+"The draft could not be loaded." = "The draft could not be loaded.";
+
+/* composer: error title, when address is not valid. %@ is the invalid address. */
+"The following address is not valid: \"%@\"" = "The following address is not valid: \"%@\"";
+
+/* when setting a link, error message when the typed URL is not valid */
+"The URL is not valid" = "The URL is not valid";
+
+/* composer: error title, message has no subject */
+"This message has no subject" = "This message has no subject";
+
+/* field name */
+"To" = "To";
+
+/* Action description for undo menu item */
+"Typing" = "Typing";
+
+/* tooltip for formatting bar */
+"Underline" = "Underline";
+
+/* needs to save. description in the dialog box. */
+"Your draft will be discarded if you don't save it." = "Your draft will be discarded if you don't save it.";
+
+/* Error message when the message could not be saved to remote draft: title of the dialog. */
+"Your message has been saved locally." = "Your message has been saved locally.";
+

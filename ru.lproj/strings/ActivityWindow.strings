@@ -1,57 +1,57 @@
 /* activity window: progress value, %g is the number of items remaining */
-"%g remaining" = "%g remaining";
+"%g remaining" = "Осталось %g";
 
 /* column header in activity window */
-"Account" = "Account";
+"Account" = "Учетная запись";
 
 /* Activity: title of the window */
-"Activity" = "Activity";
+"Activity" = "Активность";
 
 /* connection checker: check button */
-"Check" = "Check";
+"Check" = "Проверить";
 
 /* connection checker: progress string */
-"Check in progress\\U2026" = "Check in progress…";
+"Check in progress\\U2026" = "Идет проверка…";
 
 /* connection checker: title of the window */
-"Connection Checker" = "Connection Checker";
+"Connection Checker" = "Проверка соединения";
 
 /* activity window: done in progress column */
-"done" = "done";
+"done" = "готово";
 
 /* connection checker: when connections all succeed */
-"Everything is ok." = "Everything is ok.";
+"Everything is ok." = "Все в порядке.";
 
 /* connection checker: Failed */
-"Failed" = "Failed";
+"Failed" = "Ошибка";
 
 /* column header in activity window */
-"Folder" = "Folder";
+"Folder" = "Папка";
 
 /* connection checker: label for IMAP server */
-"IMAP server:" = "IMAP server:";
+"IMAP server:" = "Сервер IMAP:";
 
 /* activity window: when no progress value is available */
-"in progress" = "in progress";
+"in progress" = "работаю";
 
 /* connection checker: OK */
 "OK" = "OK";
 
 /* column header in activity window */
-"Operation" = "Operation";
+"Operation" = "Действие";
 
 /* connection checker: when a connection failed */
-"Please check the name of the IMAP server and the name of the SMTP server are correct but it's likely that you are behind a firewall that won't allow IMAP or SMTP connections." = "Please check the name of the IMAP server and the name of the SMTP server are correct but it's likely that you are behind a firewall that won't allow IMAP or SMTP connections.";
+"Please check the name of the IMAP server and the name of the SMTP server are correct but it's likely that you are behind a firewall that won't allow IMAP or SMTP connections." = "Пожалуйста, проверьте имена серверов IMAP и SMTP, а также настройки брандмауэра.";
 
 /* column header in activity window */
-"Progress" = "Progress";
+"Progress" = "Прогресс";
 
 /* connection checker: column header */
-"Server" = "Server";
+"Server" = "Сервер";
 
 /* connection checker: label for SMTP server */
-"SMTP server:" = "SMTP server:";
+"SMTP server:" = "Сервер SMTP:";
 
 /* connection checker: column header */
-"Status" = "Status";
+"Status" = "Состояние";
 

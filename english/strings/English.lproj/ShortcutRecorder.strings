@@ -1,0 +1,42 @@
+/* Hot Keys: Key Combo text for 'empty' combo */
+"(None)" = "(None)";
+
+/* displayed in the cell */
+"Click to record shortcut" = "Click to record shortcut";
+
+/* key modifier */
+"Command + " = "Command + ";
+
+/* key modifier */
+"Control + " = "Control + ";
+
+/* key modifier */
+"Option + " = "Option + ";
+
+/* numeric keypad key. %@ is the name of the key */
+"Pad %@" = "Pad %@";
+
+/* key modifier */
+"Shift + " = "Shift + ";
+
+/* No comment provided by engineer. */
+"Space" = "Space";
+
+/* error description */
+"The key combination %@ can't be used!" = "The key combination %@ can't be used!";
+
+/* error description */
+"The key combination \"%@\" can't be used because %@." = "The key combination \"%1$@\" can't be used because %2$@.";
+
+/* error description */
+"The key combination \"%@\" can't be used because it's already used by a system-wide keyboard shortcut. (If you really want to use this key combination, most shortcuts can be changed in the Keyboard & Mouse panel in System Preferences.)" = "The key combination \"%@\" can't be used because it's already used by a system-wide keyboard shortcut. (If you really want to use this key combination, most shortcuts can be changed in the Keyboard & Mouse panel in System Preferences.)";
+
+/* error description */
+"The key combination \"%@\" can't be used because it's already used by the menu item \"%@\"." = "The key combination \"%1$@\" can't be used because it's already used by the menu item \"%2$@\".";
+
+/* displayed in the cell */
+"Type shortcut" = "Type shortcut";
+
+/* displayed in the cell */
+"Use old shortcut" = "Use old shortcut";
+

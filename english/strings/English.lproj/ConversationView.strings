@@ -1,0 +1,218 @@
+/* field name followed by colon, for example 'To:'. %@ is the name of the field. */
+"%@:" = "%@:";
+
+/* placeholder for the conversation view when several conversations have been selected. %u is the number of selected conversations. */
+"%u conversations selected" = "%u conversations selected";
+
+/* when printing: below the subject, singular form, %u is the number of messages */
+"%u message" = "%u message";
+
+/* when printing: below the subject, plural form, %u is the number of messages */
+"%u messages" = "%u messages";
+
+/* placeholder when the conversation has no subject, title of the conversation window
+   text at top of the conversation view
+   when the message has no subject, placeholder for subject */
+"(no subject)" = "(no subject)";
+
+/* HTML notification text in conversation view. XXX-DON-T-LOCALIZE-SENDER is the name of the senders of the new messages. */
+"<span id=\"notificationButton\">New Message</span> from <span id=\"notificationBarSender\">XXX-DON-T-LOCALIZE-SENDER</span>" = "<span id=\"notificationButton\">New Message</span> from <span id=\"notificationBarSender\">XXX-DON-T-LOCALIZE-SENDER</span>";
+
+/* menu item in address menu */
+"Add as friend on Facebook" = "Add as friend on Facebook";
+
+/* For Gmail accounts, 'Add Label' in conversation view, top-right. */
+"Add Label" = "Add Label";
+
+/* menu item in address menu */
+"Add to Address Book" = "Add to Address Book";
+
+/* When an attachment could not be downloaded. %@ is the filename. description of the dialog box. */
+"Attachments of the message \"%@\" could not be downloaded. Please, retry later." = "Attachments of the message \"%@\" could not be downloaded. Please, retry later.";
+
+/* When an attachment with no name could not be downloaded. description of the dialog box. */
+"Attachments of the message with no subject could not be downloaded. Please, retry later." = "Attachments of the message with no subject could not be downloaded. Please, retry later.";
+
+/* In the reply message, header of the attachments. */
+"Attachments:" = "Attachments:";
+
+/* field name for forwarded messages in the composer
+   field name for message as attachment in conversation view
+   field name in message details */
+"Bcc" = "Bcc";
+
+/* Cancel */
+"Cancel" = "Cancel";
+
+/* field name for forwarded messages in the composer
+   field name for message as attachment in conversation view
+   field name in message details */
+"Cc" = "Cc";
+
+/* menu item in address menu */
+"Copy" = "Copy";
+
+/* field name for forwarded messages in the composer
+   field name for message as attachment in conversation view
+   field name in message details */
+"Date" = "Date";
+
+/* menu item in message menu */
+"Delete" = "Delete";
+
+/* menu item in conversation view, when a draft is opened */
+"Discard" = "Discard";
+
+/* conversation view: close search button */
+"Done" = "Done";
+
+/* When a message source could not be downloaded. title of the dialog box.
+   When an attachment could not be downloaded. title of the dialog box. */
+"Download failed" = "Download failed";
+
+/* conversation view: draft indication */
+"Draft" = "Draft";
+
+/* Forward button at bottom of the message
+   menu item in message menu */
+"Forward" = "Forward";
+
+/* header for forwarded messages in the composer */
+"Forwarded message:" = "Forwarded message:";
+
+/* field name for forwarded messages in the composer
+   field name for message as attachment in conversation view
+   From button for quickreply */
+"From" = "From";
+
+/* In conversation view, when quoted message is hidden, user will click on it to hide the quoted text. */
+"Hide quoted message" = "Hide quoted message";
+
+/* Important menu item for priority inbox. */
+"Important" = "Important";
+
+/* display string for invalid email address */
+"invalid address" = "invalid address";
+
+/* Shown in the conversation view, placeholder for the message contents when loading is in progress. */
+"Loading\\U2026" = "Loading…";
+
+/* Warning message when the quick reply is empty. description in dialog box. */
+"Make sure your reply is not empty before sending your email." = "Make sure your reply is not empty before sending your email.";
+
+/* menu item in message menu */
+"Mark as Read" = "Mark as Read";
+
+/* menu item in message menu */
+"Mark as Spam" = "Mark as Spam";
+
+/* menu item in message menu */
+"Mark as Unread" = "Mark as Unread";
+
+/* displayed when this is my email address in case this is the recipient */
+"me-LocRecipient" = "me";
+
+/* displayed when this is my email address in case this is the sender */
+"me-LocSender" = "me";
+
+/* Warning message when the quick reply is empty. title of the dialog box. */
+"Message is empty" = "Message is empty";
+
+/* For non-Gmail accounts, 'Move To' in conversation view, top-right */
+"Move To" = "Move To";
+
+/* menu item in address menu */
+"New Message" = "New Message";
+
+/* placeholder for the conversation view when no conversation has been selected */
+"No conversation selected" = "No conversation selected";
+
+/* menu item in message menu */
+"Not Spam" = "Not Spam";
+
+/* Header of the reply message. */
+"On %@ at %@, %@ wrote:" = "On %1$@ at %2$@, %3$@ wrote:";
+
+/* menu item in address menu */
+"Open in Address Book" = "Open in Address Book";
+
+/* menu item in message menu */
+"Print" = "Print";
+
+/* menu item in message menu
+   Reply button at bottom of the message */
+"Reply" = "Reply";
+
+/* menu item in message menu
+   Reply All button at bottom of the message */
+"Reply All" = "Reply All";
+
+/* field name for forwarded messages in the composer
+   field name for message as attachment in conversation view
+   field name in message details */
+"Reply To" = "Reply To";
+
+/* menu item in attachment menu */
+"Reveal in Finder" = "Reveal in Finder";
+
+/* menu item in message menu
+   Save all attachments button at bottom of the message */
+"Save All Attachments" = "Save All Attachments";
+
+/* menu item in attachment menu
+   menu item in message menu
+   Save attachment button at bottom of the message */
+"Save Attachment" = "Save Attachment";
+
+/* menu item in attachment menu
+   menu item in message menu */
+"Save Attachment As\\U2026" = "Save Attachment As…";
+
+/* Send button for quickreply */
+"Send" = "Send";
+
+/* 'Sending' label in quick reply when the sending is in progress */
+"Sending\\U2026" = "Sending…";
+
+/* 'Sent' label in quick reply when the message has been sent */
+"Sent" = "Sent";
+
+/* In conversation view, when quoted message is hidden, user will click on it to show the quoted text. */
+"Show quoted message" = "Show quoted message";
+
+/* field name for forwarded messages in the composer
+   field name for message as attachment in conversation view
+   field name in message details */
+"Subject" = "Subject";
+
+/* When an attachment could not be downloaded. %@ is the filename. description of the dialog box. */
+"The attachment \"%@\" could not be downloaded. Please, retry later." = "The attachment \"%@\" could not be downloaded. Please, retry later.";
+
+/* When an attachment with no name could not be downloaded. description of the dialog box. */
+"The attachment could not be downloaded. Please, retry later." = "The attachment could not be downloaded. Please, retry later.";
+
+/* Shown in the conversation view, placeholder for the message contents when it has not been loaded or could not be loaded. */
+"The content of the message has not been downloaded yet." = "The content of the message has not been downloaded yet.";
+
+/* field name for forwarded messages in the composer
+   field name for message as attachment in conversation view
+   field name for recipient of quick reply
+   field name in message details */
+"To" = "To";
+
+/* recipient at the top of the message cell in the conversation view. */
+"to %@" = "to %@";
+
+/* conversation view: undisclosed recipient */
+"undisclosed recipient" = "undisclosed recipient";
+
+/* default filename when the attachment has been opened from the conversation view
+   default filename when the attachment has no filename when drag&dropping the attachment from the conversation view */
+"Untitled" = "Untitled";
+
+/* menu item in message menu */
+"View Source" = "View Source";
+
+/* short date or time string, used in message cell */
+"Yesterday" = "Yesterday";
+

@@ -243,29 +243,29 @@
 "Welcome to Sparrow" = Вас приветствует Sparrow";
 
 /* tell user he is now connected to facebook */
-"You have enabled Facebook profile pictures with Sparrow." = "Вы включили поддержку изображений профиля  Facebook в Sparrow.";
+"You have enabled Facebook profile pictures with Sparrow." = "Вы включили поддержку изображений из профилей Facebook в Sparrow.";
 
 /* explain that opportunity is given to the user to disconnect from facebook */
-"You have enabled Facebook profile pictures with Sparrow. Click here to disable and stop seeing profile pictures." = "You have enabled Facebook profile pictures with Sparrow. Click here to disable and stop seeing profile pictures.";
+"You have enabled Facebook profile pictures with Sparrow. Click here to disable and stop seeing profile pictures." = "Вы включили поддержку изображений из профилей Facebook в Sparrow. Если вы не желаете больше видеть изображения контактов, кликните здесь для отключения.";
 
 /* Assistant: error when no email has been entered. */
-"Your email has not been entered. Please enter your email address." = "Your email has not been entered. Please enter your email address.";
+"Your email has not been entered. Please enter your email address." = "Вы не задали e-mail. Пожалуйста, введите его.";
 
 /* IMAP assistant: when no hostname has been entered. */
-"Your IMAP server name has not been entered. Please enter the name of the server." = "Your IMAP server name has not been entered. Please enter the name of the server.";
+"Your IMAP server name has not been entered. Please enter the name of the server." = "Вы не задали имя сервера IMAP. Пожалуйста, введите его.";
 
 /* password not entered for receiving server. */
-"Your password for the receiving server has not been entered. Please enter the password." = "Your password for the receiving server has not been entered. Please enter the password.";
+"Your password for the receiving server has not been entered. Please enter the password." = "Вы не задали пароль доступа к серверу получения сообщений. Пожалуйста, введите его.";
 
 /* password not entered for sending server. */
-"Your password for the sending server has not been entered. Please enter the password." = "Your password for the sending server has not been entered. Please enter the password.";
+"Your password for the sending server has not been entered. Please enter the password." = "Вы не задали пароль доступа к серверу отправки сообщений. Пожалуйста, введите его";
 
 /* Assistant: when the password has not been entered.
    IMAP assistant: when no password has been entered.
    password not entered (for non generic imap).
    SMTP Assistant: when no password has been entered. */
-"Your password has not been entered. Please enter your account password." = "Your password has not been entered. Please enter your account password.";
+"Your password has not been entered. Please enter your account password." = "Вы не задали пароли. Пожалуйста, введите их.";
 
 /* SMTP Assistant: when no hostname has been entered. */
-"Your SMTP server name has not been entered. Please enter the name of the server." = "Your SMTP server name has not been entered. Please enter the name of the server.";
+"Your SMTP server name has not been entered. Please enter the name of the server." = "Вы не задали имя сервера SMTP. Пожалуйста, введите его.";
 

@@ -14,7 +14,7 @@
 "Option + " = "⌥";
 
 /* numeric keypad key. %@ is the name of the key */
-"Pad %@" = "Pad %@";
+"Pad %@" = "Доп. %@";
 
 /* key modifier */
 "Shift + " = "⇧";

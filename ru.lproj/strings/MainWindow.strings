@@ -12,76 +12,76 @@
 "%@: %@ (%@)" = "%1$@: %2$@ (%3$@)";
 
 /* contents of growl notification when there are several messages to notify, %u is the number of new messages */
-"%u new messages" = "%u new messages";
+"%u new messages" = "%u новых сообщений";
 
 /* placeholder when the attachment has no name in the generated preview of the message */
-"(no name)" = "(no name)";
+"(no name)" = "(без имени)";
 
 /* in the message cell, when there is no recipient */
-"(No recipient)" = "(No recipient)";
+"(No recipient)" = "(Без получателя)";
 
 /* growl notification: placeholder the message has no subject
    placeholder for message with no subject in message cell
    placeholder for the message when it has no subject. will be used for the filename
    placeholder of the message in activity when it has no subject */
-"(no subject)" = "(no subject)";
+"(no subject)" = "(Без темы)";
 
 /* when folder is not found. error message in case other case. description in the dialog box. %@ is the name of the folder. */
-"\"%@\" folder was not found and could not be created. This folder is required to get Sparrow to work properly." = "\"%@\" folder was not found and could not be created. This folder is required to get Sparrow to work properly.";
+"\"%@\" folder was not found and could not be created. This folder is required to get Sparrow to work properly." = "Папка \"%@\" не найдена и не может быть создана. Эта папка требуется для корректной работы Sparrow.";
 
 /* when the preview is truncated in pasteboard */
 "\\U2026" = "…";
 
 /* error description. */
-"A message could not be retrieved. It must have disappeared. Please refresh." = "A message could not be retrieved. It must have disappeared. Please refresh.";
+"A message could not be retrieved. It must have disappeared. Please refresh." = "Не удается получить сообщение. Оно исчезло. Пожалуйста, обновите.";
 
 /* A new version is available. title of the dialog box. */
-"A new version of %@ is available" = "A new version of %@ is available";
+"A new version of %@ is available" = "Доступна новая версия %@";
 
 /* error description (generic imap). */
-"A secure connection is not available on the mail server." = "A secure connection is not available on the mail server.";
+"A secure connection is not available on the mail server." = "Безопасное соединение недоступно на данном сервере.";
 
 /* fonts broken on the system. description of the dialog box. */
-"A system font is missing. Make sure to restore your default Mac OS X fonts." = "A system font is missing. Make sure to restore your default Mac OS X fonts.";
+"A system font is missing. Make sure to restore your default Mac OS X fonts." = "Отсутствует системный шрифт. Восстановите шрифты Mac OS X по умолчанию.";
 
 /* search bar */
-"All" = "All";
+"All" = "Все";
 
 /* All Mail menu item (for gmail), in labels menu
    All Mail menu item in popup menu, in labels menu
    tooltip for All Mail */
-"All Mail" = "All Mail";
+"All Mail" = "Все письма";
 
 /* error description. */
-"An unexpected error occurred on the server. Please, retry later." = "An unexpected error occurred on the server. Please, retry later.";
+"An unexpected error occurred on the server. Please, retry later." = "На сервере произошла неожиданная ошибка. Пожалуйта, повторите попытку позднее.";
 
 /* error description (for gmail). */
-"An unexpected error occurred when communicating with Gmail servers. Please, report a bug." = "An unexpected error occurred when communicating with Gmail servers. Please, report a bug.";
+"An unexpected error occurred when communicating with Gmail servers. Please, report a bug." = "При соединении с серверами Gmail произошла неожиданная ошабка. Пожалуйста, сообщите о ней.";
 
 /* error description (generic imap). */
-"An unexpected error occurred when communicating with the servers. Please, report a bug." = "An unexpected error occurred when communicating with the servers. Please, report a bug.";
+"An unexpected error occurred when communicating with the servers. Please, report a bug." = "При соединении с серверами произошла неожиданная ошибка. Пожалуйста, сообщите о ней.";
 
 /* Description of the dialog box: Leopard double update message. */
-"Another update is needed.\nYou will be automatically redirected to the update panel." = "Another update is needed.\nYou will be automatically redirected to the update panel.";
+"Another update is needed.\nYou will be automatically redirected to the update panel." = "Требуется еще одно обновление.\nВас автоматически перенаправят на панель Обновление ПО.";
 
 /* Archive menu item (generic imap), in labels menu
    Archive menu item in popup menu, in labels menu
    label of the archive toolbar button
    tooltip for Archive category
    tooltip of the archive toolbar button */
-"Archive" = "Archive";
+"Archive" = "Архивировать";
 
 /* Archive and Label menu item
    Archive and Label menu item (as title of the menu)
    Archive and Label menu item (for gmail)
    conversation list: menu item */
-"Archive and Label" = "Archive and Label";
+"Archive and Label" = "Архивировать и установить метку";
 
 /* tooltip for Archive category */
-"Archive-LocSidebar" = "Archive";
+"Archive-LocSidebar" = "Архив";
 
 /* when pressing on the empty trash button from trash bar, title */
-"Are you sure you want to permanently erase the messages in the Trash?" = "Are you sure you want to permanently erase the messages in the Trash?";
+"Are you sure you want to permanently erase the messages in the Trash?" = "Вы действительно хотите безвозвратно удалить сообщения в Корзине?";
 
 /* Attachments of the message could not be downloaded. description in the dialog box. %@ is the subject of the message. */
 "Attachments of the message \"%@\" could not be downloaded. Please, retry later." = "Attachments of the message \"%@\" could not be downloaded. Please, retry later.";
@@ -90,22 +90,22 @@
 "Attachments of the message with no subject could not be downloaded. Please, retry later." = "Attachments of the message with no subject could not be downloaded. Please, retry later.";
 
 /* when emptying the trash: Cancel button */
-"Cancel" = "Cancel";
+"Cancel" = "Отменить";
 
 /* database could not be created. title of dialog box. */
-"Cannot create Message Database" = "Cannot create Message Database";
+"Cannot create Message Database" = "Не удается создать базу данных писем";
 
 /* syncing description progress */
-"Checking for mail" = "Checking for mail";
+"Checking for mail" = "Проверка почты";
 
 /* label of the compose toolbar button */
-"Compose" = "Compose";
+"Compose" = "Написать";
 
 /* Connection error. title of the dialog box. */
-"Connection error" = "Connection error";
+"Connection error" = "Ошибка соединения";
 
 /* error description (for gmail). */
-"Connection to Gmail could not be established. Either your connection is not available or Gmail is unavailable. Please, retry later." = "Connection to Gmail could not be established. Either your connection is not available or Gmail is unavailable. Please, retry later.";
+"Connection to Gmail could not be established. Either your connection is not available or Gmail is unavailable. Please, retry later." = "не удается установить соединение с Gmail. Either your connection is not available or Gmail is unavailable. Please, retry later.";
 
 /* error description (for gmail). */
 "Connection to Gmail could not be established. Your computer is not connected to the internet. Please, connect your computer to the internet and retry." = "Connection to Gmail could not be established. Your computer is not connected to the internet. Please, connect your computer to the internet and retry.";
@@ -127,231 +127,231 @@
 
 /* label of the trash toolbar button
    tooltip of the trash toolbar button */
-"Delete" = "Delete";
+"Delete" = "Удалить";
 
 /* name of the folder in error message when the folder is not available */
-"Deleted Messages" = "Deleted Messages";
+"Deleted Messages" = "Удаленные сообщения";
 
 /* Messages are being sent while quitting. title of the dialog box. */
-"Do you want to quit now?" = "Do you want to quit now?";
+"Do you want to quit now?" = "Вы действительно хотите завершить работу?";
 
 /* A new version is available. description in the dialog box. first %@ is the name of the application. second %@ is the version to update to. */
-"Do you want to update to %@ %@ using the Mac App Store? This is a free version update." = "Do you want to update to %1$@ %2$@ using the Mac App Store? This is a free version update.";
+"Do you want to update to %@ %@ using the Mac App Store? This is a free version update." = "Обновить %1$@ до версии %2$@ через Mac App Store? Это бесплатное обновление.";
 
 /* Don't Quit button when sending while quitting */
-"Don't Quit" = "Don't Quit";
+"Don't Quit" = "Не завершать";
 
 /* Attachments of the message could not be downloaded. Title of the dialog box.
    The attachment could not be downloaded. title of the dialog box. */
-"Download failed" = "Download failed";
+"Download failed" = "Загрузка не удалась";
 
 /* Download latest version button when sparrow expired in the dialog */
-"Download latest version" = "Download latest version";
+"Download latest version" = "Загрузить последнюю версию";
 
 /* syncing description progress, when progress value is available, first %u is the progress value, second %u is the maximum progress */
-"Downloading %u of %u" = "Downloading %1$u of %2$u";
+"Downloading %u of %u" = "Загрузка %1$u из %2$u";
 
 /* Draft message indication */
-"Draft" = "Draft";
+"Draft" = "Черновик";
 
 /* name of the folder in error message when the folder is not available
    tooltip for Drafts */
-"Drafts" = "Drafts";
+"Drafts" = "Черновики";
 
 /* trash bar empty button */
-"Empty" = "Empty";
+"Empty" = "Очистить";
 
 /* when emptying the trash: Empty button */
-"Empty Trash" = "Empty Trash";
+"Empty Trash" = "Очистить Корзину";
 
 /* error description (generic imap). */
-"Exceeded bandwidth limit. Please, contact your provider." = "Exceeded bandwidth limit. Please, contact your provider.";
+"Exceeded bandwidth limit. Please, contact your provider." = "Превышен лимит трафика. Пожалуйста, свяжитесь с вашим интернет-провайдером.";
 
 /* error description. %@ is the URL to open. (for gmail) */
-"Exceeded bandwidth limit. Please, try to unlock your account using the following webpage: %@" = "Exceeded bandwidth limit. Please, try to unlock your account using the following webpage: %@";
+"Exceeded bandwidth limit. Please, try to unlock your account using the following webpage: %@" = "Превышен лимит трафика. Пожалуйста, попробуйте разблокировать учетную запись на сайте %@";
 
 /* when folder is not found. title of the dialog box. */
-"Folder not found" = "Folder not found";
+"Folder not found" = "Папка не найдена";
 
 /* tooltip for Folders section in sidebar */
-"Folders" = "Folders";
+"Folders" = "Папки";
 
 /* conversation list: menu item
    menu item for reply toolbar button */
-"Forward" = "Forward";
+"Forward" = "Переслать";
 
 /* search bar */
-"From" = "From";
+"From" = "От";
 
 /* displayed in mesage list: Getting messages */
-"Getting messages" = "Getting messages";
+"Getting messages" = "Получение сообщений";
 
 /* A new version is available. Ignore button. */
-"Ignore" = "Ignore";
+"Ignore" = "Игнорировать";
 
 /* error description (for gmail). */
-"IMAP is not enabled. Please, check your settings on Gmail Web." = "IMAP is not enabled. Please, check your settings on Gmail Web.";
+"IMAP is not enabled. Please, check your settings on Gmail Web." = "IMAP не включен. Пожалуйста, проверьте настройки в Gmail Web.";
 
 /* error description (for gmail). */
-"IMAP is not enabled. Please, contact your provider." = "IMAP is not enabled. Please, contact your provider.";
+"IMAP is not enabled. Please, contact your provider." = "IMAP не включен. Пожалуйста, свяжитесь с вашим интернет-провайдером.";
 
 /* Important menu item for priority inbox */
-"Important" = "Important";
+"Important" = "Важные";
 
 /* displayed in mesage list: Importing */
-"Importing" = "Importing";
+"Importing" = "Импортирую";
 
 /* when importing. %@ is the email that is being imported. */
-"Importing %@\\U2026" = "Importing %@…";
+"Importing %@\\U2026" = "Импортирую %@…";
 
 /* import description */
-"Importing data from previous version of Sparrow.\nPlease wait while import is in progress\\U2026" = "Importing data from previous version of Sparrow.\nPlease wait while import is in progress…";
+"Importing data from previous version of Sparrow.\nPlease wait while import is in progress\\U2026" = "Импортируются данные из предыдущей версии Sparrow.\nПожалуйста, дождитесь завершения процесса…";
 
 /* importing: title of the window */
-"Importing Mails" = "Importing Mails";
+"Importing Mails" = "Импорт сообщений";
 
 /* inbox selection bar: Inbox
    name of the folder in error message when the folder is not available
    tooltip for Inbox */
-"Inbox" = "Inbox";
+"Inbox" = "Входящие";
 
 /* error description (for gmail). */
-"Information could not be saved to Gmail. Please, retry later." = "Information could not be saved to Gmail. Please, retry later.";
+"Information could not be saved to Gmail. Please, retry later." = "Не удается сохранить данные в Gmail. Пожалуйста, повторите попытку позже.";
 
 /* error description (generic imap). */
-"Information could not be saved to the mail server. Please, retry later." = "Information could not be saved to the mail server. Please, retry later.";
+"Information could not be saved to the mail server. Please, retry later." = "Не удается сохранить данные на почтовый сервер. Пожалуйста, повторите попытку позже.";
 
 /* installation corrupted: title of the dialog box. */
-"Install is corrupted" = "Install is corrupted";
+"Install is corrupted" = "Установщик поврежден";
 
 /* conversation list: menu item */
-"Label" = "Label";
+"Label" = "Метка";
 
 /* label of the label button
    Labels menu item (as title of the menu)
    tooltip for Labels
    tooltip of the label button */
-"Labels" = "Labels";
+"Labels" = "Метки";
 
 /* license is granted. title of the dialog box. */
-"License added" = "License added";
+"License added" = "Лицензия добавлена";
 
 /* displayed in mesage list: Loading */
-"Loading" = "Loading";
+"Loading" = "Загрузка";
 
 /* conversation list: menu item
    Mark as Important menu item for priority inbox. */
-"Mark as Important" = "Mark as Important";
+"Mark as Important" = "Отметить как важное";
 
 /* conversation list: menu item
    Mark as Read menu item */
-"Mark as Read" = "Mark as Read";
+"Mark as Read" = "Отметить как прочитанное";
 
 /* conversation list: menu item
    Mark as Spam menu item */
-"Mark as Spam" = "Mark as Spam";
+"Mark as Spam" = "Отметить как спам";
 
 /* conversation list: menu item
    Mark as Starred menu item */
-"Mark as Starred" = "Mark as Starred";
+"Mark as Starred" = "Пометить звездочкой";
 
 /* conversation list: menu item
    Mark as Unread menu item */
-"Mark as Unread" = "Mark as Unread";
+"Mark as Unread" = "Отметить как непрочитанное";
 
 /* Message could not be sent. title of the dialog. */
-"Message could not be sent" = "Message could not be sent";
+"Message could not be sent" = "Не удается отправить сообщение";
 
 /* account needed to open a compose window. title of the dialog box. */
-"Message not found" = "Message not found";
+"Message not found" = "Сообщение не найдено";
 
 /* Messages are being sent while quitting. description in the dialog box. */
-"Messages are being sent. If you quit now, this will cancel the progress. Messages will be kept as drafts." = "Messages are being sent. If you quit now, this will cancel the progress. Messages will be kept as drafts.";
+"Messages are being sent. If you quit now, this will cancel the progress. Messages will be kept as drafts." = "Идет отправка сообщений. Завершение работы прервет процесс отправки, сообщения будут сохранены как черновики";
 
 /* Move To menu item
    Move To menu item (as title of the menu)
    Move To menu item (generic imap) */
-"Move To" = "Move To";
+"Move To" = "Переместить в";
 
 /* conversation list: menu item */
-"Move to Inbox" = "Move to Inbox";
+"Move to Inbox" = "Переместить во Входящие";
 
 /* error description. */
-"Namespace is not available." = "Namespace is not available.";
+"Namespace is not available." = "Пространство имен недоступно.";
 
 /* status bar text: when no sync has occurred for the selected folder. */
-"Never updated" = "Never updated";
+"Never updated" = "Не обновлялась";
 
 /* tooltip of the compose toolbar button */
-"New message" = "New message";
+"New message" = "Новое сообщение";
 
 /* name of the growl notification of Sparrow for the preferences of Growl in the prefs panel */
-"New Message Notification" = "New Message Notification";
+"New Message Notification" = "Получено новое сообщение";
 
 /* displayed in message list: No conversations */
-"No conversations" = "No conversations";
+"No conversations" = "Нет разговоров";
 
 /* in labels list menu */
-"No folders" = "No folders";
+"No folders" = "Нет папок";
 
 /* in labels list menu */
-"No labels" = "No labels";
+"No labels" = "Нет меток";
 
 /* conversation list: menu item
    Not Important menu item for priority inbox. */
-"Not Important" = "Not Important";
+"Not Important" = "Не важное";
 
 /* conversation list: menu item
    Not Spam menu item */
-"Not Spam" = "Not Spam";
+"Not Spam" = "Не спам";
 
 /* Pending for send message indication */
-"Pending" = "Pending";
+"Pending" = "Ожидание";
 
 /* invalidate license: description in the dialog box. */
-"Please, buy a valid license." = "Please, buy a valid license.";
+"Please, buy a valid license." = "Пожалуйста, купите корректную лицензию.";
 
 /* sparrow is already running. description of dialog box. */
-"Please, quit the other instance of Sparrow." = "Please, quit the other instance of Sparrow.";
+"Please, quit the other instance of Sparrow." = "Пожалуйста, завершите другие копии Sparrow.";
 
 /* Preferences button in dialog box
    Preferences button in error dialog in case of login error */
-"Preferences" = "Preferences";
+"Preferences" = "Настройки";
 
 /* inbox selection bar: Priority Inbox */
-"Priority Inbox" = "Priority Inbox";
+"Priority Inbox" = "Важные и непрочитанные";
 
 /* Push mail is not available. */
-"Push mail is not available." = "Push mail is not available.";
+"Push mail is not available." = "Функция Push недоступна.";
 
 /* Quit button when sparrow expired in the dialog */
-"Quit" = "Quit";
+"Quit" = "Завершить";
 
 /* Quit without Sending button when sending while quitting */
-"Quit without Sending" = "Quit without Sending";
+"Quit without Sending" = "Завершить без отправки";
 
 /* Refresh button in dialog box */
-"Refresh" = "Refresh";
+"Refresh" = "Обновить";
 
 /* A new version is available. Remind me later button */
-"Remind me later" = "Remind me later";
+"Remind me later" = "Напомнить позднее";
 
 /* conversation list: menu item
    Remove Star menu item */
-"Remove Star" = "Remove Star";
+"Remove Star" = "Снять отметку звездочкой";
 
 /* conversation list: menu item
    label of the reply toolbar button
    menu item for reply toolbar button
    tooltip of the reply toolbar button */
-"Reply" = "Reply";
+"Reply" = "Ответить";
 
 /* conversation list: menu item
    menu item for reply toolbar button */
-"Reply All" = "Reply All";
+"Reply All" = "Ответить всем";
 
 /* conversation list: menu item */
-"Restore from Trash" = "Restore from Trash";
+"Restore from Trash" = "Восстановить из Корзины";
 
 /* conversation list: menu item */
 "Save All Attachments" = "Save All Attachments";
@@ -363,48 +363,48 @@
 "Save Attachment As\\U2026" = "Save Attachment As…";
 
 /* saving attachment progress description, %@ is the filename of the attachment. */
-"Saving %@" = "Saving %@";
+"Saving %@" = "Сохранение %@";
 
 /* tooltip for Search */
-"Search" = "Search";
+"Search" = "Поиск";
 
 /* displayed in mesage list: Searching */
-"Searching" = "Searching";
+"Searching" = "Идет поиск";
 
 /* error description (for gmail). */
 "Secure connection is not currently available on Gmail. Please, retry later." = "Secure connection is not currently available on Gmail. Please, retry later.";
 
 /* sending progress description, %@ is the subject of the message
    sending progress description, parameter is the subject of the message */
-"Sending %@" = "Sending %@";
+"Sending %@" = "Отправка %@";
 
 /* tooltip for Sent Messages */
-"Sent" = "Sent";
+"Sent" = "Отправленные";
 
 /* name of the folder in error message when the folder is not available */
-"Sent Messages" = "Sent Messages";
+"Sent Messages" = "Отправленные сообщения";
 
 /* account needed to open a compose window. title of the dialog box.
    account needed to open a compose window. title the dialog box.
    Title of the error dialog, when applescript is used and no account is available. */
-"Set up one account" = "Set up one account";
+"Set up one account" = "Настройка учетной записи;
 
 /* label in special cell in message list. */
-"Since synchronization is not finished. Search results may be incomplete." = "Since synchronization is not finished. Search results may be incomplete.";
+"Since synchronization is not finished. Search results may be incomplete." = "Результаты поиска могут быть неполными, т.к. синхронизация не завершена.";
 
 /* Spam menu item in popup menu, in labels menu
    Spam menu item, in labels menu
    tooltip for Spam */
-"Spam" = "Spam";
+"Spam" = "Спам";
 
 /* Sparrow is already running. title of dialog box. */
-"Sparrow is already running" = "Sparrow is already running";
+"Sparrow is already running" = "Sparrow уже запущена";
 
 /* error description (for gmail). */
-"Sparrow is trying to connect to a server that is pretending to be Gmail server." = "Sparrow is trying to connect to a server that is pretending to be Gmail server.";
+"Sparrow is trying to connect to a server that is pretending to be Gmail server." = "Sparrow пытается соединиться с сервером, притворяющимся сервером Gmail.";
 
 /* error description (generic imap). */
-"Sparrow is trying to connect to a server that is pretending to the mail server." = "Sparrow is trying to connect to a server that is pretending to the mail server.";
+"Sparrow is trying to connect to a server that is pretending to the mail server." = "Sparrow пытается соединиться с сервером, притворяющимся почтовым.";
 
 /* name of the folder in error message when the folder is not available
    tooltip for Starred */
@@ -585,5 +585,5 @@
 "You have to set up at least one account to be able to send emails." = "You have to set up at least one account to be able to send emails.";
 
 /* installation corrupted: description in the dialog box. */
-"You should uninstall the application and download it again." = "You should uninstall the application and download it again.";
+"You should uninstall the application and download it again." = "Следует удалить приложение и установить его заново.";
 

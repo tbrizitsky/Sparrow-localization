@@ -1,52 +1,52 @@
 /* title of composer when subject has not been entered */
-"(No subject)" = "(No subject)";
+"(No subject)" = "(Без темы)";
 
 /* composer: tooltip */
-"Add Attachment" = "Add Attachment";
+"Add Attachment" = "Вложить файл в сообщение";
 
 /* Action description for undo menu item
    tooltip for formatting bar */
-"Add Link" = "Add Link";
+"Add Link" = "Добавить ссылку";
 
 /* menu item in contextual menu */
-"Add Link\\U2026" = "Add Link…";
+"Add Link\\U2026" = "Добавить ссылку…";
 
 /* composer: error description/question, message has no subject */
-"Are you sure you want to send it?" = "Are you sure you want to send it?";
+"Are you sure you want to send it?" = "Действительно отправить сообщение?";
 
 /* Error message when attachment(s) cannot be added because it's too big: title of the dialog box. */
-"Attachments too large" = "Attachments too large";
+"Attachments too large" = "Вложенные файлы имеют слишком большой размер";
 
 /* field name */
-"Bcc" = "Bcc";
+"Bcc" = "Скр. копия";
 
 /* tooltip for formatting bar */
-"Bold" = "Bold";
+"Bold" = "Жирный шрифт";
 
 /* composer: list menu item: bullet */
-"Bullet" = "Bullet";
+"Bullet" = "Список";
 
 /* Action description for undo menu item */
-"Bullet Point List" = "Bullet Point List";
+"Bullet Point List" = "Маркер";
 
 /* 'link to' dialog box: cancel button
    Cancel button */
-"Cancel" = "Cancel";
+"Cancel" = "Отменить";
 
 /* field name */
-"Cc" = "Cc";
+"Cc" = "Копия";
 
 /* tooltip for formatting bar */
-"Center" = "Center";
+"Center" = "Выровнять текст по центру";
 
 /* Action description for undo menu item */
-"Decrease Indent Level" = "Decrease Indent Level";
+"Decrease Indent Level" = "Уменьшить отступ";
 
 /* composer: menu item: decrease quote */
 "Decrease Quote Level" = "Decrease Quote Level";
 
 /* needs to save: Discard button */
-"Discard" = "Discard";
+"Discard" = "Отказаться";
 
 /* needs to save. title of the dialog box */
 "Do you want to save your email?" = "Do you want to save your email?";
@@ -59,7 +59,7 @@
 "Drafts folder was not found and could not be created. This folder is required to get Sparrow to work properly." = "Drafts folder was not found and could not be created. This folder is required to get Sparrow to work properly.";
 
 /* field name */
-"From" = "From";
+"From" = "От";
 
 /* subject of a forward of an empty message */
 "Fw:" = "Fw:";
@@ -196,7 +196,7 @@
 "This message has no subject" = "This message has no subject";
 
 /* field name */
-"To" = "To";
+"To" = "Кому";
 
 /* Action description for undo menu item */
 "Typing" = "Typing";

@@ -17,13 +17,13 @@
 "%@, %@" = "%1$@, %2$@";
 
 /* prefs > organize > advanced, in popup button, when IMAP prefix is empty */
-"(Empty prefix)" = "(Empty prefix)";
+"(Empty prefix)" = "(Пустой префикс)";
 
 /* general prefs */
-"(Will be active at next restart)" = "(Will be active at next restart)";
+"(Will be active at next restart)" = "(Требуется перезапуск)";
 
 /* Account (lite mode) section in preferences */
-"Account" = "Account";
+"Account" = "Учетная запись";
 
 /* Accounts section in preferences
    prefs tab items */

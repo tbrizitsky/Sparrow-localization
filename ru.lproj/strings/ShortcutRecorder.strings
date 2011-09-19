@@ -1,8 +1,8 @@
 /* Hot Keys: Key Combo text for 'empty' combo */
-"(None)" = "(None)";
+"(None)" = "(не задано)";
 
 /* displayed in the cell */
-"Click to record shortcut" = "Click to record shortcut";
+"Click to record shortcut" = "Нажмите, чтобы записать";
 
 /* key modifier */
 "Command + " = "Command + ";
@@ -14,29 +14,29 @@
 "Option + " = "Option + ";
 
 /* numeric keypad key. %@ is the name of the key */
-"Pad %@" = "Pad %@";
+"Pad %@" = "Цифр. %@";
 
 /* key modifier */
 "Shift + " = "Shift + ";
 
 /* No comment provided by engineer. */
-"Space" = "Space";
+"Space" = "Пробел";
 
 /* error description */
-"The key combination \"%@\" can't be used because %@." = "The key combination \"%1$@\" can't be used because %2$@.";
+"The key combination \"%@\" can't be used because %@." = "Сочетание клавиш \"%1$@\" нельзя использовать, т.к. %2$@.";
 
 /* error description */
-"The key combination \"%@\" can't be used because it's already used by a system-wide keyboard shortcut. (If you really want to use this key combination, most shortcuts can be changed in the Keyboard & Mouse panel in System Preferences.)" = "The key combination \"%@\" can't be used because it's already used by a system-wide keyboard shortcut. (If you really want to use this key combination, most shortcuts can be changed in the Keyboard & Mouse panel in System Preferences.)";
+"The key combination \"%@\" can't be used because it's already used by a system-wide keyboard shortcut. (If you really want to use this key combination, most shortcuts can be changed in the Keyboard & Mouse panel in System Preferences.)" = "Сочетание клавиш \"%@\" нельзя использовать, т.к. оно уже используется системой. (При необходимости большинство сочетаний можно изменить в панели Клавиатура Настроек системы.)";
 
 /* error description */
-"The key combination \"%@\" can't be used because it's already used by the menu item \"%@\"." = "The key combination \"%1$@\" can't be used because it's already used by the menu item \"%2$@\".";
+"The key combination \"%@\" can't be used because it's already used by the menu item \"%@\"." = "Сочетание клавиш \"%1$@\" нельзя использовать, т.к. оно уже используется для элемента меню \"%2$@\".";
 
 /* error description */
-"The key combination %@ can't be used!" = "The key combination %@ can't be used!";
+"The key combination %@ can't be used!" = "Сочетание клавиш %@ использовать нельзя!";
 
 /* displayed in the cell */
-"Type shortcut" = "Type shortcut";
+"Type shortcut" = "Введите сочетание";
 
 /* displayed in the cell */
-"Use old shortcut" = "Use old shortcut";
+"Use old shortcut" = "Использовать старое";
 

@@ -1,57 +1,57 @@
 /* activity window: progress value, %g is the number of items remaining */
-"%g remaining" = "Осталось %g";
+"%g remaining" = "%g remaining";
 
 /* column header in activity window */
-"Account" = "Учетная запись";
+"Account" = "Account";
 
 /* Activity: title of the window */
-"Activity" = "Активность";
+"Activity" = "Activity";
 
 /* connection checker: check button */
-"Check" = "Проверить";
+"Check" = "Check";
 
 /* connection checker: progress string */
-"Check in progress\\U2026" = "Идет проверка…";
+"Check in progress\\U2026" = "Check in progress\U2026";
 
 /* connection checker: title of the window */
-"Connection Checker" = "Проверка соединения";
+"Connection Checker" = "Connection Checker";
 
 /* activity window: done in progress column */
-"done" = "готово";
+"done" = "done";
 
 /* connection checker: when connections all succeed */
-"Everything is ok." = "Все в порядке.";
+"Everything is ok." = "Everything is ok.";
 
 /* connection checker: Failed */
-"Failed" = "Ошибка";
+"Failed" = "Failed";
 
 /* column header in activity window */
-"Folder" = "Папка";
+"Folder" = "Folder";
 
 /* connection checker: label for IMAP server */
-"IMAP server:" = "Сервер IMAP:";
+"IMAP server:" = "IMAP server:";
 
 /* activity window: when no progress value is available */
-"in progress" = "работаю";
+"in progress" = "in progress";
 
 /* connection checker: OK */
 "OK" = "OK";
 
 /* column header in activity window */
-"Operation" = "Действие";
+"Operation" = "Operation";
 
 /* connection checker: when a connection failed */
-"Please check the name of the IMAP server and the name of the SMTP server are correct but it's likely that you are behind a firewall that won't allow IMAP or SMTP connections." = "Пожалуйста, проверьте имена серверов IMAP и SMTP, а также настройки брандмауэра.";
+"Please check the name of the IMAP server and the name of the SMTP server are correct but it's likely that you are behind a firewall that won't allow IMAP or SMTP connections." = "Please check the name of the IMAP server and the name of the SMTP server are correct but it's likely that you are behind a firewall that won't allow IMAP or SMTP connections.";
 
 /* column header in activity window */
-"Progress" = "Прогресс";
+"Progress" = "Progress";
 
 /* connection checker: column header */
-"Server" = "Сервер";
+"Server" = "Server";
 
 /* connection checker: label for SMTP server */
-"SMTP server:" = "Сервер SMTP:";
+"SMTP server:" = "SMTP server:";
 
 /* connection checker: column header */
-"Status" = "Состояние";
+"Status" = "Status";
 

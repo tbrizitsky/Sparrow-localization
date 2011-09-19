@@ -1,3 +1,6 @@
+/* when folder is not found. error message in case other case. description in the dialog box. %@ is the name of the folder. */
+"\"%@\" folder was not found and could not be created. This folder is required to get Sparrow to work properly." = "\"%@\" folder was not found and could not be created. This folder is required to get Sparrow to work properly.";
+
 /* copy-paste content in case there is no sender: first %@ is the subject, second %@ is the URL */
 "%@ (%@)" = "%1$@ (%2$@)";
 
@@ -21,16 +24,14 @@
 "(No recipient)" = "(No recipient)";
 
 /* growl notification: placeholder the message has no subject
+   placeholder for message with no subject for copy-paste content
    placeholder for message with no subject in message cell
    placeholder for the message when it has no subject. will be used for the filename
    placeholder of the message in activity when it has no subject */
 "(no subject)" = "(no subject)";
 
-/* when folder is not found. error message in case other case. description in the dialog box. %@ is the name of the folder. */
-"\"%@\" folder was not found and could not be created. This folder is required to get Sparrow to work properly." = "\"%@\" folder was not found and could not be created. This folder is required to get Sparrow to work properly.";
-
 /* when the preview is truncated in pasteboard */
-"\\U2026" = "…";
+"\\U2026" = "\U2026";
 
 /* error description. */
 "A message could not be retrieved. It must have disappeared. Please refresh." = "A message could not be retrieved. It must have disappeared. Please refresh.";
@@ -44,6 +45,27 @@
 /* fonts broken on the system. description of the dialog box. */
 "A system font is missing. Make sure to restore your default Mac OS X fonts." = "A system font is missing. Make sure to restore your default Mac OS X fonts.";
 
+/* main menu */
+"About Sparrow" = "About Sparrow";
+
+/* main menu */
+"Activity" = "Activity";
+
+/* main menu */
+"Add Account" = "Add Account";
+
+/* main menu */
+"Add Link\\U2026" = "Add Link\U2026";
+
+/* main menu */
+"Ads Disabled" = "Ads Disabled";
+
+/* main menu */
+"Align Left" = "Align Left";
+
+/* main menu */
+"Align Right" = "Align Right";
+
 /* search bar */
 "All" = "All";
 
@@ -53,41 +75,60 @@
 "All Mail" = "All Mail";
 
 /* error description. */
-"An unexpected error occurred on the server. Please, retry later." = "An unexpected error occurred on the server. Please, retry later.";
+"An unexpected error occurred on the server. Please retry later." = "An unexpected error occurred on the server. Please retry later.";
 
 /* error description (for gmail). */
-"An unexpected error occurred when communicating with Gmail servers. Please, report a bug." = "An unexpected error occurred when communicating with Gmail servers. Please, report a bug.";
+"An unexpected error occurred when communicating with Gmail servers. Please report a bug." = "An unexpected error occurred when communicating with Gmail servers. Please report a bug.";
 
 /* error description (generic imap). */
-"An unexpected error occurred when communicating with the servers. Please, report a bug." = "An unexpected error occurred when communicating with the servers. Please, report a bug.";
+"An unexpected error occurred when communicating with the servers. Please report a bug." = "An unexpected error occurred when communicating with the servers. Please report a bug.";
 
 /* Description of the dialog box: Leopard double update message. */
 "Another update is needed.\nYou will be automatically redirected to the update panel." = "Another update is needed.\nYou will be automatically redirected to the update panel.";
 
-/* Archive menu item (generic imap), in labels menu
-   Archive menu item in popup menu, in labels menu
-   label of the archive toolbar button
-   tooltip for Archive category
+/* label of the archive toolbar button
+   main menu
    tooltip of the archive toolbar button */
 "Archive" = "Archive";
 
 /* Archive and Label menu item
    Archive and Label menu item (as title of the menu)
    Archive and Label menu item (for gmail)
-   conversation list: menu item */
+   conversation list: menu item
+   main menu */
 "Archive and Label" = "Archive and Label";
 
-/* tooltip for Archive category */
+/* Archive menu item (generic imap), in labels menu
+   Archive menu item in popup menu, in labels menu
+   tooltip for Archive category */
 "Archive-LocSidebar" = "Archive";
 
 /* when pressing on the empty trash button from trash bar, title */
 "Are you sure you want to permanently erase the messages in the Trash?" = "Are you sure you want to permanently erase the messages in the Trash?";
 
+/* main menu */
+"Attach Files\\U2026" = "Attach Files\U2026";
+
 /* Attachments of the message could not be downloaded. description in the dialog box. %@ is the subject of the message. */
-"Attachments of the message \"%@\" could not be downloaded. Please, retry later." = "Attachments of the message \"%@\" could not be downloaded. Please, retry later.";
+"Attachments of the message \"%@\" could not be downloaded. Please retry later." = "Attachments of the message \"%@\" could not be downloaded. Please retry later.";
 
 /* Attachments of the message with no subject could not be downloaded. description in the dialog box. */
-"Attachments of the message with no subject could not be downloaded. Please, retry later." = "Attachments of the message with no subject could not be downloaded. Please, retry later.";
+"Attachments of the message with no subject could not be downloaded. Please retry later." = "Attachments of the message with no subject could not be downloaded. Please retry later.";
+
+/* main menu */
+"Baseline" = "Baseline";
+
+/* main menu */
+"Bigger" = "Bigger";
+
+/* main menu */
+"Bold" = "Bold";
+
+/* main menu */
+"Bring All to Front" = "Bring All to Front";
+
+/* main menu */
+"Bullet" = "Bullet";
 
 /* when emptying the trash: Cancel button */
 "Cancel" = "Cancel";
@@ -95,37 +136,98 @@
 /* database could not be created. title of dialog box. */
 "Cannot create Message Database" = "Cannot create Message Database";
 
+/* main menu */
+"Capitalize" = "Capitalize";
+
+/* main menu */
+"Center" = "Center";
+
+/* main menu */
+"Check Document Now" = "Check Document Now";
+
+/* main menu */
+"Check for Updates\\U2026" = "Check for Updates\U2026";
+
+/* main menu */
+"Check Grammar With Spelling" = "Check Grammar With Spelling";
+
+/* main menu */
+"Check Spelling While Typing" = "Check Spelling While Typing";
+
 /* syncing description progress */
-"Checking for mail" = "Checking for mail";
+"Checking for mail\\U2026" = "Checking for mail\U2026";
+
+/* main menu */
+"Close" = "Close";
 
 /* label of the compose toolbar button */
 "Compose" = "Compose";
 
+/* main menu */
+"Compose New Message" = "Compose New Message";
+
+/* main menu */
+"Connection Checker\\U2026" = "Connection Checker\U2026";
+
 /* Connection error. title of the dialog box. */
 "Connection error" = "Connection error";
 
-/* error description (for gmail). */
-"Connection to Gmail could not be established. Either your connection is not available or Gmail is unavailable. Please, retry later." = "Connection to Gmail could not be established. Either your connection is not available or Gmail is unavailable. Please, retry later.";
+/* error description. */
+"Connection to CloudApp could not be established. Either your connection is not available or the Cloudapp server is unavailable. Please retry later." = "Connection to CloudApp could not be established. Either your connection is not available or the Cloudapp server is unavailable. Please retry later.";
+
+/* error description. */
+"Connection to Cloudapp could not be established. Your computer is not connected to the Internet. Please connect your computer to the Internet and retry." = "Connection to Cloudapp could not be established. Your computer is not connected to the Internet. Please connect your computer to the Internet and retry.";
 
 /* error description (for gmail). */
-"Connection to Gmail could not be established. Your computer is not connected to the internet. Please, connect your computer to the internet and retry." = "Connection to Gmail could not be established. Your computer is not connected to the internet. Please, connect your computer to the internet and retry.";
+"Connection to Gmail could not be established. Either your connection is not available or Gmail is unavailable. Please retry later." = "Connection to Gmail could not be established. Either your connection is not available or Gmail is unavailable. Please retry later.";
 
 /* error description (for gmail). */
-"Connection to Gmail could not be established. Your email or your password is not correct. Please, check you typed them properly and retry." = "Connection to Gmail could not be established. Your email or your password is not correct. Please, check you typed them properly and retry.";
+"Connection to Gmail could not be established. Your computer is not connected to the Internet. Please connect your computer to the Internet and retry." = "Connection to Gmail could not be established. Your computer is not connected to the Internet. Please connect your computer to the Internet and retry.";
+
+/* error description (for gmail). */
+"Connection to Gmail could not be established. Your email or your password is not correct. Please check you typed them properly and retry." = "Connection to Gmail could not be established. Your email or your password is not correct. Please check you typed them properly and retry.";
 
 /* error description (generic imap). */
-"Connection to the mail server could not be established. Either your connection is not available or the mail server is unavailable. Please, retry later." = "Connection to the mail server could not be established. Either your connection is not available or the mail server is unavailable. Please, retry later.";
+"Connection to the mail server could not be established. Either your connection is not available or the mail server is unavailable. Please retry later." = "Connection to the mail server could not be established. Either your connection is not available or the mail server is unavailable. Please retry later.";
 
 /* error description (generic imap). occurs in assistant. */
-"Connection to the mail server could not be established. Either your connection is not available or the mail server is unavailable. Please, try to untick Secure in the settings and try again." = "Connection to the mail server could not be established. Either your connection is not available or the mail server is unavailable. Please, try to untick Secure in the settings and try again.";
+"Connection to the mail server could not be established. Either your connection is not available or the mail server is unavailable. Please try to untick Secure in the settings and try again." = "Connection to the mail server could not be established. Either your connection is not available or the mail server is unavailable. Please try to untick Secure in the settings and try again.";
 
 /* error description (generic imap). */
-"Connection to the mail server could not be established. Your computer is not connected to the internet. Please, connect your computer to the internet and retry." = "Connection to the mail server could not be established. Your computer is not connected to the internet. Please, connect your computer to the internet and retry.";
+"Connection to the mail server could not be established. Your computer is not connected to the Internet. Please connect your computer to the Internet and retry." = "Connection to the mail server could not be established. Your computer is not connected to the Internet. Please connect your computer to the Internet and retry.";
+
+/* error description. */
+"Connection to your CloudApp account could not be established. Your login or your password is not correct. Please check you typed them properly and retry." = "Connection to your CloudApp account could not be established. Your login or your password is not correct. Please check you typed them properly and retry.";
 
 /* error description (generic imap). %@ is the email address. */
-"Connection to your mail account %@ could not be established. Your login or your password is not correct. Please, check you typed them properly and retry." = "Connection to your mail account %@ could not be established. Your login or your password is not correct. Please, check you typed them properly and retry.";
+"Connection to your mail account %@ could not be established. Your login or your password is not correct. Please check you typed them properly and retry." = "Connection to your mail account %@ could not be established. Your login or your password is not correct. Please check you typed them properly and retry.";
+
+/* main menu */
+"Copy" = "Copy";
+
+/* main menu */
+"Copy Ruler" = "Copy Ruler";
+
+/* main menu */
+"Copy Style" = "Copy Style";
+
+/* main menu */
+"Correct Spelling Automatically" = "Correct Spelling Automatically";
+
+/* main menu */
+"Cut" = "Cut";
+
+/* main menu */
+"Decrease Indent Level" = "Decrease Indent Level";
+
+/* main menu */
+"Decrease Quote Level" = "Decrease Quote Level";
+
+/* main menu */
+"Default" = "Default";
 
 /* label of the trash toolbar button
+   main menu
    tooltip of the trash toolbar button */
 "Delete" = "Delete";
 
@@ -154,9 +256,13 @@
 /* Draft message indication */
 "Draft" = "Draft";
 
-/* name of the folder in error message when the folder is not available
+/* main menu
+   name of the folder in error message when the folder is not available
    tooltip for Drafts */
 "Drafts" = "Drafts";
+
+/* main menu */
+"Edit" = "Edit";
 
 /* trash bar empty button */
 "Empty" = "Empty";
@@ -164,11 +270,35 @@
 /* when emptying the trash: Empty button */
 "Empty Trash" = "Empty Trash";
 
+/* main menu */
+"Enter Full Screen" = "Enter Full Screen";
+
 /* error description (generic imap). */
-"Exceeded bandwidth limit. Please, contact your provider." = "Exceeded bandwidth limit. Please, contact your provider.";
+"Exceeded bandwidth limit. Please contact your provider." = "Exceeded bandwidth limit. Please contact your provider.";
 
 /* error description. %@ is the URL to open. (for gmail) */
-"Exceeded bandwidth limit. Please, try to unlock your account using the following webpage: %@" = "Exceeded bandwidth limit. Please, try to unlock your account using the following webpage: %@";
+"Exceeded bandwidth limit. Please try to unlock your account using the following webpage: %@" = "Exceeded bandwidth limit. Please try to unlock your account using the following webpage: %@";
+
+/* main menu */
+"Exit Full Screen" = "Exit Full Screen";
+
+/* main menu */
+"Extended Sidebar" = "Extended Sidebar";
+
+/* main menu */
+"File" = "File";
+
+/* main menu */
+"Find" = "Find";
+
+/* main menu */
+"Find Next" = "Find Next";
+
+/* main menu */
+"Find Previous" = "Find Previous";
+
+/* main menu */
+"Find\\U2026" = "Find\U2026";
 
 /* when folder is not found. title of the dialog box. */
 "Folder not found" = "Folder not found";
@@ -176,7 +306,14 @@
 /* tooltip for Folders section in sidebar */
 "Folders" = "Folders";
 
+/* main menu */
+"Font" = "Font";
+
+/* main menu */
+"Format" = "Format";
+
 /* conversation list: menu item
+   main menu
    menu item for reply toolbar button */
 "Forward" = "Forward";
 
@@ -186,14 +323,29 @@
 /* displayed in mesage list: Getting messages */
 "Getting messages" = "Getting messages";
 
+/* main menu */
+"Go to Next Message" = "Go to Next Message";
+
+/* main menu */
+"Go to Previous Message" = "Go to Previous Message";
+
+/* main menu */
+"Help" = "Help";
+
+/* main menu */
+"Hide Others" = "Hide Others";
+
+/* main menu */
+"Hide Sparrow" = "Hide Sparrow";
+
 /* A new version is available. Ignore button. */
 "Ignore" = "Ignore";
 
 /* error description (for gmail). */
-"IMAP is not enabled. Please, check your settings on Gmail Web." = "IMAP is not enabled. Please, check your settings on Gmail Web.";
+"IMAP is not enabled. Please check your settings on Gmail Web." = "IMAP is not enabled. Please check your settings on Gmail Web.";
 
 /* error description (for gmail). */
-"IMAP is not enabled. Please, contact your provider." = "IMAP is not enabled. Please, contact your provider.";
+"IMAP is not enabled. Please contact your provider." = "IMAP is not enabled. Please contact your provider.";
 
 /* Important menu item for priority inbox */
 "Important" = "Important";
@@ -202,44 +354,96 @@
 "Importing" = "Importing";
 
 /* when importing. %@ is the email that is being imported. */
-"Importing %@\\U2026" = "Importing %@…";
+"Importing %@\\U2026" = "Importing %@\U2026";
 
 /* import description */
-"Importing data from previous version of Sparrow.\nPlease wait while import is in progress\\U2026" = "Importing data from previous version of Sparrow.\nPlease wait while import is in progress…";
+"Importing data from previous version of Sparrow.\nPlease wait while import is in progress\\U2026" = "Importing data from previous version of Sparrow.\nPlease wait while import is in progress\U2026";
 
 /* importing: title of the window */
 "Importing Mails" = "Importing Mails";
 
 /* inbox selection bar: Inbox
+   main menu
    name of the folder in error message when the folder is not available
    tooltip for Inbox */
 "Inbox" = "Inbox";
 
+/* main menu */
+"Increase Indent Level" = "Increase Indent Level";
+
+/* main menu */
+"Increase Quote Level" = "Increase Quote Level";
+
+/* main menu */
+"Indentation" = "Indentation";
+
 /* error description (for gmail). */
-"Information could not be saved to Gmail. Please, retry later." = "Information could not be saved to Gmail. Please, retry later.";
+"Information could not be saved to Gmail. Please retry later." = "Information could not be saved to Gmail. Please retry later.";
 
 /* error description (generic imap). */
-"Information could not be saved to the mail server. Please, retry later." = "Information could not be saved to the mail server. Please, retry later.";
+"Information could not be saved to the mail server. Please retry later." = "Information could not be saved to the mail server. Please retry later.";
 
 /* installation corrupted: title of the dialog box. */
 "Install is corrupted" = "Install is corrupted";
 
-/* conversation list: menu item */
+/* main menu */
+"Italic" = "Italic";
+
+/* main menu */
+"Jump to Selection" = "Jump to Selection";
+
+/* main menu */
+"Justify" = "Justify";
+
+/* main menu */
+"Kern" = "Kern";
+
+/* conversation list: menu item
+   main menu */
 "Label" = "Label";
 
 /* label of the label button
    Labels menu item (as title of the menu)
-   tooltip for Labels
+   main menu
+   tooltip for Labels section in sidebar
    tooltip of the label button */
 "Labels" = "Labels";
+
+/* main menu */
+"Left to Right" = "Left to Right";
 
 /* license is granted. title of the dialog box. */
 "License added" = "License added";
 
+/* main menu */
+"License\\U2026" = "License\U2026";
+
+/* main menu */
+"Ligature" = "Ligature";
+
+/* main menu */
+"List" = "List";
+
 /* displayed in mesage list: Loading */
 "Loading" = "Loading";
 
+/* main menu */
+"Log Message" = "Log Message";
+
+/* main menu */
+"Log Protocol" = "Log Protocol";
+
+/* main menu */
+"Lower" = "Lower";
+
+/* main menu */
+"Make Lower Case" = "Make Lower Case";
+
+/* main menu */
+"Make Upper Case" = "Make Upper Case";
+
 /* conversation list: menu item
+   main menu
    Mark as Important menu item for priority inbox. */
 "Mark as Important" = "Mark as Important";
 
@@ -248,16 +452,22 @@
 "Mark as Read" = "Mark as Read";
 
 /* conversation list: menu item
+   main menu
    Mark as Spam menu item */
 "Mark as Spam" = "Mark as Spam";
 
 /* conversation list: menu item
+   main menu
    Mark as Starred menu item */
 "Mark as Starred" = "Mark as Starred";
 
 /* conversation list: menu item
+   main menu
    Mark as Unread menu item */
 "Mark as Unread" = "Mark as Unread";
+
+/* main menu */
+"Message" = "Message";
 
 /* Message could not be sent. title of the dialog. */
 "Message could not be sent" = "Message could not be sent";
@@ -265,15 +475,22 @@
 /* account needed to open a compose window. title of the dialog box. */
 "Message not found" = "Message not found";
 
+/* main menu */
+"Message Panel" = "Message Panel";
+
 /* Messages are being sent while quitting. description in the dialog box. */
 "Messages are being sent. If you quit now, this will cancel the progress. Messages will be kept as drafts." = "Messages are being sent. If you quit now, this will cancel the progress. Messages will be kept as drafts.";
+
+/* main menu */
+"Minimize" = "Minimize";
 
 /* Move To menu item
    Move To menu item (as title of the menu)
    Move To menu item (generic imap) */
 "Move To" = "Move To";
 
-/* conversation list: menu item */
+/* conversation list: menu item
+   main menu */
 "Move to Inbox" = "Move to Inbox";
 
 /* error description. */
@@ -281,6 +498,9 @@
 
 /* status bar text: when no sync has occurred for the selected folder. */
 "Never updated" = "Never updated";
+
+/* main menu */
+"New Message" = "New Message";
 
 /* tooltip of the compose toolbar button */
 "New message" = "New message";
@@ -297,6 +517,9 @@
 /* in labels list menu */
 "No labels" = "No labels";
 
+/* main menu */
+"None" = "None";
+
 /* conversation list: menu item
    Not Important menu item for priority inbox. */
 "Not Important" = "Not Important";
@@ -305,18 +528,51 @@
    Not Spam menu item */
 "Not Spam" = "Not Spam";
 
+/* main menu */
+"Numbered" = "Numbered";
+
+/* main menu */
+"Open Message" = "Open Message";
+
+/* main menu */
+"Page Setup\\U2026" = "Page Setup\U2026";
+
+/* main menu */
+"Paragraph" = "Paragraph";
+
+/* main menu */
+"Paste" = "Paste";
+
+/* main menu */
+"Paste and Match Style" = "Paste and Match Style";
+
+/* main menu */
+"Paste Ruler" = "Paste Ruler";
+
+/* main menu */
+"Paste Style" = "Paste Style";
+
 /* Pending for send message indication */
 "Pending" = "Pending";
 
 /* invalidate license: description in the dialog box. */
-"Please, buy a valid license." = "Please, buy a valid license.";
+"Please buy a valid license." = "Please buy a valid license.";
 
 /* sparrow is already running. description of dialog box. */
-"Please, quit the other instance of Sparrow." = "Please, quit the other instance of Sparrow.";
+"Please quit the other instance of Sparrow." = "Please quit the other instance of Sparrow.";
+
+/* main menu */
+"Prefer Plain Text" = "Prefer Plain Text";
 
 /* Preferences button in dialog box
    Preferences button in error dialog in case of login error */
 "Preferences" = "Preferences";
+
+/* main menu */
+"Preferences\\U2026" = "Preferences\U2026";
+
+/* main menu */
+"Print\\U2026" = "Print\U2026";
 
 /* inbox selection bar: Priority Inbox */
 "Priority Inbox" = "Priority Inbox";
@@ -324,17 +580,36 @@
 /* Push mail is not available. */
 "Push mail is not available." = "Push mail is not available.";
 
+/* main menu */
+"Quick Reply" = "Quick Reply";
+
+/* main menu */
+"Quick Reply All" = "Quick Reply All";
+
 /* Quit button when sparrow expired in the dialog */
 "Quit" = "Quit";
+
+/* main menu */
+"Quit Sparrow" = "Quit Sparrow";
 
 /* Quit without Sending button when sending while quitting */
 "Quit without Sending" = "Quit without Sending";
 
-/* Refresh button in dialog box */
+/* main menu */
+"Raise" = "Raise";
+
+/* main menu */
+"Redo" = "Redo";
+
+/* main menu
+   Refresh button in dialog box */
 "Refresh" = "Refresh";
 
 /* A new version is available. Remind me later button */
 "Remind me later" = "Remind me later";
+
+/* main menu */
+"Remove Formatting" = "Remove Formatting";
 
 /* conversation list: menu item
    Remove Star menu item */
@@ -342,37 +617,74 @@
 
 /* conversation list: menu item
    label of the reply toolbar button
+   main menu
    menu item for reply toolbar button
    tooltip of the reply toolbar button */
 "Reply" = "Reply";
 
 /* conversation list: menu item
+   main menu
    menu item for reply toolbar button */
 "Reply All" = "Reply All";
+
+/* main menu */
+"Restore" = "Restore";
 
 /* conversation list: menu item */
 "Restore from Trash" = "Restore from Trash";
 
-/* conversation list: menu item */
+/* main menu */
+"Right to Left" = "Right to Left";
+
+/* conversation list: menu item
+   main menu */
 "Save All Attachments" = "Save All Attachments";
 
 /* conversation list: menu item */
 "Save Attachment" = "Save Attachment";
 
 /* conversation list: menu item */
-"Save Attachment As\\U2026" = "Save Attachment As…";
+"Save Attachment As\\U2026" = "Save Attachment As\U2026";
+
+/* main menu */
+"Save Draft" = "Save Draft";
 
 /* saving attachment progress description, %@ is the filename of the attachment. */
 "Saving %@" = "Saving %@";
 
-/* tooltip for Search */
+/* main menu
+   tooltip for Search */
 "Search" = "Search";
+
+/* main menu */
+"Search Messages" = "Search Messages";
 
 /* displayed in mesage list: Searching */
 "Searching" = "Searching";
 
 /* error description (for gmail). */
-"Secure connection is not currently available on Gmail. Please, retry later." = "Secure connection is not currently available on Gmail. Please, retry later.";
+"Secure connection is not currently available on Gmail. Please retry later." = "Secure connection is not currently available on Gmail. Please retry later.";
+
+/* main menu */
+"Select All" = "Select All";
+
+/* main menu */
+"Select Labels/Folders" = "Select Labels/Folders";
+
+/* main menu */
+"Select Next Account" = "Select Next Account";
+
+/* main menu */
+"Select Previous Accunt" = "Select Previous Accunt";
+
+/* main menu */
+"Selection" = "Selection";
+
+/* main menu */
+"Send and Archive" = "Send and Archive";
+
+/* main menu */
+"Send Message" = "Send Message";
 
 /* sending progress description, %@ is the subject of the message
    sending progress description, parameter is the subject of the message */
@@ -381,21 +693,78 @@
 /* tooltip for Sent Messages */
 "Sent" = "Sent";
 
+/* main menu */
+"Sent Mail" = "Sent Mail";
+
 /* name of the folder in error message when the folder is not available */
 "Sent Messages" = "Sent Messages";
+
+/* main menu */
+"Services" = "Services";
 
 /* account needed to open a compose window. title of the dialog box.
    account needed to open a compose window. title the dialog box.
    Title of the error dialog, when applescript is used and no account is available. */
 "Set up one account" = "Set up one account";
 
+/* main menu */
+"Show All" = "Show All";
+
+/* main menu */
+"Show Colors" = "Show Colors";
+
+/* main menu */
+"Show Data Folder" = "Show Data Folder";
+
+/* main menu */
+"Show Fonts" = "Show Fonts";
+
+/* main menu */
+"Show Format Bar" = "Show Format Bar";
+
+/* main menu */
+"Show Log Folder" = "Show Log Folder";
+
+/* main menu */
+"Show Ruler" = "Show Ruler";
+
+/* main menu */
+"Show Spelling And Grammar" = "Show Spelling And Grammar";
+
+/* main menu */
+"Show Substitutions" = "Show Substitutions";
+
+/* main menu */
+"Sidebar" = "Sidebar";
+
 /* label in special cell in message list. */
 "Since synchronization is not finished. Search results may be incomplete." = "Since synchronization is not finished. Search results may be incomplete.";
+
+/* main menu */
+"Smaller" = "Smaller";
+
+/* main menu */
+"Smart Copy/Paste" = "Smart Copy/Paste";
+
+/* main menu */
+"Smart Dashes" = "Smart Dashes";
+
+/* main menu */
+"Smart Links" = "Smart Links";
+
+/* main menu */
+"Smart Quotes" = "Smart Quotes";
 
 /* Spam menu item in popup menu, in labels menu
    Spam menu item, in labels menu
    tooltip for Spam */
 "Spam" = "Spam";
+
+/* main menu */
+"Sparrow" = "Sparrow";
+
+/* main menu */
+"Sparrow Help" = "Sparrow Help";
 
 /* Sparrow is already running. title of dialog box. */
 "Sparrow is already running" = "Sparrow is already running";
@@ -406,24 +775,52 @@
 /* error description (generic imap). */
 "Sparrow is trying to connect to a server that is pretending to the mail server." = "Sparrow is trying to connect to a server that is pretending to the mail server.";
 
-/* name of the folder in error message when the folder is not available
+/* main menu */
+"Speech" = "Speech";
+
+/* main menu */
+"Spelling and Grammar" = "Spelling and Grammar";
+
+/* main menu
+   name of the folder in error message when the folder is not available
    tooltip for Starred */
 "Starred" = "Starred";
+
+/* main menu */
+"Start Speaking" = "Start Speaking";
+
+/* main menu */
+"Stop Speaking" = "Stop Speaking";
 
 /* search bar */
 "Subject" = "Subject";
 
+/* main menu */
+"Subscript" = "Subscript";
+
+/* main menu */
+"Substitutions" = "Substitutions";
+
+/* main menu */
+"Superscript" = "Superscript";
+
 /* fonts broken on the system. title of the dialog box. */
 "System font is missing" = "System font is missing";
 
+/* main menu */
+"Text" = "Text";
+
+/* main menu */
+"Text Replacement" = "Text Replacement";
+
 /* when folder is not found. error message in case of gmail. description in the dialog box. %@ is the name of the folder. */
-"The \"%@\" folder cannot be synced properly. Please, activate all your folders in your Gmail settings (http://www.sparrowmailapp.com/faq-gmaillabels) for Sparrow to work properly." = "The \"%@\" folder cannot be synced properly. Please, activate all your folders in your Gmail settings (http://www.sparrowmailapp.com/faq-gmaillabels) for Sparrow to work properly.";
+"The \"%@\" folder cannot be synced properly. Please activate all your folders in your Gmail settings (http://www.sparrowmailapp.com/faq-gmaillabels) for Sparrow to work properly." = "The \"%@\" folder cannot be synced properly. Please activate all your folders in your Gmail settings (http://www.sparrowmailapp.com/faq-gmaillabels) for Sparrow to work properly.";
 
 /* The attachment could not be downloaded. description in the dialog box. %@ is the filename of the attachment. */
-"The attachment \"%@\" could not be downloaded. Please, retry later." = "The attachment \"%@\" could not be downloaded. Please, retry later.";
+"The attachment \"%@\" could not be downloaded. Please retry later." = "The attachment \"%@\" could not be downloaded. Please retry later.";
 
 /* The attachment could not be downloaded. no filename is available for the attachment. description in the dialog box. */
-"The attachment could not be downloaded. Please, retry later." = "The attachment could not be downloaded. Please, retry later.";
+"The attachment could not be downloaded. Please retry later." = "The attachment could not be downloaded. Please retry later.";
 
 /* error when a folder creation failed, title of the dialog */
 "The folder could not be created" = "The folder could not be created";
@@ -450,7 +847,10 @@
 "The label could not be deleted." = "The label could not be deleted.";
 
 /* The message could not be sent. description in the dialog. %@ is the subject of the message */
-"The message \"%@\" could not be sent. Please, retry later." = "The message \"%@\" could not be sent. Please, retry later.";
+"The message \"%@\" could not be sent. Please retry later." = "The message \"%@\" could not be sent. Please retry later.";
+
+/* error description. %@ is the subject of the email. */
+"The message \"%@\" could not be sent. The alias is probably wrong or the recipient is not allowed." = "The message \"%@\" could not be sent. The alias is probably wrong or the recipient is not allowed.";
 
 /* error description. */
 "The message \"%@\" could not be sent. Unexpected error (%i)." = "The message \"%1$@\" could not be sent. Unexpected error (%2$i).";
@@ -465,10 +865,10 @@
 "The message cannot be saved to Drafts. The attachments of the message with no subject are probably too large." = "The message cannot be saved to Drafts. The attachments of the message with no subject are probably too large.";
 
 /* error description. */
-"The message could not be moved to Trash. Please, retry later." = "The message could not be moved to Trash. Please, retry later.";
+"The message could not be moved to Trash. Please retry later." = "The message could not be moved to Trash. Please retry later.";
 
 /* error description (for gmail). */
-"The message could not be saved to Drafts. Please, activate all your folders in your Gmail settings (http://www.sparrowmailapp.com/faq-gmaillabels) for Sparrow to work properly." = "The message could not be saved to Drafts. Please, activate all your folders in your Gmail settings (http://www.sparrowmailapp.com/faq-gmaillabels) for Sparrow to work properly.";
+"The message could not be saved to Drafts. Please activate all your folders in your Gmail settings (http://www.sparrowmailapp.com/faq-gmaillabels) for Sparrow to work properly." = "The message could not be saved to Drafts. Please activate all your folders in your Gmail settings (http://www.sparrowmailapp.com/faq-gmaillabels) for Sparrow to work properly.";
 
 /* error description (generic imap). */
 "The message could not be saved to Drafts. This mailbox was not found and could not be created." = "The message could not be saved to Drafts. This mailbox was not found and could not be created.";
@@ -477,7 +877,11 @@
 "The message could not be sent." = "The message could not be sent.";
 
 /* error description. */
-"The message could not be sent. Please, retry later." = "The message could not be sent. Please, retry later.";
+"The message could not be sent. Please retry later." = "The message could not be sent. Please retry later.";
+
+/* error description for email without subject.
+   error description. */
+"The message could not be sent. The alias is probably wrong or the recipient is not allowed." = "The message could not be sent. The alias is probably wrong or the recipient is not allowed.";
 
 /* error description. %@ is the subject of the email. */
 "The message could not be sent. The attachments of the message \"%@\" are probably too large." = "The message could not be sent. The attachments of the message \"%@\" are probably too large.";
@@ -495,7 +899,7 @@
 "The message database cannot be found or created, and is required. The default location for this folder is in Library > Application Folder > Sparrow." = "The message database cannot be found or created, and is required. The default location for this folder is in Library > Application Folder > Sparrow.";
 
 /* The message with no subject could not be sent. description in the dialog. */
-"The message with no subject could not be sent. Please, retry later." = "The message with no subject could not be sent. Please, retry later.";
+"The message with no subject could not be sent. Please retry later." = "The message with no subject could not be sent. Please retry later.";
 
 /* when a message is opened using a URL. %@ is the URL */
 "The message with the URL %@ could not be found." = "The message with the URL %@ could not be found.";
@@ -519,8 +923,11 @@
 /* error description. */
 "The sent message could not be saved to \"Sent Messages\"." = "The sent message could not be saved to \"Sent Messages\".";
 
+/* When CloudApp file size limit is reached. */
+"This file is too large to be uploaded to CloudApp." = "This file is too large to be uploaded to CloudApp.";
+
 /* error description. */
-"This folder could not be opened. Please, retry later." = "This folder could not be opened. Please, retry later.";
+"This folder could not be opened. Please retry later." = "This folder could not be opened. Please retry later.";
 
 /* license is granted. %@ is the name. description in the dialog box. */
 "This license is granted to %@" = "This license is granted to %@";
@@ -541,7 +948,7 @@
 "This version is not compatible with Leopard" = "This version is not compatible with Leopard";
 
 /* sparrow expired. description of dialog box. */
-"This version of Sparrow has expired. Please, download the latest version." = "This version of Sparrow has expired. Please, download the latest version.";
+"This version of Sparrow has expired. Please download the latest version." = "This version of Sparrow has expired. Please download the latest version.";
 
 /* message cell: in sent mailbox, before recipient
    search bar */
@@ -553,13 +960,26 @@
 /* error description. */
 "Too many simultaneous connections your account." = "Too many simultaneous connections your account.";
 
-/* name of the folder in error message when the folder is not available
+/* main menu */
+"Transformations" = "Transformations";
+
+/* main menu
+   name of the folder in error message when the folder is not available
    tooltip for Trash
    trash bar label */
 "Trash" = "Trash";
 
+/* main menu */
+"Underline" = "Underline";
+
+/* main menu */
+"Undo" = "Undo";
+
 /* Unexpected error %@ is the error domain. %u is the error code. */
 "Unexpected error (%@/%u)" = "Unexpected error (%1$@/%2$u)";
+
+/* Unexpected error when connecting to CloudApp */
+"Unexpected error while connecting to CloudApp servers." = "Unexpected error while connecting to CloudApp servers.";
 
 /* tooltip: Unified Inbox */
 "Unified Inbox" = "Unified Inbox";
@@ -577,6 +997,30 @@
 /* status bar text: %@ is the last sync date */
 "Updated on %@" = "Updated on %@";
 
+/* main menu */
+"Use All" = "Use All";
+
+/* main menu */
+"Use Default" = "Use Default";
+
+/* main menu */
+"Use Loosen" = "Use Loosen";
+
+/* main menu */
+"Use None" = "Use None";
+
+/* main menu */
+"Use Selection for Find" = "Use Selection for Find";
+
+/* main menu */
+"Use Tighten" = "Use Tighten";
+
+/* main menu */
+"Window" = "Window";
+
+/* main menu */
+"Writing Direction" = "Writing Direction";
+
 /* when pressing on the empty trash button from trash bar, description */
 "You can't undo this action." = "You can't undo this action.";
 
@@ -586,4 +1030,10 @@
 
 /* installation corrupted: description in the dialog box. */
 "You should uninstall the application and download it again." = "You should uninstall the application and download it again.";
+
+/* When upload limit is reached on CloudApp. */
+"You've reached the daily upload limit allowed by the free plan of CloudApp." = "You've reached the daily upload limit allowed by the free plan of CloudApp.";
+
+/* main menu */
+"Zoom" = "Zoom";
 

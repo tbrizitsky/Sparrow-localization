@@ -28,10 +28,10 @@
 "Add to Address Book" = "Add to Address Book";
 
 /* When an attachment could not be downloaded. %@ is the filename. description of the dialog box. */
-"Attachments of the message \"%@\" could not be downloaded. Please, retry later." = "Attachments of the message \"%@\" could not be downloaded. Please, retry later.";
+"Attachments of the message \"%@\" could not be downloaded. Please retry later." = "Attachments of the message \"%@\" could not be downloaded. Please retry later.";
 
 /* When an attachment with no name could not be downloaded. description of the dialog box. */
-"Attachments of the message with no subject could not be downloaded. Please, retry later." = "Attachments of the message with no subject could not be downloaded. Please, retry later.";
+"Attachments of the message with no subject could not be downloaded. Please retry later." = "Attachments of the message with no subject could not be downloaded. Please retry later.";
 
 /* In the reply message, header of the attachments. */
 "Attachments:" = "Attachments:";
@@ -95,7 +95,7 @@
 "invalid address" = "invalid address";
 
 /* Shown in the conversation view, placeholder for the message contents when loading is in progress. */
-"Loading\\U2026" = "Loading…";
+"Loading\\U2026" = "Loading\U2026";
 
 /* Warning message when the quick reply is empty. description in dialog box. */
 "Make sure your reply is not empty before sending your email." = "Make sure your reply is not empty before sending your email.";
@@ -166,13 +166,13 @@
 
 /* menu item in attachment menu
    menu item in message menu */
-"Save Attachment As\\U2026" = "Save Attachment As…";
+"Save Attachment As\\U2026" = "Save Attachment As\U2026";
 
 /* Send button for quickreply */
 "Send" = "Send";
 
 /* 'Sending' label in quick reply when the sending is in progress */
-"Sending\\U2026" = "Sending…";
+"Sending\\U2026" = "Sending\U2026";
 
 /* 'Sent' label in quick reply when the message has been sent */
 "Sent" = "Sent";
@@ -186,10 +186,10 @@
 "Subject" = "Subject";
 
 /* When an attachment could not be downloaded. %@ is the filename. description of the dialog box. */
-"The attachment \"%@\" could not be downloaded. Please, retry later." = "The attachment \"%@\" could not be downloaded. Please, retry later.";
+"The attachment \"%@\" could not be downloaded. Please retry later." = "The attachment \"%@\" could not be downloaded. Please retry later.";
 
 /* When an attachment with no name could not be downloaded. description of the dialog box. */
-"The attachment could not be downloaded. Please, retry later." = "The attachment could not be downloaded. Please, retry later.";
+"The attachment could not be downloaded. Please retry later." = "The attachment could not be downloaded. Please retry later.";
 
 /* Shown in the conversation view, placeholder for the message contents when it has not been loaded or could not be loaded. */
 "The content of the message has not been downloaded yet." = "The content of the message has not been downloaded yet.";

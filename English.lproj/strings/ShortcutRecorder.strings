@@ -23,9 +23,6 @@
 "Space" = "Space";
 
 /* error description */
-"The key combination %@ can't be used!" = "The key combination %@ can't be used!";
-
-/* error description */
 "The key combination \"%@\" can't be used because %@." = "The key combination \"%1$@\" can't be used because %2$@.";
 
 /* error description */
@@ -33,6 +30,9 @@
 
 /* error description */
 "The key combination \"%@\" can't be used because it's already used by the menu item \"%@\"." = "The key combination \"%1$@\" can't be used because it's already used by the menu item \"%2$@\".";
+
+/* error description */
+"The key combination %@ can't be used!" = "The key combination %@ can't be used!";
 
 /* displayed in the cell */
 "Type shortcut" = "Type shortcut";

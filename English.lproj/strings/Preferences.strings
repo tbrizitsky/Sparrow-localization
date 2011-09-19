@@ -19,10 +19,14 @@
 /* prefs > organize > advanced, in popup button, when IMAP prefix is empty */
 "(Empty prefix)" = "(Empty prefix)";
 
+/* general prefs */
+"(Will be active at next restart)" = "(Will be active at next restart)";
+
 /* Account (lite mode) section in preferences */
 "Account" = "Account";
 
-/* Accounts section in preferences */
+/* Accounts section in preferences
+   prefs tab items */
 "Accounts" = "Accounts";
 
 /* email/password assistant. lite version limitation. */
@@ -32,16 +36,32 @@
 "Add Account" = "Add Account";
 
 /* Add folder at the same level menu item. %@ is the name of the folder. */
-"Add folder at the same level as \"%@\"\\U2026" = "Add folder at the same level as \"%@\"…";
+"Add folder at the same level as \"%@\"\\U2026" = "Add folder at the same level as \"%@\"\U2026";
 
 /* Add folder below menu item. %@ is the name of the folder. */
-"Add folder below \"%@\"\\U2026" = "Add folder below \"%@\"…";
+"Add folder below \"%@\"\\U2026" = "Add folder below \"%@\"\U2026";
+
+/* folders prefs: tab item
+   prefs tab items */
+"Advanced" = "Advanced";
+
+/* account selection label */
+"Alias for:" = "Alias for:";
+
+/* prefs tab items */
+"Aliases" = "Aliases";
+
+/* advanced prefs */
+"Always reply all" = "Always reply all";
 
 /* Assistant: when an account with the same email already exists. */
 "An account with the same information has already been entered." = "An account with the same information has already been entered.";
 
 /* Assistant: when an account has an alias with the same email address. */
 "An alias with the same email has already been entered." = "An alias with the same email has already been entered.";
+
+/* folders prefs: folder mapping */
+"Archive Folder" = "Archive Folder";
 
 /* account deletion confirmation. %@ is the email. title of the dialog box. */
 "Are you sure you want to delete the account \"%@\"?" = "Are you sure you want to delete the account \"%@\"?";
@@ -58,6 +78,9 @@
 /* when pressing on the disconnect button from facebook, description in the dialog box */
 "Are you sure you want to disconnect from Facebook?" = "Are you sure you want to disconnect from Facebook?";
 
+/* cloudapp prefs: logged in */
+"Attach files with CloudApp" = "Attach files with CloudApp";
+
 /* license window: buy button */
 "Buy License" = "Buy License";
 
@@ -68,14 +91,17 @@
 "Buy your license to remove ads in\nSparrow." = "Buy your license to remove ads in\nSparrow.";
 
 /* account deletion confirmation. Cancel button
+   account edition
+   alias prefs: cancel button
    confirm alias deletion. Cancel button
    imap assistant: Cancel button.
+   imap prefix: cancel button
    smtp assistant. Cancel button.
    when disconnecting from facebook: Cancel button
    when removing a folder from preferences: Cancel button */
 "Cancel" = "Cancel";
 
-/* title when no internet conenction or facebook.com unreachable */
+/* title when no internet connction or facebook.com unreachable */
 "Cannot connect to Facebook" = "Cannot connect to Facebook";
 
 /* when folder name is not valid. %@ is the name of the label. */
@@ -91,7 +117,19 @@
 "Cannot rename label to \"%@\"" = "Cannot rename label to \"%@\"";
 
 /* prefs > organize > advanced, in imap prefix popup */
-"Choose IMAP Prefix\\U2026" = "Choose IMAP Prefix…";
+"Choose IMAP Prefix\\U2026" = "Choose IMAP Prefix\U2026";
+
+/* prefs tab items */
+"CloudApp" = "CloudApp";
+
+/* labels prefs: column name */
+"Color" = "Color";
+
+/* advanced prefs */
+"Composer:" = "Composer:";
+
+/* cloudapp prefs: login */
+"Connect" = "Connect";
 
 /* ask user to connect to facebook
    title of assistant window */
@@ -101,7 +139,10 @@
 "Connected to Facebook!" = "Connected to Facebook!";
 
 /* informative message when no internet conenction or facebook.com unreachable */
-"Connection to Facebook could not be established. Either your connection is not available or Facebook is unavailable. Please, retry later." = "Connection to Facebook could not be established. Either your connection is not available or Facebook is unavailable. Please, retry later.";
+"Connection to Facebook could not be established. Either your connection is not available or Facebook is unavailable. Please retry later." = "Connection to Facebook could not be established. Either your connection is not available or Facebook is unavailable. Please retry later.";
+
+/* advanced prefs */
+"Conversation View:" = "Conversation View:";
 
 /* email/password assistant. Create button. */
 "Create" = "Create";
@@ -109,12 +150,22 @@
 /* title of assistant window */
 "Custom SMTP for Alias" = "Custom SMTP for Alias";
 
+/* column name for alias preferences */
+"Default" = "Default";
+
 /* account deletion confirmation. Delete button
    confirm alias deletion. Delete button
    when removing a folder from preferences: Delete button */
 "Delete" = "Delete";
 
-/* when disconnecting from facebook: Disconnect button */
+/* advanced prefs */
+"Delete key moves to trash" = "Delete key moves to trash";
+
+/* advanced prefs */
+"Disable quick reply" = "Disable quick reply";
+
+/* cloudapp prefs: logged in
+   when disconnecting from facebook: Disconnect button */
 "Disconnect" = "Disconnect";
 
 /* button to disconnect from facebook action */
@@ -123,15 +174,93 @@
 /* restart needed. title of the dialog box. */
 "Do you want to restart?" = "Do you want to restart?";
 
-/* facebook assistant. Done button
+/* general prefs */
+"Dock and Menu Bar" = "Dock and Menu Bar";
+
+/* cloudapp prefs: login */
+"Don't have an account?" = "Don't have an account?";
+
+/* account edition
+   alias prefs: done button
+   facebook assistant. Done button
+   imap prefix: done button
    SMTP alias activation. Done button */
 "Done" = "Done";
+
+/* advanced prefs */
+"Download messages on demand" = "Download messages on demand";
+
+/* folders prefs: folder mapping */
+"Drafts Folder" = "Drafts Folder";
+
+/* account prefs
+   button label */
+"Edit" = "Edit";
+
+/* account prefs: column name
+   column name for alias preferences */
+"Email" = "Email";
+
+/* account edition
+   cloudapp prefs: login */
+"Email:" = "Email:";
+
+/* for non-registered version, only one account is allowed: email field. %@ is the email address */
+"Email: %@" = "Email: %@";
+
+/* advanced prefs */
+"Enable send and archive" = "Enable send and archive";
+
+/* prefs tab items */
+"Facebook" = "Facebook";
+
+/* folders prefs: column name
+   folders prefs: tab item */
+"Folders" = "Folders";
 
 /* label in front of popup button (generic imap) */
 "Folders for:" = "Folders for:";
 
-/* text for facebook post to wall */
+/* Forgot your password */
+"Forgot your password" = "Forgot your password";
+
+/* prefs tab items */
+"General" = "General";
+
+/* Get a pro account on the CloudApp Store */
+"Get a pro account on the CloudApp Store" = "Get a pro account on the CloudApp Store";
+
+/* advanced prefs */
+"Hide message preview" = "Hide message preview";
+
+/* advanced prefs */
+"Hide pictures" = "Hide pictures";
+
+/* advanced prefs */
+"Hide selection bar in Inbox" = "Hide selection bar in Inbox";
+
+/* text for facebook post to wall. */
 "I have just downloaded Sparrow Mail for Mac." = "I have just downloaded Sparrow Mail for Mac.";
+
+/* folders prefs: imap prefix */
+"IMAP Prefix" = "IMAP Prefix";
+
+/* account edition
+   alias prefs: placeholder for name */
+"John Doe" = "John Doe";
+
+/* alias prefs: placeholder for email */
+"john.doe@etpan.org" = "john.doe@etpan.org";
+
+/* account edition
+   cloudapp prefs: login */
+"john.doe@sparrowmailapp.com" = "john.doe@sparrowmailapp.com";
+
+/* advanced prefs */
+"Keyboard:" = "Keyboard:";
+
+/* labels prefs: column name */
+"Labels" = "Labels";
 
 /* label in front of popup button (for gmail) */
 "Labels for:" = "Labels for:";
@@ -144,8 +273,30 @@
 /* license: title of the window */
 "License" = "License";
 
+/* button label */
+"Make Default" = "Make Default";
+
+/* general prefs */
+"Make Sparrow the default mail reader" = "Make Sparrow the default mail reader";
+
+/* advanced prefs */
+"Message List:" = "Message List:";
+
+/* button label for custom smtp */
+"More\\U2026" = "More\U2026";
+
+/* column name for alias preferences */
+"Name" = "Name";
+
+/* account edition
+   alias prefs: label for name */
+"Name:" = "Name:";
+
 /* default folder name when creating a folder. */
 "New Folder" = "New Folder";
+
+/* advanced prefs */
+"New message:" = "New message:";
 
 /* default label name when creating a label. */
 "newlabel" = "newlabel";
@@ -165,18 +316,94 @@
 /* None menu item for folder mapping. */
 "None" = "None";
 
+/* account prefs
+   account prefs: column name */
+"Notifications" = "Notifications";
+
+/* general prefs section */
+"Notifications:" = "Notifications:";
+
+/* general prefs */
+"Only in Dock" = "Only in Dock";
+
+/* general prefs */
+"Only in Menu Bar" = "Only in Menu Bar";
+
 /* error description. */
 "Open Preferences > Facebook if you want to connect again." = "Open Preferences > Facebook if you want to connect again.";
+
+/* prefs tab items */
+"Organize" = "Organize";
+
+/* general prefs, save attachments to */
+"Other\\U2026" = "Other\U2026";
+
+/* account edition
+   cloudapp prefs: login */
+"Password:" = "Password:";
 
 /* explain facebook new facebook profile picture
    explain the reason why it is great to use facebook */
 "Personalize your Inbox with your friend's Facebook profile pictures." = "Personalize your Inbox with your friend's Facebook profile pictures.";
 
+/* account edition */
+"Photo:" = "Photo:";
+
+/* general prefs */
+"Play sound when receiving/sending mail" = "Play sound when receiving/sending mail";
+
+/* cloudapp prefs: logged in */
+"Play sound when upload is finished" = "Play sound when upload is finished";
+
+/* imap prefix: done button */
+"Prefix:" = "Prefix:";
+
+/* account edition */
+"Receiving Server:" = "Receiving Server:";
+
+/* folders prefs: button */
+"Refresh" = "Refresh";
+
+/* account prefs */
+"Remove" = "Remove";
+
 /* Removing account in progress. %@ is the email address. */
-"Removing %@\\U2026" = "Removing %@…";
+"Removing %@\\U2026" = "Removing %@\U2026";
+
+/* account edition
+   cloudapp prefs: login */
+"Required" = "Required";
 
 /* restart needed. Restart Now button */
 "Restart Now" = "Restart Now";
+
+/* general prefs section */
+"Save Attachments to:" = "Save Attachments to:";
+
+/* account edition */
+"Sending Server:" = "Sending Server:";
+
+/* folders prefs: folder mapping */
+"Sent Folder" = "Sent Folder";
+
+/* folders prefs: column name
+   labels prefs: column name */
+"Show" = "Show";
+
+/* general prefs section */
+"Show Icon in:" = "Show Icon in:";
+
+/* advanced prefs */
+"Show older messages first" = "Show older messages first";
+
+/* advanced prefs */
+"Show Unified Inbox" = "Show Unified Inbox";
+
+/* advanced prefs */
+"Show/Hide Sparrow:" = "Show/Hide Sparrow:";
+
+/* prefs tab items */
+"Signature" = "Signature";
 
 /* email/password assistant. Skip Checks button */
 "Skip Checks" = "Skip Checks";
@@ -189,6 +416,18 @@
 
 /* explain facebook new facebook profile picture */
 "Sparrow now integrates Facebook's profile pictures" = "Sparrow now integrates Facebook's profile pictures";
+
+/* cloudapp prefs: login */
+"Start sharing files right now. Already have an account? Sign in." = "Start sharing files right now. Already have an account? Sign in.";
+
+/* general prefs */
+"Start Sparrow at Login" = "Start Sparrow at Login";
+
+/* advanced prefs */
+"Sync Behavior:" = "Sync Behavior:";
+
+/* general prefs section */
+"System:" = "System:";
 
 /* checkbox on/off post to facebook wall */
 "Tell your friends about Sparrow" = "Tell your friends about Sparrow";
@@ -233,8 +472,20 @@
 /* HTML message when Growl was not installed. */
 "To show new email notifications, you should <a href=\"http://growl.info/\">install Growl</a>." = "To show new email notifications, you should <a href=\"http://growl.info/\">install Growl</a>.";
 
+/* folders prefs: folder mapping */
+"Trash Folder" = "Trash Folder";
+
+/* advanced prefs */
+"Unified Inbox:" = "Unified Inbox:";
+
 /* upgrade window: title of the window (lite version) */
 "Upgrade" = "Upgrade";
+
+/* advanced prefs */
+"Use Gmail shortcuts" = "Use Gmail shortcuts";
+
+/* general prefs */
+"Use Growl notifications" = "Use Growl notifications";
 
 /* facebook wall: view button */
 "View" = "View";
@@ -248,7 +499,8 @@
 /* explain that opportunity is given to the user to disconnect from facebook */
 "You have enabled Facebook profile pictures with Sparrow. Click here to disable and stop seeing profile pictures." = "You have enabled Facebook profile pictures with Sparrow. Click here to disable and stop seeing profile pictures.";
 
-/* Assistant: error when no email has been entered. */
+/* Assistant: error when no email has been entered.
+   error when no email has been entered. */
 "Your email has not been entered. Please enter your email address." = "Your email has not been entered. Please enter your email address.";
 
 /* IMAP assistant: when no hostname has been entered. */
@@ -263,7 +515,8 @@
 /* Assistant: when the password has not been entered.
    IMAP assistant: when no password has been entered.
    password not entered (for non generic imap).
-   SMTP Assistant: when no password has been entered. */
+   SMTP Assistant: when no password has been entered.
+   when the password has not been entered. */
 "Your password has not been entered. Please enter your account password." = "Your password has not been entered. Please enter your account password.";
 
 /* SMTP Assistant: when no hostname has been entered. */

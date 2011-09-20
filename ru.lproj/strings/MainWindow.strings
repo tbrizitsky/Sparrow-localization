@@ -318,616 +318,616 @@
 "Forward" = "Переслать";
 
 /* search bar */
-"From" = "From";
+"From" = "От";
 
 /* displayed in mesage list: Getting messages */
-"Getting messages" = "Getting messages";
+"Getting messages" = "Загрузка сообщений";
 
 /* main menu */
-"Go to Next Message" = "Go to Next Message";
+"Go to Next Message" = "Перейти к следующему сообщению";
 
 /* main menu */
-"Go to Previous Message" = "Go to Previous Message";
+"Go to Previous Message" = "Перейти к предыдущему сообщению";
 
 /* main menu */
-"Help" = "Help";
+"Help" = "Справка";
 
 /* main menu */
-"Hide Others" = "Hide Others";
+"Hide Others" = "Скрыть остальные";
 
 /* main menu */
-"Hide Sparrow" = "Hide Sparrow";
+"Hide Sparrow" = "Скрыть Sparrow";
 
 /* A new version is available. Ignore button. */
-"Ignore" = "Ignore";
+"Ignore" = "Игнорировать";
 
 /* error description (for gmail). */
-"IMAP is not enabled. Please check your settings on Gmail Web." = "IMAP is not enabled. Please check your settings on Gmail Web.";
+"IMAP is not enabled. Please check your settings on Gmail Web." = "IMAP не включен. Проверьте настройки на сайте Gmail.";
 
 /* error description (for gmail). */
-"IMAP is not enabled. Please contact your provider." = "IMAP is not enabled. Please contact your provider.";
+"IMAP is not enabled. Please contact your provider." = "IMAP не включен. Свяжитесь со своим интернет-провайдером.";
 
 /* Important menu item for priority inbox */
-"Important" = "Important";
+"Important" = "Важное";
 
 /* displayed in mesage list: Importing */
-"Importing" = "Importing";
+"Importing" = "Импортирую";
 
 /* when importing. %@ is the email that is being imported. */
-"Importing %@\\U2026" = "Importing %@\U2026";
+"Importing %@\\U2026" = "Импортирую %@\U2026";
 
 /* import description */
-"Importing data from previous version of Sparrow.\nPlease wait while import is in progress\\U2026" = "Importing data from previous version of Sparrow.\nPlease wait while import is in progress\U2026";
+"Importing data from previous version of Sparrow.\nPlease wait while import is in progress\\U2026" = "Импортирую данные из предыдущей версии Sparrow.\nДождитесь завершения процесса\U2026";
 
 /* importing: title of the window */
-"Importing Mails" = "Importing Mails";
+"Importing Mails" = "Импортирую сообщения";
 
 /* inbox selection bar: Inbox
    main menu
    name of the folder in error message when the folder is not available
    tooltip for Inbox */
-"Inbox" = "Inbox";
+"Inbox" = "Входящие";
 
 /* main menu */
-"Increase Indent Level" = "Increase Indent Level";
+"Increase Indent Level" = "Увеличить отступ";
 
 /* main menu */
-"Increase Quote Level" = "Increase Quote Level";
+"Increase Quote Level" = "Увеличить уровень цитаты";
 
 /* main menu */
-"Indentation" = "Indentation";
+"Indentation" = "Отступ";
 
 /* error description (for gmail). */
-"Information could not be saved to Gmail. Please retry later." = "Information could not be saved to Gmail. Please retry later.";
+"Information could not be saved to Gmail. Please retry later." = "Не удалось сохранить данные в Gmail. Попробуйте позже.";
 
 /* error description (generic imap). */
-"Information could not be saved to the mail server. Please retry later." = "Information could not be saved to the mail server. Please retry later.";
+"Information could not be saved to the mail server. Please retry later." = "Не удалось сохранить данные на почтовом сервере. Попробуйте позже.";
 
 /* installation corrupted: title of the dialog box. */
-"Install is corrupted" = "Install is corrupted";
+"Install is corrupted" = "Установщик поврежден";
 
 /* main menu */
-"Italic" = "Italic";
+"Italic" = "Курсив";
 
 /* main menu */
-"Jump to Selection" = "Jump to Selection";
+"Jump to Selection" = "Перейти к выбранному";
 
 /* main menu */
-"Justify" = "Justify";
+"Justify" = "Выровнять по ширине";
 
 /* main menu */
-"Kern" = "Kern";
+"Kern" = "Кернинг";
 
 /* conversation list: menu item
    main menu */
-"Label" = "Label";
+"Label" = "Метка";
 
 /* label of the label button
    Labels menu item (as title of the menu)
    main menu
    tooltip for Labels section in sidebar
    tooltip of the label button */
-"Labels" = "Labels";
+"Labels" = "Метки";
 
 /* main menu */
-"Left to Right" = "Left to Right";
+"Left to Right" = "Слева направо";
 
 /* license is granted. title of the dialog box. */
-"License added" = "License added";
+"License added" = "Лицензия добавлена";
 
 /* main menu */
-"License\\U2026" = "License\U2026";
+"License\\U2026" = "Лицензия\U2026";
 
 /* main menu */
-"Ligature" = "Ligature";
+"Ligature" = "Лигатура";
 
 /* main menu */
-"List" = "List";
+"List" = "Список";
 
 /* displayed in mesage list: Loading */
-"Loading" = "Loading";
+"Loading" = "Загрузка";
 
 /* main menu */
-"Log Message" = "Log Message";
+"Log Message" = "Занести сообщение в журнал";
 
 /* main menu */
-"Log Protocol" = "Log Protocol";
+"Log Protocol" = "Записывать данные протокола в журнал";
 
 /* main menu */
-"Lower" = "Lower";
+"Lower" = "Опустить";
 
 /* main menu */
-"Make Lower Case" = "Make Lower Case";
+"Make Lower Case" = "Преобразовать в нижний регистр";
 
 /* main menu */
-"Make Upper Case" = "Make Upper Case";
+"Make Upper Case" = "Преобразовать в верхний регистр";
 
 /* conversation list: menu item
    main menu
    Mark as Important menu item for priority inbox. */
-"Mark as Important" = "Mark as Important";
+"Mark as Important" = "Пометить как важное";
 
 /* conversation list: menu item
    Mark as Read menu item */
-"Mark as Read" = "Mark as Read";
+"Mark as Read" = "Пометить как прочитанное";
 
 /* conversation list: menu item
    main menu
    Mark as Spam menu item */
-"Mark as Spam" = "Mark as Spam";
+"Mark as Spam" = "Пометить как спам";
 
 /* conversation list: menu item
    main menu
    Mark as Starred menu item */
-"Mark as Starred" = "Mark as Starred";
+"Mark as Starred" = "Отметить звездочкой";
 
 /* conversation list: menu item
    main menu
    Mark as Unread menu item */
-"Mark as Unread" = "Mark as Unread";
+"Mark as Unread" = "Снять пометку о прочтении";
 
 /* main menu */
-"Message" = "Message";
+"Message" = "Сообщение";
 
 /* Message could not be sent. title of the dialog. */
-"Message could not be sent" = "Message could not be sent";
+"Message could not be sent" = "Не удалось отправить сообщение";
 
 /* account needed to open a compose window. title of the dialog box. */
-"Message not found" = "Message not found";
+"Message not found" = "Сообщение не найдено";
 
 /* main menu */
-"Message Panel" = "Message Panel";
+"Message Panel" = "Панель сообщений";
 
 /* Messages are being sent while quitting. description in the dialog box. */
-"Messages are being sent. If you quit now, this will cancel the progress. Messages will be kept as drafts." = "Messages are being sent. If you quit now, this will cancel the progress. Messages will be kept as drafts.";
+"Messages are being sent. If you quit now, this will cancel the progress. Messages will be kept as drafts." = "Идет отправка сообщений. Если вы завершите работу сейчас, отправка будет прервана. Сообщения будут сохранены как черновики.";
 
 /* main menu */
-"Minimize" = "Minimize";
+"Minimize" = "Свернуть";
 
 /* Move To menu item
    Move To menu item (as title of the menu)
    Move To menu item (generic imap) */
-"Move To" = "Move To";
+"Move To" = "Переместить в";
 
 /* conversation list: menu item
    main menu */
-"Move to Inbox" = "Move to Inbox";
+"Move to Inbox" = "Переместить во Входящие";
 
 /* error description. */
-"Namespace is not available." = "Namespace is not available.";
+"Namespace is not available." = "Пространство имен недоступно.";
 
 /* status bar text: when no sync has occurred for the selected folder. */
-"Never updated" = "Never updated";
+"Never updated" = "Не обновлялась";
 
 /* main menu */
-"New Message" = "New Message";
+"New Message" = "Новое сообщение";
 
 /* tooltip of the compose toolbar button */
-"New message" = "New message";
+"New message" = "Новое сообщение";
 
 /* name of the growl notification of Sparrow for the preferences of Growl in the prefs panel */
-"New Message Notification" = "New Message Notification";
+"New Message Notification" = "Новое сообщение";
 
 /* displayed in message list: No conversations */
-"No conversations" = "No conversations";
+"No conversations" = "Сообщений не выбрано";
 
 /* in labels list menu */
-"No folders" = "No folders";
+"No folders" = "Нет папок";
 
 /* in labels list menu */
-"No labels" = "No labels";
+"No labels" = "Нет меток";
 
 /* main menu */
-"None" = "None";
+"None" = "Нет";
 
 /* conversation list: menu item
    Not Important menu item for priority inbox. */
-"Not Important" = "Not Important";
+"Not Important" = "Не важное";
 
 /* conversation list: menu item
    Not Spam menu item */
-"Not Spam" = "Not Spam";
+"Not Spam" = "Не спам";
 
 /* main menu */
-"Numbered" = "Numbered";
+"Numbered" = "С числами";
 
 /* main menu */
-"Open Message" = "Open Message";
+"Open Message" = "Открыть сообщение";
 
 /* main menu */
-"Page Setup\\U2026" = "Page Setup\U2026";
+"Page Setup\\U2026" = "Параметны страницы\U2026";
 
 /* main menu */
-"Paragraph" = "Paragraph";
+"Paragraph" = "Абзац";
 
 /* main menu */
-"Paste" = "Paste";
+"Paste" = "Вставить";
 
 /* main menu */
-"Paste and Match Style" = "Paste and Match Style";
+"Paste and Match Style" = "Вставить и согласовать стиль";
 
 /* main menu */
-"Paste Ruler" = "Paste Ruler";
+"Paste Ruler" = "Вставить линейку";
 
 /* main menu */
-"Paste Style" = "Paste Style";
+"Paste Style" = "Вставить стиль";
 
 /* Pending for send message indication */
-"Pending" = "Pending";
+"Pending" = "Ожидание";
 
 /* invalidate license: description in the dialog box. */
-"Please buy a valid license." = "Please buy a valid license.";
+"Please buy a valid license." = "Купите настоящую лицензию.";
 
 /* sparrow is already running. description of dialog box. */
-"Please quit the other instance of Sparrow." = "Please quit the other instance of Sparrow.";
+"Please quit the other instance of Sparrow." = "Завершите все другие копии Sparrow.";
 
 /* main menu */
-"Prefer Plain Text" = "Prefer Plain Text";
+"Prefer Plain Text" = "По возможности использовать простой текст";
 
 /* Preferences button in dialog box
    Preferences button in error dialog in case of login error */
-"Preferences" = "Preferences";
+"Preferences" = "Настройки";
 
 /* main menu */
-"Preferences\\U2026" = "Preferences\U2026";
+"Preferences\\U2026" = "Настройки\U2026";
 
 /* main menu */
-"Print\\U2026" = "Print\U2026";
+"Print\\U2026" = "Печать\U2026";
 
 /* inbox selection bar: Priority Inbox */
-"Priority Inbox" = "Priority Inbox";
+"Priority Inbox" = "Важные и непрочитанные";
 
 /* Push mail is not available. */
-"Push mail is not available." = "Push mail is not available.";
+"Push mail is not available." = "Push mail недоступен.";
 
 /* main menu */
-"Quick Reply" = "Quick Reply";
+"Quick Reply" = "Ответить быстро";
 
 /* main menu */
-"Quick Reply All" = "Quick Reply All";
+"Quick Reply All" = "Ответить всем быстро";
 
 /* Quit button when sparrow expired in the dialog */
-"Quit" = "Quit";
+"Quit" = "Завершить";
 
 /* main menu */
-"Quit Sparrow" = "Quit Sparrow";
+"Quit Sparrow" = "Завершить Sparrow";
 
 /* Quit without Sending button when sending while quitting */
-"Quit without Sending" = "Quit without Sending";
+"Quit without Sending" = "Завешить без отправки";
 
 /* main menu */
-"Raise" = "Raise";
+"Raise" = "Поднять";
 
 /* main menu */
-"Redo" = "Redo";
+"Redo" = "Повторить";
 
 /* main menu
    Refresh button in dialog box */
-"Refresh" = "Refresh";
+"Refresh" = "Обновить";
 
 /* A new version is available. Remind me later button */
-"Remind me later" = "Remind me later";
+"Remind me later" = "Напомнить позже";
 
 /* main menu */
-"Remove Formatting" = "Remove Formatting";
+"Remove Formatting" = "Конвертировать в простой текст";
 
 /* conversation list: menu item
    Remove Star menu item */
-"Remove Star" = "Remove Star";
+"Remove Star" = "Снять отметку звездочкой";
 
 /* conversation list: menu item
    label of the reply toolbar button
    main menu
    menu item for reply toolbar button
    tooltip of the reply toolbar button */
-"Reply" = "Reply";
+"Reply" = "Ответить";
 
 /* conversation list: menu item
    main menu
    menu item for reply toolbar button */
-"Reply All" = "Reply All";
+"Reply All" = "Ответить всем";
 
 /* main menu */
-"Restore" = "Restore";
+"Restore" = "Восстановить";
 
 /* conversation list: menu item */
-"Restore from Trash" = "Restore from Trash";
+"Restore from Trash" = "Восстановить из Корзины";
 
 /* main menu */
-"Right to Left" = "Right to Left";
+"Right to Left" = "Справа налево";
 
 /* conversation list: menu item
    main menu */
-"Save All Attachments" = "Save All Attachments";
+"Save All Attachments" = "Сохранить все прикрепленные файлы";
 
 /* conversation list: menu item */
-"Save Attachment" = "Save Attachment";
+"Save Attachment" = "Сохранить прикрепленный файл";
 
 /* conversation list: menu item */
-"Save Attachment As\\U2026" = "Save Attachment As\U2026";
+"Save Attachment As\\U2026" = "Сохранить прикрепленный файл как\U2026";
 
 /* main menu */
-"Save Draft" = "Save Draft";
+"Save Draft" = "Сохранить черновик";
 
 /* saving attachment progress description, %@ is the filename of the attachment. */
-"Saving %@" = "Saving %@";
+"Saving %@" = "Сохранение %@";
 
 /* main menu
    tooltip for Search */
-"Search" = "Search";
+"Search" = "Поиск";
 
 /* main menu */
-"Search Messages" = "Search Messages";
+"Search Messages" = "Искать сообщения";
 
 /* displayed in mesage list: Searching */
-"Searching" = "Searching";
+"Searching" = "Идет поиск";
 
 /* error description (for gmail). */
-"Secure connection is not currently available on Gmail. Please retry later." = "Secure connection is not currently available on Gmail. Please retry later.";
+"Secure connection is not currently available on Gmail. Please retry later." = "Безопасное соединение с Gmail временно недоступно. Попробуйте позже.";
 
 /* main menu */
-"Select All" = "Select All";
+"Select All" = "Выбрать все";
 
 /* main menu */
-"Select Labels/Folders" = "Select Labels/Folders";
+"Select Labels/Folders" = "Выбрать метки/папки";
 
 /* main menu */
-"Select Next Account" = "Select Next Account";
+"Select Next Account" = "Выбрать следующую учетную запись";
 
 /* main menu */
-"Select Previous Accunt" = "Select Previous Accunt";
+"Select Previous Accunt" = "Выбрать предыдущую учетную запись";
 
 /* main menu */
-"Selection" = "Selection";
+"Selection" = "Выбор";
 
 /* main menu */
-"Send and Archive" = "Send and Archive";
+"Send and Archive" = "Отправить и архивировать";
 
 /* main menu */
-"Send Message" = "Send Message";
+"Send Message" = "Отправить сообщение";
 
 /* sending progress description, %@ is the subject of the message
    sending progress description, parameter is the subject of the message */
-"Sending %@" = "Sending %@";
+"Sending %@" = "Отправка %@";
 
 /* tooltip for Sent Messages */
-"Sent" = "Sent";
+"Sent" = "Отправленные";
 
 /* main menu */
-"Sent Mail" = "Sent Mail";
+"Sent Mail" = "Отправленные";
 
 /* name of the folder in error message when the folder is not available */
-"Sent Messages" = "Sent Messages";
+"Sent Messages" = "Отправленные";
 
 /* main menu */
-"Services" = "Services";
+"Services" = "Службы";
 
 /* account needed to open a compose window. title of the dialog box.
    account needed to open a compose window. title the dialog box.
    Title of the error dialog, when applescript is used and no account is available. */
-"Set up one account" = "Set up one account";
+"Set up one account" = "Настройте учетную запись";
 
 /* main menu */
-"Show All" = "Show All";
+"Show All" = "Показать все";
 
 /* main menu */
-"Show Colors" = "Show Colors";
+"Show Colors" = "Показать цвета";
 
 /* main menu */
-"Show Data Folder" = "Show Data Folder";
+"Show Data Folder" = "Показать попку с данными";
 
 /* main menu */
-"Show Fonts" = "Show Fonts";
+"Show Fonts" = "Показать шрифты";
 
 /* main menu */
-"Show Format Bar" = "Show Format Bar";
+"Show Format Bar" = "Показать панель форматирования";
 
 /* main menu */
-"Show Log Folder" = "Show Log Folder";
+"Show Log Folder" = "Показать папку с журналом";
 
 /* main menu */
-"Show Ruler" = "Show Ruler";
+"Show Ruler" = "Показать линейку";
 
 /* main menu */
-"Show Spelling And Grammar" = "Show Spelling And Grammar";
+"Show Spelling And Grammar" = "Показать правописание и грамматику";
 
 /* main menu */
-"Show Substitutions" = "Show Substitutions";
+"Show Substitutions" = "Показать замены";
 
 /* main menu */
-"Sidebar" = "Sidebar";
+"Sidebar" = "Боковая панель";
 
 /* label in special cell in message list. */
-"Since synchronization is not finished. Search results may be incomplete." = "Since synchronization is not finished. Search results may be incomplete.";
+"Since synchronization is not finished. Search results may be incomplete." = "Результат поиска может быть неполным, так как синхронизация еще не завершена.";
 
 /* main menu */
-"Smaller" = "Smaller";
+"Smaller" = "Меньше";
 
 /* main menu */
-"Smart Copy/Paste" = "Smart Copy/Paste";
+"Smart Copy/Paste" = "Смарт-копирование/вставка";
 
 /* main menu */
-"Smart Dashes" = "Smart Dashes";
+"Smart Dashes" = "Смарт-тире";
 
 /* main menu */
-"Smart Links" = "Smart Links";
+"Smart Links" = "Смарт-ссылки";
 
 /* main menu */
-"Smart Quotes" = "Smart Quotes";
+"Smart Quotes" = "Смарт-кавычки";
 
 /* Spam menu item in popup menu, in labels menu
    Spam menu item, in labels menu
    tooltip for Spam */
-"Spam" = "Spam";
+"Spam" = "Спам";
 
 /* main menu */
 "Sparrow" = "Sparrow";
 
 /* main menu */
-"Sparrow Help" = "Sparrow Help";
+"Sparrow Help" = "Справка Sparrow";
 
 /* Sparrow is already running. title of dialog box. */
-"Sparrow is already running" = "Sparrow is already running";
+"Sparrow is already running" = "Sparrow уже запущен";
 
 /* error description (for gmail). */
-"Sparrow is trying to connect to a server that is pretending to be Gmail server." = "Sparrow is trying to connect to a server that is pretending to be Gmail server.";
+"Sparrow is trying to connect to a server that is pretending to be Gmail server." = "Sparrow пытается соединиться с сервером, притворяющимся сервером Gmail.";
 
 /* error description (generic imap). */
-"Sparrow is trying to connect to a server that is pretending to the mail server." = "Sparrow is trying to connect to a server that is pretending to the mail server.";
+"Sparrow is trying to connect to a server that is pretending to the mail server." = "Sparrow пытается соединиться с сервером, притворяющимся почтовым.";
 
 /* main menu */
-"Speech" = "Speech";
+"Speech" = "Проговаривание текста";
 
 /* main menu */
-"Spelling and Grammar" = "Spelling and Grammar";
+"Spelling and Grammar" = "Правописание и грамматика";
 
 /* main menu
    name of the folder in error message when the folder is not available
    tooltip for Starred */
-"Starred" = "Starred";
+"Starred" = "Отмеченные";
 
 /* main menu */
-"Start Speaking" = "Start Speaking";
+"Start Speaking" = "Начать";
 
 /* main menu */
-"Stop Speaking" = "Stop Speaking";
+"Stop Speaking" = "Остановить";
 
 /* search bar */
-"Subject" = "Subject";
+"Subject" = "Тема";
 
 /* main menu */
-"Subscript" = "Subscript";
+"Subscript" = "Нижний индекс";
 
 /* main menu */
-"Substitutions" = "Substitutions";
+"Substitutions" = "Замены";
 
 /* main menu */
-"Superscript" = "Superscript";
+"Superscript" = "Верхний индекс";
 
 /* fonts broken on the system. title of the dialog box. */
-"System font is missing" = "System font is missing";
+"System font is missing" = "Отсутствует системный шрифт";
 
 /* main menu */
-"Text" = "Text";
+"Text" = "Текст";
 
 /* main menu */
-"Text Replacement" = "Text Replacement";
+"Text Replacement" = "Замена текста";
 
 /* when folder is not found. error message in case of gmail. description in the dialog box. %@ is the name of the folder. */
-"The \"%@\" folder cannot be synced properly. Please activate all your folders in your Gmail settings (http://www.sparrowmailapp.com/faq-gmaillabels) for Sparrow to work properly." = "The \"%@\" folder cannot be synced properly. Please activate all your folders in your Gmail settings (http://www.sparrowmailapp.com/faq-gmaillabels) for Sparrow to work properly.";
+"The \"%@\" folder cannot be synced properly. Please activate all your folders in your Gmail settings (http://www.sparrowmailapp.com/faq-gmaillabels) for Sparrow to work properly." = "Не удается синхронизировать папку «%@». Включите все папки в настройках Gmail (http://www.sparrowmailapp.com/faq-gmaillabels) для того, чтобы Sparrow мог нормально работать.";
 
 /* The attachment could not be downloaded. description in the dialog box. %@ is the filename of the attachment. */
-"The attachment \"%@\" could not be downloaded. Please retry later." = "The attachment \"%@\" could not be downloaded. Please retry later.";
+"The attachment \"%@\" could not be downloaded. Please retry later." = "Не удается загрузить прикрепленный файл «%@». Попробуйте позже.";
 
 /* The attachment could not be downloaded. no filename is available for the attachment. description in the dialog box. */
-"The attachment could not be downloaded. Please retry later." = "The attachment could not be downloaded. Please retry later.";
+"The attachment could not be downloaded. Please retry later." = "Не удается загрузить прикрепленный файл. Попробуйте позже.";
 
 /* error when a folder creation failed, title of the dialog */
-"The folder could not be created" = "The folder could not be created";
+"The folder could not be created" = "Не удается создать папку";
 
 /* error description. */
-"The folder could not be created. The name might not be valid." = "The folder could not be created. The name might not be valid.";
+"The folder could not be created. The name might not be valid." = "Не удается создать папку. Возможно, задано недопустимое имя.";
 
 /* error when a folder deletion failed, title of the dialog */
-"The folder could not be deleted" = "The folder could not be deleted";
+"The folder could not be deleted" = "Не удается удалить папку";
 
 /* error description. */
-"The folder could not be deleted." = "The folder could not be deleted.";
+"The folder could not be deleted." = "Не удается удалить папку.";
 
 /* error when a label creation failed, title of the dialog */
-"The label could not be created" = "The label could not be created";
+"The label could not be created" = "Не удается создать метку";
 
 /* error description. */
-"The label could not be created. The name might not be valid." = "The label could not be created. The name might not be valid.";
+"The label could not be created. The name might not be valid." = "Не удается создать метку. Возможно, задано недопустимое имя.";
 
 /* error when a label deletion failed, title of the dialog */
-"The label could not be deleted" = "The label could not be deleted";
+"The label could not be deleted" = "Не удается создать метку";
 
 /* error description. */
-"The label could not be deleted." = "The label could not be deleted.";
+"The label could not be deleted." = "Не удается создать метку.";
 
 /* The message could not be sent. description in the dialog. %@ is the subject of the message */
-"The message \"%@\" could not be sent. Please retry later." = "The message \"%@\" could not be sent. Please retry later.";
+"The message \"%@\" could not be sent. Please retry later." = "Не удается отправить сообщение «%@». Попробуйте позже.";
 
 /* error description. %@ is the subject of the email. */
-"The message \"%@\" could not be sent. The alias is probably wrong or the recipient is not allowed." = "The message \"%@\" could not be sent. The alias is probably wrong or the recipient is not allowed.";
+"The message \"%@\" could not be sent. The alias is probably wrong or the recipient is not allowed." = "Не удается отправить сообщение «%@». Возможно, указан неверный псевдоним или недопустимое имя получателя.";
 
 /* error description. */
-"The message \"%@\" could not be sent. Unexpected error (%i)." = "The message \"%1$@\" could not be sent. Unexpected error (%2$i).";
+"The message \"%@\" could not be sent. Unexpected error (%i)." = "Не удается отправить сообщение «%1$@». Произошла неожиданная ошибка (%2$i).";
 
 /* error description. %@ is the subject of the email. */
-"The message cannot be saved to Drafts. The attachments of the message \"%@\" are probably too large." = "The message cannot be saved to Drafts. The attachments of the message \"%@\" are probably too large.";
+"The message cannot be saved to Drafts. The attachments of the message \"%@\" are probably too large." = "Не удается сохранить сообщение в Черновики. Возможно, прикрепленные файлы сообщения «%@» слишком большие.";
 
 /* error description. */
-"The message cannot be saved to Drafts. The attachments of the message are probably too large." = "The message cannot be saved to Drafts. The attachments of the message are probably too large.";
+"The message cannot be saved to Drafts. The attachments of the message are probably too large." = "Не удается сохранить сообщение в Черновики. Возможно, прикрепленные файлы слишком большие.";
 
 /* error description for message without subject. */
-"The message cannot be saved to Drafts. The attachments of the message with no subject are probably too large." = "The message cannot be saved to Drafts. The attachments of the message with no subject are probably too large.";
+"The message cannot be saved to Drafts. The attachments of the message with no subject are probably too large." = "Не удается сохранить сообщение в Черновики. Возможно, прикрепленные файлы сообщения без темы слишком большие.";
 
 /* error description. */
-"The message could not be moved to Trash. Please retry later." = "The message could not be moved to Trash. Please retry later.";
+"The message could not be moved to Trash. Please retry later." = "Не удается поместить сообщение в Корзину. Попробуйте позже.";
 
 /* error description (for gmail). */
-"The message could not be saved to Drafts. Please activate all your folders in your Gmail settings (http://www.sparrowmailapp.com/faq-gmaillabels) for Sparrow to work properly." = "The message could not be saved to Drafts. Please activate all your folders in your Gmail settings (http://www.sparrowmailapp.com/faq-gmaillabels) for Sparrow to work properly.";
+"The message could not be saved to Drafts. Please activate all your folders in your Gmail settings (http://www.sparrowmailapp.com/faq-gmaillabels) for Sparrow to work properly." = "Не удается сохранить сообщение в Черновики. Включите все папки в настройках Gmail (http://www.sparrowmailapp.com/faq-gmaillabels) для того, чтобы Sparrow мог нормально работать.";
 
 /* error description (generic imap). */
-"The message could not be saved to Drafts. This mailbox was not found and could not be created." = "The message could not be saved to Drafts. This mailbox was not found and could not be created.";
+"The message could not be saved to Drafts. This mailbox was not found and could not be created." = "Не удается сохранить сообщение в Черновики. Почтовый ящик не найден и не может быть создан.";
 
 /* error description. */
-"The message could not be sent." = "The message could not be sent.";
+"The message could not be sent." = "Не удается отправить сообщение.";
 
 /* error description. */
-"The message could not be sent. Please retry later." = "The message could not be sent. Please retry later.";
+"The message could not be sent. Please retry later." = "Не удается отправить сообщение. Попробуйте позже.";
 
 /* error description for email without subject.
    error description. */
-"The message could not be sent. The alias is probably wrong or the recipient is not allowed." = "The message could not be sent. The alias is probably wrong or the recipient is not allowed.";
+"The message could not be sent. The alias is probably wrong or the recipient is not allowed." = "Не удается отправить сообщение. Возможно, указан неверный псевдоним или недопустимое имя получателя.";
 
 /* error description. %@ is the subject of the email. */
-"The message could not be sent. The attachments of the message \"%@\" are probably too large." = "The message could not be sent. The attachments of the message \"%@\" are probably too large.";
+"The message could not be sent. The attachments of the message \"%@\" are probably too large." = "Не удается отправить сообщение. Возможно, прикрепленные файлы сообщения «%@» слишком большие.";
 
 /* error description. */
-"The message could not be sent. The attachments of the message are probably too large." = "The message could not be sent. The attachments of the message are probably too large.";
+"The message could not be sent. The attachments of the message are probably too large." = "Не удается отправить сообщение. Возможно, прикрепленные файлы сообщения слишком большие.";
 
 /* error description for email without subject. */
-"The message could not be sent. The attachments of the message with no subject are probably too large." = "The message could not be sent. The attachments of the message with no subject are probably too large.";
+"The message could not be sent. The attachments of the message with no subject are probably too large." = "Не удается отправить сообщение. Возможно, прикрепленные файлы сообщения без темы слишком большие.";
 
 /* error description. */
-"The message could not be sent. Unexpected error (%i)." = "The message could not be sent. Unexpected error (%i).";
+"The message could not be sent. Unexpected error (%i)." = "Не удается отправить сообщение. Неожиданная ошибка (%i).";
 
 /* database could not be created. description of dialog box. */
-"The message database cannot be found or created, and is required. The default location for this folder is in Library > Application Folder > Sparrow." = "The message database cannot be found or created, and is required. The default location for this folder is in Library > Application Folder > Sparrow.";
+"The message database cannot be found or created, and is required. The default location for this folder is in Library > Application Folder > Sparrow." = "Не удается найти или создать базу данных сообщений. Путь по умолчанию для базы сообщений — Library > Application Folder > Sparrow.";
 
 /* The message with no subject could not be sent. description in the dialog. */
-"The message with no subject could not be sent. Please retry later." = "The message with no subject could not be sent. Please retry later.";
+"The message with no subject could not be sent. Please retry later." = "Не удается отправить сообщение без темы. Попробуйте позже.";
 
 /* when a message is opened using a URL. %@ is the URL */
-"The message with the URL %@ could not be found." = "The message with the URL %@ could not be found.";
+"The message with the URL %@ could not be found." = "Не удается найти сообщение с адресом %@.";
 
 /* error when a folder rename failed, title of the dialog */
-"The name of the folder could not be changed" = "The name of the folder could not be changed";
+"The name of the folder could not be changed" = "Не удается переименовать папку";
 
 /* error when a label rename failed, title of the dialog */
-"The name of the label could not be changed" = "The name of the label could not be changed";
+"The name of the label could not be changed" = "Не удается переименовать метку";
 
 /* error description. */
-"The name of this folder could not be changed. The name might not be valid." = "The name of this folder could not be changed. The name might not be valid.";
+"The name of this folder could not be changed. The name might not be valid." = "Не удается переименовать папку. Возможно, задано недопустимое имя.";
 
 /* error description. */
-"The name of this label could not be changed. The name might not be valid." = "The name of this label could not be changed. The name might not be valid.";
+"The name of this label could not be changed. The name might not be valid." = "Не удается переименовать метку. Возможно, задано недопустимое имя.";
 
 /* generic error on folder, title of the dialog
    generic error on label, title of the dialog */
-"The operation could not be performed" = "The operation could not be performed";
+"The operation could not be performed" = "Не удалось выполнить действие";
 
 /* error description. */
-"The sent message could not be saved to \"Sent Messages\"." = "The sent message could not be saved to \"Sent Messages\".";
+"The sent message could not be saved to \"Sent Messages\"." = "не удается переместить отправленное сообщение в папку «Отправленные».";
 
 /* When CloudApp file size limit is reached. */
-"This file is too large to be uploaded to CloudApp." = "This file is too large to be uploaded to CloudApp.";
+"This file is too large to be uploaded to CloudApp." = "Файл слишком большой для загрузки в CloudApp.";
 
 /* error description. */
-"This folder could not be opened. Please retry later." = "This folder could not be opened. Please retry later.";
+"This folder could not be opened. Please retry later." = "Не удается открыть папку. Попробуйте позже.";
 
 /* license is granted. %@ is the name. description in the dialog box. */
 "This license is granted to %@" = "This license is granted to %@";

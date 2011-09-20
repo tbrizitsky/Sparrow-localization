@@ -1,5 +1,5 @@
 /* when folder is not found. error message in case other case. description in the dialog box. %@ is the name of the folder. */
-"\"%@\" folder was not found and could not be created. This folder is required to get Sparrow to work properly." = "\"%@\" folder was not found and could not be created. This folder is required to get Sparrow to work properly.";
+"\"%@\" folder was not found and could not be created. This folder is required to get Sparrow to work properly." = "Папка «%@»  не найдена и не может быть создана. Она необходима для нормальной работы Sparrow.";
 
 /* copy-paste content in case there is no sender: first %@ is the subject, second %@ is the URL */
 "%@ (%@)" = "%1$@ (%2$@)";
@@ -15,307 +15,307 @@
 "%@: %@ (%@)" = "%1$@: %2$@ (%3$@)";
 
 /* contents of growl notification when there are several messages to notify, %u is the number of new messages */
-"%u new messages" = "%u new messages";
+"%u new messages" = "%u новых сообщений";
 
 /* placeholder when the attachment has no name in the generated preview of the message */
-"(no name)" = "(no name)";
+"(no name)" = "(без имени)";
 
 /* in the message cell, when there is no recipient */
-"(No recipient)" = "(No recipient)";
+"(No recipient)" = "(Без получателя)";
 
 /* growl notification: placeholder the message has no subject
    placeholder for message with no subject for copy-paste content
    placeholder for message with no subject in message cell
    placeholder for the message when it has no subject. will be used for the filename
    placeholder of the message in activity when it has no subject */
-"(no subject)" = "(no subject)";
+"(no subject)" = "(без темы)";
 
 /* when the preview is truncated in pasteboard */
 "\\U2026" = "\U2026";
 
 /* error description. */
-"A message could not be retrieved. It must have disappeared. Please refresh." = "A message could not be retrieved. It must have disappeared. Please refresh.";
+"A message could not be retrieved. It must have disappeared. Please refresh." = "Не удается получить сообщение. Оно исчезло. Попробуйте обновить список.";
 
 /* A new version is available. title of the dialog box. */
-"A new version of %@ is available" = "A new version of %@ is available";
+"A new version of %@ is available" = "Доступна новая версия %@";
 
 /* error description (generic imap). */
-"A secure connection is not available on the mail server." = "A secure connection is not available on the mail server.";
+"A secure connection is not available on the mail server." = "Безопасное соединение недоступно для данного почтового сервера.";
 
 /* fonts broken on the system. description of the dialog box. */
-"A system font is missing. Make sure to restore your default Mac OS X fonts." = "A system font is missing. Make sure to restore your default Mac OS X fonts.";
+"A system font is missing. Make sure to restore your default Mac OS X fonts." = "Отсутствует системный шрифт. Восстановите шрифты Mac OS X по умолчанию.";
 
 /* main menu */
-"About Sparrow" = "About Sparrow";
+"About Sparrow" = "О программе Sparrow";
 
 /* main menu */
-"Activity" = "Activity";
+"Activity" = "Активность";
 
 /* main menu */
-"Add Account" = "Add Account";
+"Add Account" = "Добавить учетную запись";
 
 /* main menu */
-"Add Link\\U2026" = "Add Link\U2026";
+"Add Link\\U2026" = "Добавить ссылку\U2026";
 
 /* main menu */
-"Ads Disabled" = "Ads Disabled";
+"Ads Disabled" = "Реклама отключена";
 
 /* main menu */
-"Align Left" = "Align Left";
+"Align Left" = "По левому краю";
 
 /* main menu */
-"Align Right" = "Align Right";
+"Align Right" = "По правому краю";
 
 /* search bar */
-"All" = "All";
+"All" = "Все";
 
 /* All Mail menu item (for gmail), in labels menu
    All Mail menu item in popup menu, in labels menu
    tooltip for All Mail */
-"All Mail" = "All Mail";
+"All Mail" = "Вся почта";
 
 /* error description. */
-"An unexpected error occurred on the server. Please retry later." = "An unexpected error occurred on the server. Please retry later.";
+"An unexpected error occurred on the server. Please retry later." = "На сервере произошла неожиданный сбой. Попробуйте позже.";
 
 /* error description (for gmail). */
-"An unexpected error occurred when communicating with Gmail servers. Please report a bug." = "An unexpected error occurred when communicating with Gmail servers. Please report a bug.";
+"An unexpected error occurred when communicating with Gmail servers. Please report a bug." = "При связи с серверами Gmail произошла неожиданная ошибка. Сообщите о ней.";
 
 /* error description (generic imap). */
-"An unexpected error occurred when communicating with the servers. Please report a bug." = "An unexpected error occurred when communicating with the servers. Please report a bug.";
+"An unexpected error occurred when communicating with the servers. Please report a bug." = "При связи с серверами произошла неожиданная ошибка. Сообщите о ней.";
 
 /* Description of the dialog box: Leopard double update message. */
-"Another update is needed.\nYou will be automatically redirected to the update panel." = "Another update is needed.\nYou will be automatically redirected to the update panel.";
+"Another update is needed.\nYou will be automatically redirected to the update panel." = "Требуется еще одно обновление.\nВас перенаправят на панель обновлений.";
 
 /* label of the archive toolbar button
    main menu
    tooltip of the archive toolbar button */
-"Archive" = "Archive";
+"Archive" = "Архивировать";
 
 /* Archive and Label menu item
    Archive and Label menu item (as title of the menu)
    Archive and Label menu item (for gmail)
    conversation list: menu item
    main menu */
-"Archive and Label" = "Archive and Label";
+"Archive and Label" = "Архивировать и отметить как";
 
 /* Archive menu item (generic imap), in labels menu
    Archive menu item in popup menu, in labels menu
    tooltip for Archive category */
-"Archive-LocSidebar" = "Archive";
+"Archive-LocSidebar" = "Архив";
 
 /* when pressing on the empty trash button from trash bar, title */
-"Are you sure you want to permanently erase the messages in the Trash?" = "Are you sure you want to permanently erase the messages in the Trash?";
+"Are you sure you want to permanently erase the messages in the Trash?" = "Вы действительно хотите безвозвратно очистить Корзину?";
 
 /* main menu */
-"Attach Files\\U2026" = "Attach Files\U2026";
+"Attach Files\\U2026" = "Прикрепить файлы\U2026";
 
 /* Attachments of the message could not be downloaded. description in the dialog box. %@ is the subject of the message. */
-"Attachments of the message \"%@\" could not be downloaded. Please retry later." = "Attachments of the message \"%@\" could not be downloaded. Please retry later.";
+"Attachments of the message \"%@\" could not be downloaded. Please retry later." = "Не удается загрузить файлы, прикрепленные к сообщению «%@». Попробуйте позже.";
 
 /* Attachments of the message with no subject could not be downloaded. description in the dialog box. */
-"Attachments of the message with no subject could not be downloaded. Please retry later." = "Attachments of the message with no subject could not be downloaded. Please retry later.";
+"Attachments of the message with no subject could not be downloaded. Please retry later." = "Не удается загрузить файлы, прикрепленные к сообщению без темы. Попробуйте позже.";
 
 /* main menu */
-"Baseline" = "Baseline";
+"Baseline" = "Базовая линия";
 
 /* main menu */
-"Bigger" = "Bigger";
+"Bigger" = "Больше";
 
 /* main menu */
-"Bold" = "Bold";
+"Bold" = "Жирный";
 
 /* main menu */
-"Bring All to Front" = "Bring All to Front";
+"Bring All to Front" = "Все окна — на передний план";
 
 /* main menu */
-"Bullet" = "Bullet";
+"Bullet" = "Маркер";
 
 /* when emptying the trash: Cancel button */
-"Cancel" = "Cancel";
+"Cancel" = "Отменить";
 
 /* database could not be created. title of dialog box. */
-"Cannot create Message Database" = "Cannot create Message Database";
+"Cannot create Message Database" = "Не удалось создать базу сообщений";
 
 /* main menu */
-"Capitalize" = "Capitalize";
+"Capitalize" = "В верхний регистр";
 
 /* main menu */
-"Center" = "Center";
+"Center" = "По центру";
 
 /* main menu */
-"Check Document Now" = "Check Document Now";
+"Check Document Now" = "Проверить документ";
 
 /* main menu */
-"Check for Updates\\U2026" = "Check for Updates\U2026";
+"Check for Updates\\U2026" = "Искать обновления\U2026";
 
 /* main menu */
-"Check Grammar With Spelling" = "Check Grammar With Spelling";
+"Check Grammar With Spelling" = "Проверка грамматики и правописания";
 
 /* main menu */
-"Check Spelling While Typing" = "Check Spelling While Typing";
+"Check Spelling While Typing" = "Проверять правописание при вводе текста";
 
 /* syncing description progress */
-"Checking for mail\\U2026" = "Checking for mail\U2026";
+"Checking for mail\\U2026" = "Проверка почты\U2026";
 
 /* main menu */
-"Close" = "Close";
+"Close" = "Закрыть";
 
 /* label of the compose toolbar button */
-"Compose" = "Compose";
+"Compose" = "Создать";
 
 /* main menu */
-"Compose New Message" = "Compose New Message";
+"Compose New Message" = "Создать новое сообщение";
 
 /* main menu */
-"Connection Checker\\U2026" = "Connection Checker\U2026";
+"Connection Checker\\U2026" = "Проверка подключения\U2026";
 
 /* Connection error. title of the dialog box. */
-"Connection error" = "Connection error";
+"Connection error" = "Ошибка подключения";
 
 /* error description. */
-"Connection to CloudApp could not be established. Either your connection is not available or the Cloudapp server is unavailable. Please retry later." = "Connection to CloudApp could not be established. Either your connection is not available or the Cloudapp server is unavailable. Please retry later.";
+"Connection to CloudApp could not be established. Either your connection is not available or the Cloudapp server is unavailable. Please retry later." = "Не удается подключиться к CloudApp. Недоступно подключение к Интернету или серверу CloudApp. Попробуйте позже.";
 
 /* error description. */
-"Connection to Cloudapp could not be established. Your computer is not connected to the Internet. Please connect your computer to the Internet and retry." = "Connection to Cloudapp could not be established. Your computer is not connected to the Internet. Please connect your computer to the Internet and retry.";
+"Connection to Cloudapp could not be established. Your computer is not connected to the Internet. Please connect your computer to the Internet and retry." = "Не удается подключиться к CloudApp. Компьютер не подключен к Интернету. Подключитесь к Интернету и повторите попытку.";
 
 /* error description (for gmail). */
-"Connection to Gmail could not be established. Either your connection is not available or Gmail is unavailable. Please retry later." = "Connection to Gmail could not be established. Either your connection is not available or Gmail is unavailable. Please retry later.";
+"Connection to Gmail could not be established. Either your connection is not available or Gmail is unavailable. Please retry later." = "Не удается подключиться к Gmail. Недоступно подключение к Интернету или серверу Gmail. Попробуйте позже.";
 
 /* error description (for gmail). */
-"Connection to Gmail could not be established. Your computer is not connected to the Internet. Please connect your computer to the Internet and retry." = "Connection to Gmail could not be established. Your computer is not connected to the Internet. Please connect your computer to the Internet and retry.";
+"Connection to Gmail could not be established. Your computer is not connected to the Internet. Please connect your computer to the Internet and retry." = "Не удается подключиться к Gmail. Компьютер не подключен к Интернету. Подключитесь к Интернету и попробуйте еще раз.";
 
 /* error description (for gmail). */
-"Connection to Gmail could not be established. Your email or your password is not correct. Please check you typed them properly and retry." = "Connection to Gmail could not be established. Your email or your password is not correct. Please check you typed them properly and retry.";
+"Connection to Gmail could not be established. Your email or your password is not correct. Please check you typed them properly and retry." = "Не удается подключиться к Gmail. E-mail или пароль заданы неверно. Убедитесь, что они набраны без ошибок и попробуйте еще раз.";
 
 /* error description (generic imap). */
-"Connection to the mail server could not be established. Either your connection is not available or the mail server is unavailable. Please retry later." = "Connection to the mail server could not be established. Either your connection is not available or the mail server is unavailable. Please retry later.";
+"Connection to the mail server could not be established. Either your connection is not available or the mail server is unavailable. Please retry later." = "Не удается подключиться к почтовому серверу. Недоступно подключение к Интернету или почтовому серверу. Попробуйте позже.";
 
 /* error description (generic imap). occurs in assistant. */
-"Connection to the mail server could not be established. Either your connection is not available or the mail server is unavailable. Please try to untick Secure in the settings and try again." = "Connection to the mail server could not be established. Either your connection is not available or the mail server is unavailable. Please try to untick Secure in the settings and try again.";
+"Connection to the mail server could not be established. Either your connection is not available or the mail server is unavailable. Please try to untick Secure in the settings and try again." = "Не удается подключиться к почтовому серверу. Недоступно подключение к Интернету или почтовому серверу. Попробуйте отключить безопасное соединение в настройках учетной записи и повторить.";
 
 /* error description (generic imap). */
-"Connection to the mail server could not be established. Your computer is not connected to the Internet. Please connect your computer to the Internet and retry." = "Connection to the mail server could not be established. Your computer is not connected to the Internet. Please connect your computer to the Internet and retry.";
+"Connection to the mail server could not be established. Your computer is not connected to the Internet. Please connect your computer to the Internet and retry." = "Не удается подключиться к почтовому серверу. Компьютер не подключен к Интернету. Подключитесь к Интернету и попробуйте еще раз.";
 
 /* error description. */
-"Connection to your CloudApp account could not be established. Your login or your password is not correct. Please check you typed them properly and retry." = "Connection to your CloudApp account could not be established. Your login or your password is not correct. Please check you typed them properly and retry.";
+"Connection to your CloudApp account could not be established. Your login or your password is not correct. Please check you typed them properly and retry." = "Не удается подключиться к CloudApp. Имя пользователя или пароль заданы неверно. Убедитесь, что они набраны без ошибок и попробуйте еще раз.";
 
 /* error description (generic imap). %@ is the email address. */
-"Connection to your mail account %@ could not be established. Your login or your password is not correct. Please check you typed them properly and retry." = "Connection to your mail account %@ could not be established. Your login or your password is not correct. Please check you typed them properly and retry.";
+"Connection to your mail account %@ could not be established. Your login or your password is not correct. Please check you typed them properly and retry." = "Не удается подключиться к учетной записи %@. Имя пользователя или пароль заданы неверно. Убедитесь, что они набраны без ошибок и попробуйте еще раз.";
 
 /* main menu */
-"Copy" = "Copy";
+"Copy" = "Копировать";
 
 /* main menu */
-"Copy Ruler" = "Copy Ruler";
+"Copy Ruler" = "Копировать линейку";
 
 /* main menu */
-"Copy Style" = "Copy Style";
+"Copy Style" = "Копировать стиль";
 
 /* main menu */
-"Correct Spelling Automatically" = "Correct Spelling Automatically";
+"Correct Spelling Automatically" = "Автоматически исправлять правописание";
 
 /* main menu */
-"Cut" = "Cut";
+"Cut" = "Вырезать";
 
 /* main menu */
-"Decrease Indent Level" = "Decrease Indent Level";
+"Decrease Indent Level" = "Уменьшить отступ";
 
 /* main menu */
-"Decrease Quote Level" = "Decrease Quote Level";
+"Decrease Quote Level" = "Уменьшить уровень цитаты";
 
 /* main menu */
-"Default" = "Default";
+"Default" = "По умолчанию";
 
 /* label of the trash toolbar button
    main menu
    tooltip of the trash toolbar button */
-"Delete" = "Delete";
+"Delete" = "Удалить";
 
 /* name of the folder in error message when the folder is not available */
-"Deleted Messages" = "Deleted Messages";
+"Deleted Messages" = "Удаленные сообщения";
 
 /* Messages are being sent while quitting. title of the dialog box. */
-"Do you want to quit now?" = "Do you want to quit now?";
+"Do you want to quit now?" = "Завершить работу в любом случае?";
 
 /* A new version is available. description in the dialog box. first %@ is the name of the application. second %@ is the version to update to. */
-"Do you want to update to %@ %@ using the Mac App Store? This is a free version update." = "Do you want to update to %1$@ %2$@ using the Mac App Store? This is a free version update.";
+"Do you want to update to %@ %@ using the Mac App Store? This is a free version update." = "Обновить %1$@ до версии %2$@ при помощи Mac App Store? Это бесплатное обновление.";
 
 /* Don't Quit button when sending while quitting */
-"Don't Quit" = "Don't Quit";
+"Don't Quit" = "Не завершать";
 
 /* Attachments of the message could not be downloaded. Title of the dialog box.
    The attachment could not be downloaded. title of the dialog box. */
-"Download failed" = "Download failed";
+"Download failed" = "Не удалось загрузить";
 
 /* Download latest version button when sparrow expired in the dialog */
-"Download latest version" = "Download latest version";
+"Download latest version" = "Загрузить последнюю версию";
 
 /* syncing description progress, when progress value is available, first %u is the progress value, second %u is the maximum progress */
-"Downloading %u of %u" = "Downloading %1$u of %2$u";
+"Downloading %u of %u" = "загрузка %1$u из %2$u";
 
 /* Draft message indication */
-"Draft" = "Draft";
+"Draft" = "Черновик";
 
 /* main menu
    name of the folder in error message when the folder is not available
    tooltip for Drafts */
-"Drafts" = "Drafts";
+"Drafts" = "Черновики";
 
 /* main menu */
-"Edit" = "Edit";
+"Edit" = "Правка";
 
 /* trash bar empty button */
-"Empty" = "Empty";
+"Empty" = "Очистить";
 
 /* when emptying the trash: Empty button */
-"Empty Trash" = "Empty Trash";
+"Empty Trash" = "Очистить Корзину";
 
 /* main menu */
-"Enter Full Screen" = "Enter Full Screen";
+"Enter Full Screen" = "Перейти в полноэкранный режим";
 
 /* error description (generic imap). */
-"Exceeded bandwidth limit. Please contact your provider." = "Exceeded bandwidth limit. Please contact your provider.";
+"Exceeded bandwidth limit. Please contact your provider." = "Превышен лимит трафика. Свяжитесь с интернет-провайдером.";
 
 /* error description. %@ is the URL to open. (for gmail) */
-"Exceeded bandwidth limit. Please try to unlock your account using the following webpage: %@" = "Exceeded bandwidth limit. Please try to unlock your account using the following webpage: %@";
+"Exceeded bandwidth limit. Please try to unlock your account using the following webpage: %@" = "Превышен лимит трафика. Попробуйте восстановить соединение со страницы %@";
 
 /* main menu */
-"Exit Full Screen" = "Exit Full Screen";
+"Exit Full Screen" = "Выйти из полноэкранного режима";
 
 /* main menu */
-"Extended Sidebar" = "Extended Sidebar";
+"Extended Sidebar" = "Расширенная боковая панель";
 
 /* main menu */
-"File" = "File";
+"File" = "Файл";
 
 /* main menu */
-"Find" = "Find";
+"Find" = "Поиск";
 
 /* main menu */
-"Find Next" = "Find Next";
+"Find Next" = "Найти далее";
 
 /* main menu */
-"Find Previous" = "Find Previous";
+"Find Previous" = "Найти ранее";
 
 /* main menu */
-"Find\\U2026" = "Find\U2026";
+"Find\\U2026" = "Найти\U2026";
 
 /* when folder is not found. title of the dialog box. */
-"Folder not found" = "Folder not found";
+"Folder not found" = "Папка не найдена";
 
 /* tooltip for Folders section in sidebar */
-"Folders" = "Folders";
+"Folders" = "Папки";
 
 /* main menu */
-"Font" = "Font";
+"Font" = "Шрифт";
 
 /* main menu */
-"Format" = "Format";
+"Format" = "Формат";
 
 /* conversation list: menu item
    main menu
    menu item for reply toolbar button */
-"Forward" = "Forward";
+"Forward" = "Переслать";
 
 /* search bar */
 "From" = "From";

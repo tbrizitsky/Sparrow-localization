@@ -384,7 +384,7 @@
 "Information could not be saved to the mail server. Please retry later." = "Не удалось сохранить данные на почтовом сервере. Попробуйте позже.";
 
 /* installation corrupted: title of the dialog box. */
-"Install is corrupted" = "Установщик поврежден";
+"Install is corrupted" = "Программа повреждена";
 
 /* main menu */
 "Italic" = "Курсив";
@@ -930,110 +930,110 @@
 "This folder could not be opened. Please retry later." = "Не удается открыть папку. Попробуйте позже.";
 
 /* license is granted. %@ is the name. description in the dialog box. */
-"This license is granted to %@" = "This license is granted to %@";
+"This license is granted to %@" = "Лицензия выдана %@";
 
 /* license is granted. first %@ is the name. second %@ is the email. description in the dialog box. */
-"This license is granted to %@ <%@>" = "This license is granted to %1$@ <%2$@>";
+"This license is granted to %@ <%@>" = "Лицензия выдана %1$@ <%2$@>";
 
 /* invalid license: title of the dialog box. */
-"This license is not valid" = "This license is not valid";
+"This license is not valid" = "Лицензия недействительна";
 
 /* message cell: when the message has no text content */
-"This message has no content." = "This message has no content.";
+"This message has no content." = "Пустое сообщение.";
 
 /* sparrow expired. title of dialog box. */
-"This version expired" = "This version expired";
+"This version expired" = "Истек срок действия лицензии";
 
 /* Title of the dialog box: Leopard double update message. */
-"This version is not compatible with Leopard" = "This version is not compatible with Leopard";
+"This version is not compatible with Leopard" = "Эта версия не совместима с Leopard";
 
 /* sparrow expired. description of dialog box. */
-"This version of Sparrow has expired. Please download the latest version." = "This version of Sparrow has expired. Please download the latest version.";
+"This version of Sparrow has expired. Please download the latest version." = "Срок действия данной версии Sparrow истек. Загрузите последнюю версию.";
 
 /* message cell: in sent mailbox, before recipient
    search bar */
-"To" = "To";
+"To" = "Кому";
 
 /* error description. %@ is the email of the account. */
-"Too many simultaneous connections to %@." = "Too many simultaneous connections to %@.";
+"Too many simultaneous connections to %@." = "Слишком много одновременных подключений к %@.";
 
 /* error description. */
-"Too many simultaneous connections your account." = "Too many simultaneous connections your account.";
+"Too many simultaneous connections your account." = "Слишком много одновременных подключений к вашей учетной записи.";
 
 /* main menu */
-"Transformations" = "Transformations";
+"Transformations" = "Преобразования";
 
 /* main menu
    name of the folder in error message when the folder is not available
    tooltip for Trash
    trash bar label */
-"Trash" = "Trash";
+"Trash" = "Корзина";
 
 /* main menu */
-"Underline" = "Underline";
+"Underline" = "Подчеркнутый";
 
 /* main menu */
-"Undo" = "Undo";
+"Undo" = "Отменить";
 
 /* Unexpected error %@ is the error domain. %u is the error code. */
-"Unexpected error (%@/%u)" = "Unexpected error (%1$@/%2$u)";
+"Unexpected error (%@/%u)" = "Неожиданная ошибка (%1$@/%2$u)";
 
 /* Unexpected error when connecting to CloudApp */
-"Unexpected error while connecting to CloudApp servers." = "Unexpected error while connecting to CloudApp servers.";
+"Unexpected error while connecting to CloudApp servers." = "При подключении к серверам CloudApp произошла неожиданная ошибка.";
 
 /* tooltip: Unified Inbox */
-"Unified Inbox" = "Unified Inbox";
+"Unified Inbox" = "Все письма";
 
 /* inbox selection bar: Unread */
-"Unread" = "Unread";
+"Unread" = "Непрочитанные";
 
 /* default name of the saved file if the attachment has no filename.
    when attachment has no filename, name used for the progress */
-"Untitled" = "Untitled";
+"Untitled" = "Безимени";
 
 /* A new version is available. Update button */
-"Update" = "Update";
+"Update" = "Обновить";
 
 /* status bar text: %@ is the last sync date */
-"Updated on %@" = "Updated on %@";
+"Updated on %@" = "Обновлено %@";
 
 /* main menu */
-"Use All" = "Use All";
+"Use All" = "Использовать все";
 
 /* main menu */
-"Use Default" = "Use Default";
+"Use Default" = "По умолчанию";
 
 /* main menu */
-"Use Loosen" = "Use Loosen";
+"Use Loosen" = "Разредить";
 
 /* main menu */
-"Use None" = "Use None";
+"Use None" = "Не применять";
 
 /* main menu */
-"Use Selection for Find" = "Use Selection for Find";
+"Use Selection for Find" = "Найти выбранное";
 
 /* main menu */
-"Use Tighten" = "Use Tighten";
+"Use Tighten" = "Сжать";
 
 /* main menu */
-"Window" = "Window";
+"Window" = "Окно";
 
 /* main menu */
-"Writing Direction" = "Writing Direction";
+"Writing Direction" = "Направление письма";
 
 /* when pressing on the empty trash button from trash bar, description */
-"You can't undo this action." = "You can't undo this action.";
+"You can't undo this action." = "Это необратимое действие.";
 
 /* account needed to open a compose window. description in the dialog box.
    Text of the error dialog, when applescript is used and no account is available. */
-"You have to set up at least one account to be able to send emails." = "You have to set up at least one account to be able to send emails.";
+"You have to set up at least one account to be able to send emails." = "Для отправки сообщений необходимо настроить хотя бы одну учетную запись.";
 
 /* installation corrupted: description in the dialog box. */
-"You should uninstall the application and download it again." = "You should uninstall the application and download it again.";
+"You should uninstall the application and download it again." = "Удалите программу и загрузите ее заново.";
 
 /* When upload limit is reached on CloudApp. */
-"You've reached the daily upload limit allowed by the free plan of CloudApp." = "You've reached the daily upload limit allowed by the free plan of CloudApp.";
+"You've reached the daily upload limit allowed by the free plan of CloudApp." = "Вы достигли дневного лимита загрузки файлов для бесплатной версии CloudApp.";
 
 /* main menu */
-"Zoom" = "Zoom";
+"Zoom" = "Изменить масштаб";
 

@@ -64,16 +64,16 @@
 "Archive Folder" = "Папка Архив";
 
 /* account deletion confirmation. %@ is the email. title of the dialog box. */
-"Are you sure you want to delete the account \"%@\"?" = "Вы действительно хотите удалить учетную запись \"%@\"?";
+"Are you sure you want to delete the account \"%@\"?" = "Вы действительно хотите удалить учетную запись «%@»?";
 
 /* confirm alias deletion. %@ is the email. title of the dialog box. */
-"Are you sure you want to delete the alias \"%@\"?" = "Вы действительно хотите удалить псевдоним \"%@\"?";
+"Are you sure you want to delete the alias \"%@\"?" = "Вы действительно хотите удалить псевдоним «%@»?";
 
 /* when removing a folder from preferences, title of dialog box */
-"Are you sure you want to delete the folder \"%@\"?" = "Вы действительно хотите удалить папку \"%@\"?";
+"Are you sure you want to delete the folder \"%@\"?" = "Вы действительно хотите удалить папку «%@»?";
 
 /* when removing a label from preferences, title of dialog box */
-"Are you sure you want to delete the label \"%@\"?" = "Вы действительно хотите удалить метку \"%@\"?";
+"Are you sure you want to delete the label \"%@\"?" = "Вы действительно хотите удалить метку «%@»?";
 
 /* when pressing on the disconnect button from facebook, description in the dialog box */
 "Are you sure you want to disconnect from Facebook?" = "Вы действительно хотите отсоединиться от Facebook?";
@@ -105,16 +105,16 @@
 "Cannot connect to Facebook" = "Не удается подключиться к Facebook";
 
 /* when folder name is not valid. %@ is the name of the label. */
-"Cannot create folder named \"%@\"" = "Не удается создать папку \«%@\»";
+"Cannot create folder named \"%@\"" = "Не удается создать папку «%@»";
 
 /* when label name is not valid. %@ is the name of the label. */
-"Cannot create label named \"%@\"" = "Не удается создать метку \«%@\»";
+"Cannot create label named \"%@\"" = "Не удается создать метку «%@»";
 
 /* when folder name is not valid. %@ is the name of the label. */
-"Cannot rename folder to \"%@\"" = "не удается переименовать папку в \«%@\»";
+"Cannot rename folder to \"%@\"" = "Не удается переименовать папку в «%@»";
 
 /* when label name is not valid. %@ is the name of the label. */
-"Cannot rename label to \"%@\"" = "Не удается переименовать метку в \«%@\»";
+"Cannot rename label to \"%@\"" = "Не удается переименовать метку в «%@»";
 
 /* prefs > organize > advanced, in imap prefix popup */
 "Choose IMAP Prefix\\U2026" = "Выберите префикс IMAP\U2026";
@@ -250,11 +250,11 @@
 "John Doe" = "Иван Петров";
 
 /* alias prefs: placeholder for email */
-"john.doe@etpan.org" = "ivanpetrov@yandex.ru";
+"john.doe@etpan.org" = "ivan_p@yandex.ru";
 
 /* account edition
    cloudapp prefs: login */
-"john.doe@sparrowmailapp.com" = "ivanpetrov@yandex.ru";
+"john.doe@sparrowmailapp.com" = "ivan_p@yandex.ru";
 
 /* advanced prefs */
 "Keyboard:" = "Клавиатура:";
@@ -455,10 +455,10 @@
 "This email is not valid" = "E-mail указан неверно";
 
 /* when folder/label name is not valid. */
-"This name cannot be used because it contains an invalid sequence of characters." = "Это имя нельзя использовать, так как оно содержит недопустимую последовательность символов.";
+"This name cannot be used because it contains an invalid sequence of characters." = "Это имя нельзя использовать, т.к. оно содержит недопустимую последовательность символов.";
 
 /* account deletion confirmation. %@ is the email. description in the dialog box. */
-"This will permanently delete the set up of the account \"%@\"." = "Это безвозвратно удалит настройки учетной записи \"%@\".";
+"This will permanently delete the set up of the account \"%@\"." = "Это безвозвратно удалит настройки учетной записи «%@».";
 
 /* confirm alias deletion. %@ is the email. description in the dialog box. */
 "This will permanently remove the alias from this account." = "Это безвозвратно удалит псевдоним.";

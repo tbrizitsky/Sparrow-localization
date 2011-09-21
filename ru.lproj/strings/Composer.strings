@@ -2,7 +2,7 @@
 "%@. The attachment has been converted to standard email attachment." = "%@. Файл был прикреплен к письму.";
 
 /* title of composer when subject has not been entered */
-"(No subject)" = "(без темы)";
+"(No subject)" = "(Без темы)";
 
 /* composer: tooltip */
 "Add Attachment" = "Прикрепить файл";
@@ -178,7 +178,7 @@
 "Signature for:" = "Подпись для:";
 
 /* dialog title: attachement could not be uploaded */
-"Some attachments failed to be uploaded to the Cloud" = "Некоторые прикрепленные файлы не удалось загрузить в Cloud";
+"Some attachments failed to be uploaded to the Cloud" = "Некоторые прикрепленные файлы не удалось загрузить в CloudApp";
 
 /* error title. */
 "Sparrow won't be able to send emails." = "Sparrow не сможет отправлять письма.";
@@ -208,7 +208,7 @@
 "The file could not be uploaded" = "Не удалось загрузить файл";
 
 /* composer: error title, when address is not valid. %@ is the invalid address. */
-"The following address is not valid: \"%@\"" = "Этот адрес указан неверно: \"%@\"";
+"The following address is not valid: \"%@\"" = "Этот адрес указан неверно: «%@»";
 
 /* when setting a link, error message when the typed URL is not valid */
 "The URL is not valid" = "URL указан неверно";
@@ -238,7 +238,7 @@
 "You cannot send emails with attachments from Shortmail." = "Вы не можете отправлять сообщения с прикрепленными файлами в Shortmail.";
 
 /* needs to save. description in the dialog box. */
-"Your draft will be discarded if you don't save it." = "Черновик будет удален если вы его не сохраните.";
+"Your draft will be discarded if you don't save it." = "Черновик будет удален, если вы его не сохраните.";
 
 /* Error message when the message could not be saved to remote draft: title of the dialog. */
 "Your message has been saved locally." = "Сообщение сохранено локально.";

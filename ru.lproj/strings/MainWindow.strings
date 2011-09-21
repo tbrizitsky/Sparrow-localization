@@ -251,7 +251,7 @@
 "Download latest version" = "Загрузить последнюю версию";
 
 /* syncing description progress, when progress value is available, first %u is the progress value, second %u is the maximum progress */
-"Downloading %u of %u" = "загрузка %1$u из %2$u";
+"Downloading %u of %u" = "Загрузка %1$u из %2$u";
 
 /* Draft message indication */
 "Draft" = "Черновик";
@@ -593,7 +593,7 @@
 "Quit Sparrow" = "Завершить Sparrow";
 
 /* Quit without Sending button when sending while quitting */
-"Quit without Sending" = "Завешить без отправки";
+"Quit without Sending" = "Завершить без отправки";
 
 /* main menu */
 "Raise" = "Поднять";
@@ -921,7 +921,7 @@
 "The operation could not be performed" = "Не удалось выполнить действие";
 
 /* error description. */
-"The sent message could not be saved to \"Sent Messages\"." = "не удается переместить отправленное сообщение в папку «Отправленные».";
+"The sent message could not be saved to \"Sent Messages\"." = "Не удается переместить отправленное сообщение в папку «Отправленные».";
 
 /* When CloudApp file size limit is reached. */
 "This file is too large to be uploaded to CloudApp." = "Файл слишком большой для загрузки в CloudApp.";

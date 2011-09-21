@@ -41,7 +41,7 @@
 "Operation" = "Действие";
 
 /* connection checker: when a connection failed */
-"Please check the name of the IMAP server and the name of the SMTP server are correct but it's likely that you are behind a firewall that won't allow IMAP or SMTP connections." = "Пожалуйста, проверьте адреса серверов SMTP и IMAP. Скорее всего вы находитесь за брандмауэром, запрещающим SMTP и IMAP соединения.";
+"Please check the name of the IMAP server and the name of the SMTP server are correct but it's likely that you are behind a firewall that won't allow IMAP or SMTP connections." = "Проверьте адреса серверов SMTP и IMAP. Скорее всего вы находитесь за брандмауэром, запрещающим SMTP и IMAP соединения.";
 
 /* column header in activity window */
 "Progress" = "Прогресс";

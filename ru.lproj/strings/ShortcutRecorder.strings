@@ -23,16 +23,16 @@
 "Space" = "Пробел";
 
 /* error description */
-"The key combination \"%@\" can't be used because %@." = "Сочетание клавиш \"%1$@\" нельзя использовать, т.к. %2$@.";
+"The key combination \"%@\" can't be used because %@." = "Сочетание клавиш «%1$@» нельзя использовать, т.к. %2$@.";
 
 /* error description */
-"The key combination \"%@\" can't be used because it's already used by a system-wide keyboard shortcut. (If you really want to use this key combination, most shortcuts can be changed in the Keyboard & Mouse panel in System Preferences.)" = "Сочетание клавиш \"%@\" нельзя использовать, т.к. оно уже используется системой. (При необходимости большинство сочетаний можно изменить в панели Клавиатура Настроек системы.)";
+"The key combination \"%@\" can't be used because it's already used by a system-wide keyboard shortcut. (If you really want to use this key combination, most shortcuts can be changed in the Keyboard & Mouse panel in System Preferences.)" = "Сочетание клавиш «%@» нельзя использовать, т.к. оно уже используется системой. (При необходимости большинство сочетаний можно изменить в панели Клавиатура Настроек системы.)";
 
 /* error description */
-"The key combination \"%@\" can't be used because it's already used by the menu item \"%@\"." = "Сочетание клавиш \"%1$@\" нельзя использовать, т.к. оно уже используется для элемента меню \"%2$@\".";
+"The key combination \"%@\" can't be used because it's already used by the menu item \"%@\"." = "Сочетание клавиш «%1$@» нельзя использовать, т.к. оно уже используется для элемента меню «%2$@».";
 
 /* error description */
-"The key combination %@ can't be used!" = "Сочетание клавиш %@ использовать нельзя!";
+"The key combination %@ can't be used!" = "Сочетание клавиш «%@» использовать нельзя!";
 
 /* displayed in the cell */
 "Type shortcut" = "Введите сочетание";

@@ -409,7 +409,7 @@
 "Skip Checks" = "Пропустить проверки";
 
 /* folders prefs: folder mapping */
-"Spam Folder" = "Spam Folder";
+"Spam Folder" = "Папка Спам";
 
 /* error title. */
 "Sparrow has been disconnected from Facebook." = "Sparrow был отсоединен он Facebook.";
@@ -497,7 +497,7 @@
 "Welcome to Sparrow" = "Добро пожаловать в программу Sparrow";
 
 /* cloudapp prefs: when disconnected */
-"You are connected to CloudApp as %@" = "You are connected to CloudApp as %@";
+"You are connected to CloudApp as %@" = "Вы подключены к CloudApp как %@";
 
 /* tell user he is now connected to facebook */
 "You have enabled Facebook profile pictures with Sparrow." = "Вы включили отображение картинок профилей Facebook в Sparrow.";

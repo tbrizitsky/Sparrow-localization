@@ -36,10 +36,10 @@
 "Add Account" = "Добавление учетной записи";
 
 /* Add folder at the same level menu item. %@ is the name of the folder. */
-"Add folder at the same level as \"%@\"\\U2026" = "Добавить папку на том же уровне, что и \"%@\"\U2026";
+"Add folder at the same level as \"%@\"\\U2026" = "Добавить папку на том же уровне, что и \"%@\"…";
 
 /* Add folder below menu item. %@ is the name of the folder. */
-"Add folder below \"%@\"\\U2026" = "Добавить подпапку для \"%@\"\U2026";
+"Add folder below \"%@\"\\U2026" = "Добавить подпапку для \"%@\"…";
 
 /* folders prefs: tab item
    prefs tab items */
@@ -117,7 +117,7 @@
 "Cannot rename label to \"%@\"" = "Не удается переименовать метку в «%@»";
 
 /* prefs > organize > advanced, in imap prefix popup */
-"Choose IMAP Prefix\\U2026" = "Выберите префикс IMAP\U2026";
+"Choose IMAP Prefix\\U2026" = "Выберите префикс IMAP…";
 
 /* prefs tab items */
 "CloudApp" = "CloudApp";
@@ -221,7 +221,7 @@
 /* label in front of popup button (generic imap) */
 "Folders for:" = "Папки для:";
 
-/* Forgot your password */
+/* cloudapp preferences: Forgot your password link */
 "Forgot your password" = "Забыли пароль?";
 
 /* prefs tab items */
@@ -283,7 +283,7 @@
 "Message List:" = "Список сообщений:";
 
 /* button label for custom smtp */
-"More\\U2026" = "Подробнее\U2026";
+"More\\U2026" = "Подробнее…";
 
 /* column name for alias preferences */
 "Name" = "Имя";
@@ -336,7 +336,7 @@
 "Organize" = "Организация";
 
 /* general prefs, save attachments to */
-"Other\\U2026" = "Другая\U2026";
+"Other\\U2026" = "Другая…";
 
 /* account edition
    cloudapp prefs: login */
@@ -368,7 +368,7 @@
 "Remove" = "Удалить";
 
 /* Removing account in progress. %@ is the email address. */
-"Removing %@\\U2026" = "Удаление %@\U2026";
+"Removing %@\\U2026" = "Удаление %@…";
 
 /* account edition
    cloudapp prefs: login */
@@ -408,17 +408,20 @@
 /* email/password assistant. Skip Checks button */
 "Skip Checks" = "Пропустить проверки";
 
+/* folders prefs: folder mapping */
+"Spam Folder" = "Spam Folder";
+
 /* error title. */
 "Sparrow has been disconnected from Facebook." = "Sparrow был отсоединен он Facebook.";
 
 /* upgrade window: text contents of window */
-"Sparrow Lite is ad-supported.\nBuy the full version to remove ads\nand benefit of all the features." = "Sparrow Lite отображает рекламу.\nКупите полную версию для отключения рекламы\и получения доступа ко всем функциям.";
+"Sparrow Lite is ad-supported.\nBuy the full version to remove ads\nand benefit of all the features." = "Sparrow Lite отображает рекламу.\nКупите полную версию для отключения рекламыи получения доступа ко всем функциям.";
 
 /* explain facebook new facebook profile picture */
 "Sparrow now integrates Facebook's profile pictures" = "Sparrow поддерживает отображение картинок профилей Facebook";
 
 /* cloudapp prefs: login */
-"Start sharing files right now. Already have an account? Sign in." = "Начните обмен файлами прямо сейчас. У вас уже есть учетная запись? Войдите в нее.";
+"Start sharing files right now. Already have an account? Sign in:" = "Начните обмен файлами прямо сейчас. У вас уже есть учетная запись? Войдите в нее:";
 
 /* general prefs */
 "Start Sparrow at Login" = "Запускать Sparrow при входе в систему";
@@ -492,6 +495,9 @@
 
 /* title of assistant window */
 "Welcome to Sparrow" = "Добро пожаловать в программу Sparrow";
+
+/* cloudapp prefs: when disconnected */
+"You are connected to CloudApp as %@" = "You are connected to CloudApp as %@";
 
 /* tell user he is now connected to facebook */
 "You have enabled Facebook profile pictures with Sparrow." = "Вы включили отображение картинок профилей Facebook в Sparrow.";

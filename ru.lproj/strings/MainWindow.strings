@@ -31,7 +31,7 @@
 "(no subject)" = "(без темы)";
 
 /* when the preview is truncated in pasteboard */
-"\\U2026" = "\U2026";
+"\\U2026" = "…";
 
 /* error description. */
 "A message could not be retrieved. It must have disappeared. Please refresh." = "Не удается получить сообщение. Оно исчезло. Попробуйте обновить список.";
@@ -55,7 +55,7 @@
 "Add Account" = "Добавить учетную запись";
 
 /* main menu */
-"Add Link\\U2026" = "Добавить ссылку\U2026";
+"Add Link\\U2026" = "Добавить ссылку…";
 
 /* main menu */
 "Ads Disabled" = "Реклама отключена";
@@ -107,7 +107,7 @@
 "Are you sure you want to permanently erase the messages in the Trash?" = "Вы действительно хотите безвозвратно очистить Корзину?";
 
 /* main menu */
-"Attach Files\\U2026" = "Прикрепить файлы\U2026";
+"Attach Files\\U2026" = "Прикрепить файлы…";
 
 /* Attachments of the message could not be downloaded. description in the dialog box. %@ is the subject of the message. */
 "Attachments of the message \"%@\" could not be downloaded. Please retry later." = "Не удается загрузить файлы, прикрепленные к сообщению «%@». Попробуйте позже.";
@@ -146,7 +146,7 @@
 "Check Document Now" = "Проверить документ";
 
 /* main menu */
-"Check for Updates\\U2026" = "Искать обновления\U2026";
+"Check for Updates\\U2026" = "Искать обновления…";
 
 /* main menu */
 "Check Grammar With Spelling" = "Проверка грамматики и правописания";
@@ -155,7 +155,7 @@
 "Check Spelling While Typing" = "Проверять правописание при вводе текста";
 
 /* syncing description progress */
-"Checking for mail\\U2026" = "Проверка почты\U2026";
+"Checking for mail\\U2026" = "Проверка почты…";
 
 /* main menu */
 "Close" = "Закрыть";
@@ -167,16 +167,16 @@
 "Compose New Message" = "Создать новое сообщение";
 
 /* main menu */
-"Connection Checker\\U2026" = "Проверка подключения\U2026";
+"Connection Checker\\U2026" = "Проверка подключения…";
 
 /* Connection error. title of the dialog box. */
 "Connection error" = "Ошибка подключения";
 
 /* error description. */
-"Connection to CloudApp could not be established. Either your connection is not available or the Cloudapp server is unavailable. Please retry later." = "Не удается подключиться к CloudApp. Недоступно подключение к Интернету или серверу CloudApp. Попробуйте позже.";
+"Connection to CloudApp could not be established. Either your connection is not available or the CloudApp server is unavailable. Please retry later." = "Не удается подключиться к CloudApp. Недоступно подключение к Интернету или серверу CloudApp. Попробуйте позже.";
 
 /* error description. */
-"Connection to Cloudapp could not be established. Your computer is not connected to the Internet. Please connect your computer to the Internet and retry." = "Не удается подключиться к CloudApp. Компьютер не подключен к Интернету. Подключитесь к Интернету и повторите попытку.";
+"Connection to CloudApp could not be established. Your computer is not connected to the Internet. Please connect your computer to the Internet and retry." = "Не удается подключиться к CloudApp. Компьютер не подключен к Интернету. Подключитесь к Интернету и повторите попытку.";
 
 /* error description (for gmail). */
 "Connection to Gmail could not be established. Either your connection is not available or Gmail is unavailable. Please retry later." = "Не удается подключиться к Gmail. Недоступно подключение к Интернету или серверу Gmail. Попробуйте позже.";
@@ -298,7 +298,7 @@
 "Find Previous" = "Найти ранее";
 
 /* main menu */
-"Find\\U2026" = "Найти\U2026";
+"Find\\U2026" = "Найти…";
 
 /* when folder is not found. title of the dialog box. */
 "Folder not found" = "Папка не найдена";
@@ -354,10 +354,10 @@
 "Importing" = "Импортирую";
 
 /* when importing. %@ is the email that is being imported. */
-"Importing %@\\U2026" = "Импортирую %@\U2026";
+"Importing %@\\U2026" = "Импортирую %@…";
 
 /* import description */
-"Importing data from previous version of Sparrow.\nPlease wait while import is in progress\\U2026" = "Импортирую данные из предыдущей версии Sparrow.\nДождитесь завершения процесса\U2026";
+"Importing data from previous version of Sparrow.\nPlease wait while import is in progress\\U2026" = "Импортирую данные из предыдущей версии Sparrow.\nДождитесь завершения процесса…";
 
 /* importing: title of the window */
 "Importing Mails" = "Импортирую сообщения";
@@ -416,7 +416,7 @@
 "License added" = "Лицензия добавлена";
 
 /* main menu */
-"License\\U2026" = "Лицензия\U2026";
+"License\\U2026" = "Лицензия…";
 
 /* main menu */
 "Ligature" = "Лигатура";
@@ -535,7 +535,7 @@
 "Open Message" = "Открыть сообщение";
 
 /* main menu */
-"Page Setup\\U2026" = "Параметны страницы\U2026";
+"Page Setup\\U2026" = "Параметны страницы…";
 
 /* main menu */
 "Paragraph" = "Абзац";
@@ -569,10 +569,10 @@
 "Preferences" = "Настройки";
 
 /* main menu */
-"Preferences\\U2026" = "Настройки\U2026";
+"Preferences\\U2026" = "Настройки…";
 
 /* main menu */
-"Print\\U2026" = "Печать\U2026";
+"Print\\U2026" = "Печать…";
 
 /* inbox selection bar: Priority Inbox */
 "Priority Inbox" = "Важные и непрочитанные";
@@ -644,7 +644,7 @@
 "Save Attachment" = "Сохранить прикрепленный файл";
 
 /* conversation list: menu item */
-"Save Attachment As\\U2026" = "Сохранить прикрепленный файл как\U2026";
+"Save Attachment As\\U2026" = "Сохранить прикрепленный файл как…";
 
 /* main menu */
 "Save Draft" = "Сохранить черновик";
@@ -675,7 +675,7 @@
 "Select Next Account" = "Выбрать следующую учетную запись";
 
 /* main menu */
-"Select Previous Accunt" = "Выбрать предыдущую учетную запись";
+"Select Previous Account" = "Выбрать предыдущую учетную запись";
 
 /* main menu */
 "Selection" = "Выбор";

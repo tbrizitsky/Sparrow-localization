@@ -27,7 +27,7 @@
 /* menu item in address menu */
 "Add to Address Book" = "Добавить в Адресную книгу";
 
-/* When an attachment could not be downloaded. %@ is the filename. description of the dialog box. */
+/* When an attachment could not be downloaded. %@ is the subject. description of the dialog box. */
 "Attachments of the message \"%@\" could not be downloaded. Please retry later." = "Не удалось загрузить прикрепленные файлы из сообщения «%@». Попробуйте позже.";
 
 /* When an attachment with no name could not be downloaded. description of the dialog box. */
@@ -95,7 +95,7 @@
 "invalid address" = "неверный адрес";
 
 /* Shown in the conversation view, placeholder for the message contents when loading is in progress. */
-"Loading\\U2026" = "Загрузка\U2026";
+"Loading\\U2026" = "Загрузка…";
 
 /* Warning message when the quick reply is empty. description in dialog box. */
 "Make sure your reply is not empty before sending your email." = "Убедитесь, что вы случайно не отправляете пустой ответ.";
@@ -166,13 +166,13 @@
 
 /* menu item in attachment menu
    menu item in message menu */
-"Save Attachment As\\U2026" = "Сохранить прикрепленный файл как\U2026";
+"Save Attachment As\\U2026" = "Сохранить прикрепленный файл как…";
 
 /* Send button for quickreply */
 "Send" = "Отправить";
 
 /* 'Sending' label in quick reply when the sending is in progress */
-"Sending\\U2026" = "Отправка\U2026";
+"Sending\\U2026" = "Отправка…";
 
 /* 'Sent' label in quick reply when the message has been sent */
 "Sent" = "Отправлено";

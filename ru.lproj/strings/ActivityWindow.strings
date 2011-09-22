@@ -11,7 +11,7 @@
 "Check" = "Проверить";
 
 /* connection checker: progress string */
-"Check in progress\\U2026" = "Идет проверка\U2026";
+"Check in progress\\U2026" = "Идет проверка…";
 
 /* connection checker: title of the window */
 "Connection Checker" = "Проверка соединения";

@@ -12,7 +12,7 @@
 "Add Link" = "Добавить ссылку";
 
 /* menu item in contextual menu */
-"Add Link\\U2026" = "Добавить ссылку\U2026";
+"Add Link\\U2026" = "Добавить ссылку…";
 
 /* composer: error description/question, message has no subject */
 "Are you sure you want to send it?" = "Вы действительно хотите его отправить?";
@@ -107,7 +107,7 @@
 "List" = "Список";
 
 /* Placeholder for the message body when loading of the message is still in progress */
-"Loading\\U2026" = "Загрузка\U2026";
+"Loading\\U2026" = "Загрузка…";
 
 /* Action description for undo menu item. */
 "Make Plain Text" = "Конвертировать в простой текст";

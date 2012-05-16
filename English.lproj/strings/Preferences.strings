@@ -22,6 +22,9 @@
 /* general prefs */
 "(Will be active at next restart)" = "(Will be active at next restart)";
 
+/* link to appstore. */
+"<a href=\"http://www.sprw.me/iphone-appstore.php?tracking=mac2iphone\">Get it!</a>" = "<a href=\"http://www.sprw.me/iphone-appstore.php?tracking=mac2iphone\">Get it!</a>";
+
 /* Account (lite mode) section in preferences */
 "Account" = "Account";
 
@@ -36,10 +39,10 @@
 "Add Account" = "Add Account";
 
 /* Add folder at the same level menu item. %@ is the name of the folder. */
-"Add folder at the same level as \"%@\"\\U2026" = "Add folder at the same level as \"%@\"\U2026";
+"Add folder at the same level as \"%@\"\\U2026" = "Add folder at the same level as \"%@\"…";
 
 /* Add folder below menu item. %@ is the name of the folder. */
-"Add folder below \"%@\"\\U2026" = "Add folder below \"%@\"\U2026";
+"Add folder below \"%@\"\\U2026" = "Add folder below \"%@\"…";
 
 /* folders prefs: tab item
    prefs tab items */
@@ -81,6 +84,21 @@
 /* cloudapp prefs: logged in */
 "Attach files with CloudApp" = "Attach files with CloudApp";
 
+/* dropbox prefs: logged in */
+"Attach files with Dropbox" = "Attach files with Dropbox";
+
+/* imap assistant, placeholder for port */
+"Auto" = "Auto";
+
+/* smtp assistant */
+"Auto tries port 465, 587 and 25" = "Auto tries port 465, 587 and 25";
+
+/* imap assistant */
+"Auto tries port 993, then 143" = "Auto tries port 993, then 143";
+
+/* imap assistant */
+"Auto tries port 995, then 110" = "Auto tries port 995, then 110";
+
 /* license window: buy button */
 "Buy License" = "Buy License";
 
@@ -93,6 +111,7 @@
 /* account deletion confirmation. Cancel button
    account edition
    alias prefs: cancel button
+   cloudapp prefs: login
    confirm alias deletion. Cancel button
    imap assistant: Cancel button.
    imap prefix: cancel button
@@ -117,10 +136,15 @@
 "Cannot rename label to \"%@\"" = "Cannot rename label to \"%@\"";
 
 /* prefs > organize > advanced, in imap prefix popup */
-"Choose IMAP Prefix\\U2026" = "Choose IMAP Prefix\U2026";
+"Choose IMAP Prefix\\U2026" = "Choose IMAP Prefix…";
 
-/* prefs tab items */
-"CloudApp" = "CloudApp";
+/* alias smtp choice assistant */
+"Choose your SMTP setting for this alias." = "Choose your SMTP setting for this alias.";
+
+/* assistant, basic view, bottom button
+   imap assistant, button
+   smtp assistant, bottom button */
+"Close" = "Close";
 
 /* labels prefs: column name */
 "Color" = "Color";
@@ -144,11 +168,18 @@
 /* advanced prefs */
 "Conversation View:" = "Conversation View:";
 
-/* email/password assistant. Create button. */
+/* Could not connect to Dropbox. */
+"Could not connect" = "Could not connect";
+
+/* assistant, basic view, bottom button
+   email/password assistant. Create button. */
 "Create" = "Create";
 
 /* title of assistant window */
 "Custom SMTP for Alias" = "Custom SMTP for Alias";
+
+/* assistant, basic view, bottom button */
+"Custom\\U2026" = "Custom…";
 
 /* column name for alias preferences */
 "Default" = "Default";
@@ -157,6 +188,12 @@
    confirm alias deletion. Delete button
    when removing a folder from preferences: Delete button */
 "Delete" = "Delete";
+
+/* account edition, pop setting */
+"Delete from server after 1 month" = "Delete from server after 1 month";
+
+/* account edition, pop setting */
+"Delete from server after 7 days" = "Delete from server after 7 days";
 
 /* advanced prefs */
 "Delete key moves to trash" = "Delete key moves to trash";
@@ -184,6 +221,7 @@
    alias prefs: done button
    facebook assistant. Done button
    imap prefix: done button
+   iphone app assistant
    SMTP alias activation. Done button */
 "Done" = "Done";
 
@@ -202,6 +240,8 @@
 "Email" = "Email";
 
 /* account edition
+   alias prefs: label for email
+   assistant, basic view
    cloudapp prefs: login */
 "Email:" = "Email:";
 
@@ -211,8 +251,17 @@
 /* advanced prefs */
 "Enable send and archive" = "Enable send and archive";
 
+/* assistant, basic view */
+"Enter your email address and your password" = "Enter your email address and your password";
+
 /* prefs tab items */
 "Facebook" = "Facebook";
+
+/* imap assistant */
+"Fill in your receiving server information" = "Fill in your receiving server information";
+
+/* smtp assistant */
+"Fill in your sending server information" = "Fill in your sending server information";
 
 /* folders prefs: column name
    folders prefs: tab item */
@@ -221,7 +270,7 @@
 /* label in front of popup button (generic imap) */
 "Folders for:" = "Folders for:";
 
-/* Forgot your password */
+/* cloudapp preferences: Forgot your password link */
 "Forgot your password" = "Forgot your password";
 
 /* prefs tab items */
@@ -229,6 +278,12 @@
 
 /* Get a pro account on the CloudApp Store */
 "Get a pro account on the CloudApp Store" = "Get a pro account on the CloudApp Store";
+
+/* Get more space Dropbox */
+"Get more space" = "Get more space";
+
+/* iphone app assistant */
+"Got an iPhone or iPod touch?" = "Got an iPhone or iPod touch?";
 
 /* advanced prefs */
 "Hide message preview" = "Hide message preview";
@@ -242,18 +297,24 @@
 /* text for facebook post to wall. */
 "I have just downloaded Sparrow Mail for Mac." = "I have just downloaded Sparrow Mail for Mac.";
 
+/* imap assistant, account type */
+"IMAP" = "IMAP";
+
 /* folders prefs: imap prefix */
 "IMAP Prefix" = "IMAP Prefix";
 
 /* account edition
-   alias prefs: placeholder for name */
+   alias prefs: placeholder for name
+   assistant, basic view, placeholder for name */
 "John Doe" = "John Doe";
 
 /* alias prefs: placeholder for email */
 "john.doe@etpan.org" = "john.doe@etpan.org";
 
 /* account edition
-   cloudapp prefs: login */
+   assistant, basic view, placeholder for email
+   cloudapp prefs: login
+   imap assistant, placeholder for login */
 "john.doe@sparrowmailapp.com" = "john.doe@sparrowmailapp.com";
 
 /* advanced prefs */
@@ -273,8 +334,15 @@
 /* license: title of the window */
 "License" = "License";
 
+/* imap assistant
+   smtp assistant */
+"Login:" = "Login:";
+
 /* button label */
 "Make Default" = "Make Default";
+
+/* iphone app assistant */
+"Make sparrow the default e-mail reader" = "Make sparrow the default e-mail reader";
 
 /* general prefs */
 "Make Sparrow the default mail reader" = "Make Sparrow the default mail reader";
@@ -282,8 +350,11 @@
 /* advanced prefs */
 "Message List:" = "Message List:";
 
+/* account edition */
+"Messages:" = "Messages:";
+
 /* button label for custom smtp */
-"More\\U2026" = "More\U2026";
+"More\\U2026" = "More…";
 
 /* column name for alias preferences */
 "Name" = "Name";
@@ -291,6 +362,9 @@
 /* account edition
    alias prefs: label for name */
 "Name:" = "Name:";
+
+/* account edition, pop setting */
+"Never delete from server" = "Never delete from server";
 
 /* default folder name when creating a folder. */
 "New Folder" = "New Folder";
@@ -302,8 +376,10 @@
 "newlabel" = "newlabel";
 
 /* go next assistant step
+   imap assistant, button
    imap assistant. Next button.
    SMTP alias activation. Next button
+   smtp assistant, bottom button
    smtp assistant. Next button. */
 "Next" = "Next";
 
@@ -329,6 +405,9 @@
 /* general prefs */
 "Only in Menu Bar" = "Only in Menu Bar";
 
+/* advanced prefs */
+"Open link in background" = "Open link in background";
+
 /* error description. */
 "Open Preferences > Facebook if you want to connect again." = "Open Preferences > Facebook if you want to connect again.";
 
@@ -336,10 +415,13 @@
 "Organize" = "Organize";
 
 /* general prefs, save attachments to */
-"Other\\U2026" = "Other\U2026";
+"Other\\U2026" = "Other…";
 
 /* account edition
-   cloudapp prefs: login */
+   assistant, basic view
+   cloudapp prefs: login
+   imap assistant
+   smtp assistant */
 "Password:" = "Password:";
 
 /* explain facebook new facebook profile picture
@@ -349,14 +431,31 @@
 /* account edition */
 "Photo:" = "Photo:";
 
+/* dropbox prefs: choose service */
+"Pick your cloud attachment service" = "Pick your cloud attachment service";
+
 /* general prefs */
 "Play sound when receiving/sending mail" = "Play sound when receiving/sending mail";
 
 /* cloudapp prefs: logged in */
 "Play sound when upload is finished" = "Play sound when upload is finished";
 
+/* imap assistant, account type */
+"POP" = "POP";
+
+/* imap assistant
+   smtp assistant */
+"Port:" = "Port:";
+
+/* preferences: title of the window */
+"Preferences" = "Preferences";
+
 /* imap prefix: done button */
 "Prefix:" = "Prefix:";
+
+/* imap assistant, button
+   smtp assistant, bottom button */
+"Previous" = "Previous";
 
 /* account edition */
 "Receiving Server:" = "Receiving Server:";
@@ -368,10 +467,12 @@
 "Remove" = "Remove";
 
 /* Removing account in progress. %@ is the email address. */
-"Removing %@\\U2026" = "Removing %@\U2026";
+"Removing %@\\U2026" = "Removing %@…";
 
 /* account edition
-   cloudapp prefs: login */
+   assistant, basic view, placeholder for password
+   cloudapp prefs: login
+   imap assistant, placeholder for password */
 "Required" = "Required";
 
 /* restart needed. Restart Now button */
@@ -380,11 +481,24 @@
 /* general prefs section */
 "Save Attachments to:" = "Save Attachments to:";
 
+/* imap assistant
+   smtp assistant */
+"Secure connection" = "Secure connection";
+
 /* account edition */
 "Sending Server:" = "Sending Server:";
 
 /* folders prefs: folder mapping */
 "Sent Folder" = "Sent Folder";
+
+/* imap assistant */
+"Server Type:" = "Server Type:";
+
+/* imap assistant */
+"Server:" = "Server:";
+
+/* prefs tab items */
+"Services" = "Services";
 
 /* folders prefs: column name
    labels prefs: column name */
@@ -395,6 +509,9 @@
 
 /* advanced prefs */
 "Show older messages first" = "Show older messages first";
+
+/* advanced prefs */
+"Show remote images" = "Show remote images";
 
 /* advanced prefs */
 "Show Unified Inbox" = "Show Unified Inbox";
@@ -408,8 +525,14 @@
 /* email/password assistant. Skip Checks button */
 "Skip Checks" = "Skip Checks";
 
+/* folders prefs: folder mapping */
+"Spam Folder" = "Spam Folder";
+
 /* error title. */
 "Sparrow has been disconnected from Facebook." = "Sparrow has been disconnected from Facebook.";
+
+/* iphone app assistant */
+"Sparrow is also available on iPhone and iPod Touch." = "Sparrow is also available on iPhone and iPod Touch.";
 
 /* upgrade window: text contents of window */
 "Sparrow Lite is ad-supported.\nBuy the full version to remove ads\nand benefit of all the features." = "Sparrow Lite is ad-supported.\nBuy the full version to remove ads\nand benefit of all the features.";
@@ -418,10 +541,13 @@
 "Sparrow now integrates Facebook's profile pictures" = "Sparrow now integrates Facebook's profile pictures";
 
 /* cloudapp prefs: login */
-"Start sharing files right now. Already have an account? Sign in." = "Start sharing files right now. Already have an account? Sign in.";
+"Start sharing files right now. Already have an account? Sign in:" = "Start sharing files right now. Already have an account? Sign in:";
 
 /* general prefs */
 "Start Sparrow at Login" = "Start Sparrow at Login";
+
+/* iphone app assistant */
+"Subscribe to the newsletter" = "Subscribe to the newsletter";
 
 /* advanced prefs */
 "Sync Behavior:" = "Sync Behavior:";
@@ -481,17 +607,35 @@
 /* upgrade window: title of the window (lite version) */
 "Upgrade" = "Upgrade";
 
+/* alias smtp choice assistant */
+"Use a custom SMTP for this alias" = "Use a custom SMTP for this alias";
+
+/* smtp assistant */
+"Use Authentication" = "Use Authentication";
+
 /* advanced prefs */
 "Use Gmail shortcuts" = "Use Gmail shortcuts";
 
 /* general prefs */
 "Use Growl notifications" = "Use Growl notifications";
 
+/* alias smtp choice assistant */
+"Use main SMTP of this account" = "Use main SMTP of this account";
+
 /* facebook wall: view button */
 "View" = "View";
 
 /* title of assistant window */
 "Welcome to Sparrow" = "Welcome to Sparrow";
+
+/* cloudapp prefs: when connected. %@ is the email/login for CloudApp */
+"You are connected to CloudApp as %@" = "You are connected to CloudApp as %@";
+
+/* dropbox prefs: when connected. When the email has not been fetched yet */
+"You are connected to Dropbox" = "You are connected to Dropbox";
+
+/* dropbox prefs: when connected. %@ is the email/login for Dropbox */
+"You are connected to Dropbox as %@" = "You are connected to Dropbox as %@";
 
 /* tell user he is now connected to facebook */
 "You have enabled Facebook profile pictures with Sparrow." = "You have enabled Facebook profile pictures with Sparrow.";
@@ -505,6 +649,9 @@
 
 /* IMAP assistant: when no hostname has been entered. */
 "Your IMAP server name has not been entered. Please enter the name of the server." = "Your IMAP server name has not been entered. Please enter the name of the server.";
+
+/* assistant, basic view */
+"Your Name:" = "Your Name:";
 
 /* password not entered for receiving server. */
 "Your password for the receiving server has not been entered. Please enter the password." = "Your password for the receiving server has not been entered. Please enter the password.";

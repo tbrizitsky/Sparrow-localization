@@ -1,5 +1,5 @@
 /* When an error while uploading attachment occurred. %@ is the error message description. */
-"%@. The attachment has been converted to standard email attachment." = "%@. The attachment has been converted to standard email attachment.";
+"%@ The attachment has been converted to standard email attachment." = "%@ The attachment has been converted to standard email attachment.";
 
 /* title of composer when subject has not been entered */
 "(No subject)" = "(No subject)";
@@ -12,7 +12,7 @@
 "Add Link" = "Add Link";
 
 /* menu item in contextual menu */
-"Add Link\\U2026" = "Add Link\U2026";
+"Add Link\\U2026" = "Add Link…";
 
 /* composer: error description/question, message has no subject */
 "Are you sure you want to send it?" = "Are you sure you want to send it?";
@@ -107,7 +107,7 @@
 "List" = "List";
 
 /* Placeholder for the message body when loading of the message is still in progress */
-"Loading\\U2026" = "Loading\U2026";
+"Loading\\U2026" = "Loading…";
 
 /* Action description for undo menu item. */
 "Make Plain Text" = "Make Plain Text";
@@ -157,13 +157,13 @@
 "Send" = "Send";
 
 /* composer: top bar button in case of reply and send and archive is enabled */
-"Send And Archive" = "Send And Archive";
+"Send and Archive" = "Send and Archive";
 
 /* composer: error description/question, message has no subject, send anyway button */
 "Send anyway" = "Send anyway";
 
-/* Default signature for account. HTML format. */
-"Sent with <a href=\"http://www.sparrowmailapp.com/?sig\">Sparrow</a>" = "Sent with <a href=\"http://www.sparrowmailapp.com/?sig\">Sparrow</a>";
+/* Default signature for account. HTML format. %@ is the signature identifier */
+"Sent with <a href=\"http://www.sparrowmailapp.com/?%@\">Sparrow</a>" = "Sent with <a href=\"http://www.sparrowmailapp.com/?%@\">Sparrow</a>";
 
 /* Default signature, text version. */
 "Sent with Sparrow" = "Sent with Sparrow";
@@ -209,6 +209,9 @@
 
 /* composer: error title, when address is not valid. %@ is the invalid address. */
 "The following address is not valid: \"%@\"" = "The following address is not valid: \"%@\"";
+
+/* when setting a link, error message when the URL is empty */
+"The URL is empty" = "The URL is empty";
 
 /* when setting a link, error message when the typed URL is not valid */
 "The URL is not valid" = "The URL is not valid";

@@ -4,6 +4,9 @@
 /* placeholder for the conversation view when several conversations have been selected. %u is the number of selected conversations. */
 "%u conversations selected" = "%u conversations selected";
 
+/* x days ago, used in message cell */
+"%u days" = "%u days";
+
 /* when printing: below the subject, singular form, %u is the number of messages */
 "%u message" = "%u message";
 
@@ -14,6 +17,9 @@
    text at top of the conversation view
    when the message has no subject, placeholder for subject */
 "(no subject)" = "(no subject)";
+
+/* 1 week ago, used in message cell */
+"1 week" = "1 week";
 
 /* HTML notification text in conversation view. XXX-DON-T-LOCALIZE-SENDER is the name of the senders of the new messages. */
 "<span id=\"notificationButton\">New Message</span> from <span id=\"notificationBarSender\">XXX-DON-T-LOCALIZE-SENDER</span>" = "<span id=\"notificationButton\">New Message</span> from <span id=\"notificationBarSender\">XXX-DON-T-LOCALIZE-SENDER</span>";
@@ -27,7 +33,7 @@
 /* menu item in address menu */
 "Add to Address Book" = "Add to Address Book";
 
-/* When an attachment could not be downloaded. %@ is the filename. description of the dialog box. */
+/* When an attachment could not be downloaded. %@ is the subject. description of the dialog box. */
 "Attachments of the message \"%@\" could not be downloaded. Please retry later." = "Attachments of the message \"%@\" could not be downloaded. Please retry later.";
 
 /* When an attachment with no name could not be downloaded. description of the dialog box. */
@@ -88,6 +94,12 @@
 /* In conversation view, when quoted message is hidden, user will click on it to hide the quoted text. */
 "Hide quoted message" = "Hide quoted message";
 
+/* when remote images have not been loaded */
+"Images below are not displayed. <span id=\"remoteImagesOnceButton\">Display</span>." = "Images below are not displayed. <span id=\"remoteImagesOnceButton\">Display</span>.";
+
+/* when remote images have not been loaded */
+"Images below are not displayed. Display <span id=\"remoteImagesOnceButton\">once</span> or <span id=\"remoteImagesAlwaysButton\">always</span>." = "Images below are not displayed. Display <span id=\"remoteImagesOnceButton\">once</span> or <span id=\"remoteImagesAlwaysButton\">always</span>.";
+
 /* Important menu item for priority inbox. */
 "Important" = "Important";
 
@@ -95,7 +107,7 @@
 "invalid address" = "invalid address";
 
 /* Shown in the conversation view, placeholder for the message contents when loading is in progress. */
-"Loading\\U2026" = "Loading\U2026";
+"Loading\\U2026" = "Loading…";
 
 /* Warning message when the quick reply is empty. description in dialog box. */
 "Make sure your reply is not empty before sending your email." = "Make sure your reply is not empty before sending your email.";
@@ -166,19 +178,22 @@
 
 /* menu item in attachment menu
    menu item in message menu */
-"Save Attachment As\\U2026" = "Save Attachment As\U2026";
+"Save Attachment As\\U2026" = "Save Attachment As…";
 
 /* Send button for quickreply */
 "Send" = "Send";
 
 /* 'Sending' label in quick reply when the sending is in progress */
-"Sending\\U2026" = "Sending\U2026";
+"Sending\\U2026" = "Sending…";
 
 /* 'Sent' label in quick reply when the message has been sent */
 "Sent" = "Sent";
 
 /* In conversation view, when quoted message is hidden, user will click on it to show the quoted text. */
 "Show quoted message" = "Show quoted message";
+
+/* title of source message window */
+"Source" = "Source";
 
 /* field name for forwarded messages in the composer
    field name for message as attachment in conversation view

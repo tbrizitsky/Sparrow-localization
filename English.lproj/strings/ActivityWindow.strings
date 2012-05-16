@@ -11,7 +11,7 @@
 "Check" = "Check";
 
 /* connection checker: progress string */
-"Check in progress\\U2026" = "Check in progress\U2026";
+"Check in progress\\U2026" = "Check in progress…";
 
 /* connection checker: title of the window */
 "Connection Checker" = "Connection Checker";
